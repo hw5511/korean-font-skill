@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// fontkit - find free Korean/Latin fonts, pull their webfont CSS, and render samples.
+// fontkit (korean-font-skill) - find free Korean/Latin fonts, pull their webfont CSS, and render samples.
 //
 //   fontkit search <name>                 search the bundled font list (web-researched)
 //   fontkit locate <name>                 check Google Fonts, noonnu and Sandoll Cloud for the font
@@ -14,7 +14,7 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA = path.join(__dirname, '..', 'data');
-const UA = 'Mozilla/5.0 (compatible; fontkit/0.1; +https://github.com/)';
+const UA = 'Mozilla/5.0 (compatible; korean-font-skill/0.1; +https://github.com/)';
 const PAUSE_MS = 2000;
 const TIMEOUT_MS = 40000;
 

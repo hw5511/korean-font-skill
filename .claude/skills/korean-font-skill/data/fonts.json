@@ -1,0 +1,5423 @@
+{
+ "about": "Free fonts found by web search on their official distribution pages. Each entry names the official page it came from. Pilot list (730 fonts); the full list is being researched.",
+ "fonts": [
+  {
+   "name": "광복 이은숙",
+   "maker": "광복80주년 추진위원회·이회영기념관",
+   "official_url": "https://www.sandollcloud.com/free-font/22446/Gwangbok-LeeEunSuk",
+   "license": "custom free-commercial (개작·재판매 금지)",
+   "sandoll_id": 22446
+  },
+  {
+   "name": "갈무리14",
+   "maker": "Quiple",
+   "official_url": "https://github.com/Quiple/Galmuri",
+   "license": "OFL",
+   "webfont_css_url": "https://cdn.jsdelivr.net/npm/galmuri/dist/galmuri.css"
+  },
+  {
+   "name": "학교안심 콧수염",
+   "maker": "교육부·시도교육청·KERIS",
+   "official_url": "https://www.sandollcloud.com/free-font/19765/Hakgyoansim-Kossuyeom",
+   "license": "OFL",
+   "sandoll_id": 19765
+  },
+  {
+   "name": "LINE Seed",
+   "maker": "LINE",
+   "official_url": "https://github.com/line/seed",
+   "license": "OFL"
+  },
+  {
+   "name": "빙그레체II",
+   "maker": "빙그레",
+   "official_url": "http://www.bing.co.kr/story/contribute_font",
+   "license": "custom free-commercial"
+  },
+  {
+   "name": "카페24 동동",
+   "maker": "Cafe24",
+   "official_url": "https://fonts.cafe24.com",
+   "license": "unknown"
+  },
+  {
+   "name": "밑미 폰트",
+   "maker": "VoyagerX x meet me",
+   "official_url": "https://www.nicetomeetme.kr/",
+   "license": "unknown"
+  },
+  {
+   "name": "런드리고딕",
+   "maker": "(주)의식주컴퍼니",
+   "official_url": "https://www.laundrygo.com",
+   "license": "unknown"
+  },
+  {
+   "name": "가평 한석봉 큰붓",
+   "maker": "가평군",
+   "official_url": "https://www.sandollcloud.com/free-font/19791/Gapyeong-Hanseokbong",
+   "license": "custom free (판매·변형 금지)",
+   "sandoll_id": 19791
+  },
+  {
+   "name": "HS집토끼체",
+   "maker": "토끼네활자공장",
+   "official_url": "https://www.sandollcloud.com/free-font/17689/HSJiptokki",
+   "license": "custom free-commercial",
+   "sandoll_id": 17689
+  },
+  {
+   "name": "카페24 빛나는별",
+   "maker": "Cafe24",
+   "official_url": "https://fonts.cafe24.com",
+   "license": "unknown"
+  },
+  {
+   "name": "티웨이하늘체",
+   "maker": "티웨이항공",
+   "official_url": "https://www.sandollcloud.com/free-font/16268/Tway-fly-TTF",
+   "license": "custom free (판매 금지)",
+   "sandoll_id": 16268
+  },
+  {
+   "name": "학교안심 떡볶이",
+   "maker": "교육부·시도교육청·KERIS",
+   "official_url": "https://www.sandollcloud.com/free-font/22614/Hakgyoansim-Tteokbokki",
+   "license": "OFL",
+   "sandoll_id": 22614
+  },
+  {
+   "name": "창원단감아삭체",
+   "maker": "창원시",
+   "official_url": "https://www.sandollcloud.com/free-font/16950/ChangwonDangamAsac",
+   "license": "custom free-commercial (판매 금지)",
+   "sandoll_id": 16950
+  },
+  {
+   "name": "가비아 눌체",
+   "maker": "가비아",
+   "official_url": "http://company.gabia.com/font",
+   "license": "custom free-commercial"
+  },
+  {
+   "name": "카페24 클래식타입",
+   "maker": "Cafe24",
+   "official_url": "https://www.sandollcloud.com/free-font/17907/Cafe24Classictype",
+   "license": "custom free-commercial",
+   "sandoll_id": 17907
+  },
+  {
+   "name": "KCC임권택체",
+   "maker": "문체부·한국저작권위원회",
+   "official_url": "https://gongu.copyright.or.kr",
+   "license": "OFL"
+  },
+  {
+   "name": "충주김생체",
+   "maker": "충주시",
+   "official_url": "https://www.sandollcloud.com/free-font/19620/x",
+   "license": "custom free-commercial",
+   "sandoll_id": 19620
+  },
+  {
+   "name": "건축조각",
+   "maker": "BSW (boomspace)",
+   "official_url": "https://boomspace.gumroad.com/l/archisculpture_font",
+   "license": "custom free-commercial"
+  },
+  {
+   "name": "이롭게바탕체",
+   "maker": "이롭게(iropke)",
+   "official_url": "http://font.iropke.com/batang/",
+   "license": "open font license (판매·변형 금지)"
+  },
+  {
+   "name": "마포당인리발전소",
+   "maker": "마포구",
+   "official_url": "https://www.sandollcloud.com/free-font/15849/MapoDPP",
+   "license": "custom free-commercial (판매 금지)",
+   "sandoll_id": 15849
+  },
+  {
+   "name": "HS봄바람체",
+   "maker": "토끼네활자공장",
+   "official_url": "https://www.sandollcloud.com/free-font/15769/HSBomBaram-3.0-Vertical",
+   "license": "custom free-commercial",
+   "sandoll_id": 15769
+  },
+  {
+   "name": "남양주 다산체",
+   "maker": "남양주시",
+   "official_url": "https://www.sandollcloud.com/free-font/18308/NamYangJu-DaSan",
+   "license": "custom free (판매·변형 금지)",
+   "sandoll_id": 18308
+  },
+  {
+   "name": "KOHI배움",
+   "maker": "한국보건복지인재원",
+   "official_url": "https://www.sandollcloud.com/free-font/17568/KOHIBaeumOTF",
+   "license": "OFL",
+   "sandoll_id": 17568
+  },
+  {
+   "name": "학교안심 바른바탕",
+   "maker": "교육부·시도교육청·KERIS",
+   "official_url": "https://www.sandollcloud.com/free-font/18151/Hakgyoansim-Bareonbatang",
+   "license": "OFL",
+   "sandoll_id": 18151
+  },
+  {
+   "name": "Google Sans Flex",
+   "maker": "Google",
+   "official_url": "https://fonts.google.com/specimen/Google+Sans+Flex",
+   "license": "OFL",
+   "google_family": "Google Sans Flex"
+  },
+  {
+   "name": "강한공군체",
+   "maker": "대한민국 공군",
+   "official_url": "https://rokaf.airforce.mil.kr",
+   "license": "custom free"
+  },
+  {
+   "name": "Cafe24 Nyangi White",
+   "maker": "Cafe24",
+   "official_url": "https://www.sandollcloud.com/free-font/21104/Cafe24-Nyangi-W",
+   "license": "custom free-commercial",
+   "sandoll_id": 21104
+  },
+  {
+   "name": "영덕블루로드체",
+   "maker": "영덕군",
+   "official_url": "https://www.sandollcloud.com/free-font/18449/Yeongdeok-Blueroad",
+   "license": "custom free (BI/CI 불가)",
+   "sandoll_id": 18449
+  },
+  {
+   "name": "할아버지의나눔",
+   "maker": "NAVER",
+   "official_url": "https://www.sandollcloud.com/free-font/16174/Nanum-HarABeoJiEuiNaNum-TTF",
+   "license": "OFL",
+   "sandoll_id": 16174
+  },
+  {
+   "name": "낙원어린나무체",
+   "maker": "낙원새마을금고",
+   "official_url": "https://www.sandollcloud.com/free-font/21584/Rakwon-Youngtree-Font",
+   "license": "custom free-commercial (수정·재배포 금지)",
+   "sandoll_id": 21584
+  },
+  {
+   "name": "조선로고체",
+   "maker": "조선일보사",
+   "official_url": "https://www.sandollcloud.com/free-font/16246/ChosunLo",
+   "license": "custom free (판매·수정 금지)",
+   "sandoll_id": 16246
+  },
+  {
+   "name": "카페24 동동 Light",
+   "maker": "Cafe24",
+   "official_url": "https://www.sandollcloud.com/free-font/16258/font",
+   "license": "free-commercial: Cafe24 states free for individuals and companies, selling the font itself is prohibited",
+   "sandoll_id": 16258,
+   "checked": "maker site"
+  },
+  {
+   "name": "건축조각 보통",
+   "maker": "BSW (boomspace)",
+   "official_url": "https://boomspace.gumroad.com/l/archisculpture_font",
+   "license": "free-commercial: free for individuals and companies, redistribution allowed (original v1 page)",
+   "checked": "maker site"
+  },
+  {
+   "name": "프리텐다드",
+   "maker": "길형진 (orioncactus)",
+   "official_url": "https://github.com/orioncactus/pretendard",
+   "license": "OFL",
+   "webfont_css_url": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css",
+   "checked": "font page"
+  },
+  {
+   "name": "페이퍼로지",
+   "maker": "이주임 (freesentation)",
+   "official_url": "https://freesentation.blog/paperlogyfont",
+   "license": "unknown",
+   "checked": "maker site"
+  },
+  {
+   "name": "에스코어드림",
+   "maker": "S-Core",
+   "official_url": "https://www.s-core.co.kr/company/font",
+   "license": "free-commercial: free for everyone, redistribution allowed, modification and sale of the font prohibited",
+   "sandoll_id": 778,
+   "checked": "font page"
+  },
+  {
+   "name": "본고딕 (Noto Sans)",
+   "maker": "Google / Adobe",
+   "official_url": "https://fonts.google.com/noto/specimen/Noto+Sans+KR",
+   "license": "OFL",
+   "google_family": "Noto Sans KR",
+   "checked": "font page"
+  },
+  {
+   "name": "수트",
+   "maker": "Sun (sun-typeface)",
+   "official_url": "https://github.com/sun-typeface/SUIT",
+   "license": "OFL",
+   "webfont_css_url": "https://cdn.jsdelivr.net/gh/sun-typeface/SUIT@2/fonts/static/woff2/SUIT.css",
+   "checked": "font page"
+  },
+  {
+   "name": "온글잎 박다현체",
+   "maker": "보이저엑스 (VoyagerX, Ownglyph)",
+   "official_url": "https://www.sandollcloud.com/free-font/21594/font",
+   "license": "free-commercial: usable for print, web, packaging, video, embedding, BI/CI; promotional use of output images by 온글잎 allowed",
+   "sandoll_id": 21594,
+   "checked": "font page"
+  },
+  {
+   "name": "나눔스퀘어",
+   "maker": "Naver",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "KoPub돋움",
+   "maker": "한국출판인회의 / 문화체육관광부",
+   "official_url": "https://www.sandollcloud.com/free-font/15810/font",
+   "license": "free-commercial: free for everyone after registration, modification and resale prohibited",
+   "sandoll_id": 15810,
+   "checked": "maker site"
+  },
+  {
+   "name": "프리젠테이션",
+   "maker": "이주임 (freesentation)",
+   "official_url": "https://www.sandollcloud.com/free-font/20485/font",
+   "license": "unknown",
+   "sandoll_id": 20485,
+   "checked": "maker site"
+  },
+  {
+   "name": "제주돌담체",
+   "maker": "Early Font (제주)",
+   "official_url": "https://www.sandollcloud.com/free-font/18330/font",
+   "license": "free-commercial: print, web, packaging, video, BI/CI allowed, selling the font file prohibited",
+   "sandoll_id": 18330,
+   "checked": "maker site"
+  },
+  {
+   "name": "카페24 써라운드",
+   "maker": "Cafe24",
+   "official_url": "https://www.sandollcloud.com/free-font/16262/font",
+   "license": "free-commercial: free for individuals and companies, selling the font itself prohibited",
+   "sandoll_id": 16262,
+   "checked": "maker site"
+  },
+  {
+   "name": "조선궁서체",
+   "maker": "조선일보",
+   "official_url": "https://www.sandollcloud.com/free-font/16242/font",
+   "license": "free-commercial: free for individuals and companies, redistribution allowed, charging for it or selling modified versions prohibited",
+   "sandoll_id": 16242,
+   "checked": "maker site"
+  },
+  {
+   "name": "나눔고딕",
+   "maker": "Naver",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "OFL",
+   "google_family": "Nanum Gothic",
+   "checked": "maker site"
+  },
+  {
+   "name": "교보문고 손글씨 2025 이유빈",
+   "maker": "교보문고 (윤디자인 production)",
+   "official_url": "https://store.kyobobook.co.kr/handwriting/font/",
+   "license": "free-commercial: free for individuals and companies, usable in print, web, mobile, ads, video",
+   "sandoll_id": 23212,
+   "checked": "font page"
+  },
+  {
+   "name": "나눔스퀘어 네오",
+   "maker": "Naver",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "마루 부리",
+   "maker": "Naver",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "나눔명조",
+   "maker": "Naver",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "OFL",
+   "google_family": "Nanum Myeongjo",
+   "checked": "maker site"
+  },
+  {
+   "name": "에이투지체",
+   "maker": "이주임 (freesentation)",
+   "official_url": "https://freesentation.blog/a2z",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "주아체",
+   "maker": "우아한형제들",
+   "official_url": "https://fonts.google.com/specimen/Jua",
+   "license": "OFL",
+   "google_family": "Jua",
+   "checked": "font page"
+  },
+  {
+   "name": "KoPub바탕",
+   "maker": "한국출판인회의 / 문화체육관광부",
+   "official_url": "https://www.sandollcloud.com/free-font/15811/font",
+   "license": "free-commercial: free for everyone after registration, modification and resale prohibited",
+   "sandoll_id": 15811,
+   "checked": "maker site"
+  },
+  {
+   "name": "이서윤체",
+   "maker": "흥국생명 (digital handwriting contest 2021)",
+   "official_url": "https://www.heungkuklife.co.kr/jsps/front/company/ci/digit-hand-font-info.jsp",
+   "license": "unknown",
+   "checked": "maker site"
+  },
+  {
+   "name": "평창평화체",
+   "maker": "평창군 / 평창올림픽조직위",
+   "official_url": "https://www.sandollcloud.com/free-font/17642/font",
+   "license": "unknown",
+   "sandoll_id": 17642,
+   "checked": "maker site"
+  },
+  {
+   "name": "빛의계승자체",
+   "maker": "펀플로 / 산돌",
+   "official_url": "https://www.sandollcloud.com/free-font/274/font",
+   "license": "free-commercial: free for individuals and companies, commercial use allowed",
+   "sandoll_id": 274,
+   "checked": "maker site"
+  },
+  {
+   "name": "강원교육모두체",
+   "maker": "강원도교육청",
+   "official_url": "https://www.sandollcloud.com/free-font/17583/font",
+   "license": "free-commercial: free for everyone, selling or transferring the font prohibited",
+   "sandoll_id": 17583,
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 둥근미소",
+   "maker": "교육부·시도교육청·KERIS",
+   "official_url": "https://www.sandollcloud.com/free-font/21056/font",
+   "license": "OFL",
+   "sandoll_id": 21056,
+   "checked": "font page"
+  },
+  {
+   "name": "쿠키런",
+   "maker": "데브시스터즈",
+   "official_url": "https://www.sandollcloud.com/free-font/17911/font",
+   "license": "free with limits: 게임산업군(PC/모바일) 사용 금지(2020-11 이후), 임의 수정 금지, 딩벳 10자 상업 사용 금지",
+   "sandoll_id": 17911,
+   "checked": "font page"
+  },
+  {
+   "name": "도현체",
+   "maker": "우아한형제들 (Do Hyeon)",
+   "official_url": "https://fonts.google.com/specimen/Do+Hyeon",
+   "license": "OFL",
+   "google_family": "Do Hyeon",
+   "checked": "font page"
+  },
+  {
+   "name": "본명조 (Source Han Serif)",
+   "maker": "Adobe / Google (Noto Serif CJK)",
+   "official_url": "https://github.com/adobe-fonts/source-han-serif",
+   "license": "OFL",
+   "google_family": "Noto Serif KR",
+   "checked": "font page"
+  },
+  {
+   "name": "원스토어 모바일POP체",
+   "maker": "원스토어",
+   "official_url": "https://www.sandollcloud.com/free-font/16954/font",
+   "license": "free-commercial (유료 판매·수정 재배포 금지)",
+   "sandoll_id": 16954,
+   "checked": "font page"
+  },
+  {
+   "name": "넥슨 메이플스토리",
+   "maker": "넥슨코리아",
+   "official_url": "https://www.sandollcloud.com/free-font/16195/font",
+   "license": "free-commercial (수정 재배포·유료 판매 금지)",
+   "sandoll_id": 16195,
+   "checked": "maker site"
+  },
+  {
+   "name": "온글잎 콘콘체",
+   "maker": "VoyagerX(온글잎)",
+   "official_url": "https://www.sandollcloud.com/free-font/21592/font",
+   "license": "OFL",
+   "sandoll_id": 21592,
+   "checked": "font page"
+  },
+  {
+   "name": "고운바탕",
+   "maker": "류양희 (Gowun Batang)",
+   "official_url": "https://fonts.google.com/specimen/Gowun+Batang",
+   "license": "OFL",
+   "google_family": "Gowun Batang",
+   "checked": "font page"
+  },
+  {
+   "name": "나눔스퀘어라운드",
+   "maker": "네이버",
+   "official_url": "http://hangeul.naver.com/2017/nanum",
+   "license": "OFL",
+   "sandoll_id": 278,
+   "checked": "font page"
+  },
+  {
+   "name": "나눔바른고딕",
+   "maker": "네이버",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL",
+   "sandoll_id": 206,
+   "checked": "maker site"
+  },
+  {
+   "name": "리디바탕",
+   "maker": "리디",
+   "official_url": "https://www.sandollcloud.com/free-font/857/font",
+   "license": "OFL",
+   "sandoll_id": 857,
+   "checked": "font page"
+  },
+  {
+   "name": "강원교육튼튼체",
+   "maker": "강원특별자치도교육청 (헤움디자인)",
+   "official_url": "https://www.sandollcloud.com/free-font/17585/font",
+   "license": "free-commercial (유료 양도·판매 금지)",
+   "sandoll_id": 17585,
+   "checked": "font page"
+  },
+  {
+   "name": "신라문화체",
+   "maker": "경주시",
+   "official_url": "https://www.sandollcloud.com/free-font/17624/font",
+   "license": "free with limits: 무료 사용, 변형·배포·판매 금지",
+   "sandoll_id": 17624,
+   "checked": "font page"
+  },
+  {
+   "name": "교보손글씨 2019",
+   "maker": "교보문고",
+   "official_url": "https://www.sandollcloud.com/free-font/20759/font",
+   "license": "free with limits: 상업 사용 가능, 수정·재배포·재판매 금지",
+   "sandoll_id": 20759,
+   "checked": "font page"
+  },
+  {
+   "name": "Wanted Sans",
+   "maker": "Wanted Lab",
+   "official_url": "https://github.com/wanteddev/wanted-sans",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "LXGW 문해 모노",
+   "maker": "LXGW (Klee One 기반)",
+   "official_url": "https://github.com/lxgw/LxgwWenKai",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "경기천년제목",
+   "maker": "경기도",
+   "official_url": "https://www.sandollcloud.com/free-font/16053/font",
+   "license": "free with limits: 상업 사용 가능, 폰트 유료 판매 금지",
+   "sandoll_id": 16053,
+   "checked": "font page"
+  },
+  {
+   "name": "송암 이형식체",
+   "maker": "이경환(산돌 표기)",
+   "official_url": "https://www.sandollcloud.com/free-font/23299/font",
+   "license": "OFL",
+   "sandoll_id": 23299,
+   "checked": "font page"
+  },
+  {
+   "name": "을유1945",
+   "maker": "을유문화사",
+   "official_url": "https://www.sandollcloud.com/free-font/16639/font",
+   "license": "free-commercial (세부 조항 미확인)",
+   "sandoll_id": 16639,
+   "checked": "font page"
+  },
+  {
+   "name": "갈무리9",
+   "maker": "Quiple (Galmuri)",
+   "official_url": "https://github.com/Quiple/Galmuri",
+   "license": "OFL",
+   "webfont_css_url": "https://cdn.jsdelivr.net/npm/galmuri/dist/galmuri.css",
+   "checked": "font page"
+  },
+  {
+   "name": "스위트",
+   "maker": "SUNN (SUITE)",
+   "official_url": "https://github.com/sunn-us/SUITE",
+   "license": "OFL",
+   "sandoll_id": 18283,
+   "checked": "font page"
+  },
+  {
+   "name": "Kopub World 돋움",
+   "maker": "한국출판문화산업진흥원 / 문체부·대한출판문화협회",
+   "official_url": "https://www.sandollcloud.com/free-font/15810/font",
+   "license": "free with limits: 상업 사용 가능, 수정·유료 판매 금지",
+   "sandoll_id": 15810,
+   "checked": "font page"
+  },
+  {
+   "name": "넥슨 Lv.1 고딕",
+   "maker": "넥슨코리아",
+   "official_url": "https://www.sandollcloud.com/free-font/16183/font",
+   "license": "free-commercial (수정 재배포·유료 판매 금지)",
+   "sandoll_id": 16183,
+   "checked": "font page"
+  },
+  {
+   "name": "원스토어 모바일고딕 제목체",
+   "maker": "원스토어",
+   "official_url": "https://www.sandollcloud.com/free-font/16956/font",
+   "license": "free-commercial (유료 판매·수정 재배포 금지)",
+   "sandoll_id": 16956,
+   "checked": "font page"
+  },
+  {
+   "name": "D2Coding",
+   "maker": "네이버",
+   "official_url": "https://github.com/naver/d2codingfont",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "나눔손글씨펜",
+   "maker": "네이버 (산돌·폰트릭스 제작)",
+   "official_url": "https://fonts.google.com/specimen/Nanum+Pen+Script",
+   "license": "OFL",
+   "google_family": "Nanum Pen Script",
+   "checked": "font page"
+  },
+  {
+   "name": "아리따부리",
+   "maker": "아모레퍼시픽",
+   "official_url": "https://www.apgroup.com/int/ko/news/news-2015-01-20.html",
+   "license": "free (아모레퍼시픽 무료 배포, 약관 원문 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "Continuous",
+   "maker": "산돌",
+   "official_url": "https://www.sandollcloud.com/free-font/23484/font",
+   "license": "unknown",
+   "sandoll_id": 23484,
+   "checked": "maker site"
+  },
+  {
+   "name": "고운돋움",
+   "maker": "류양희 (Gowun Dodum)",
+   "official_url": "https://fonts.google.com/specimen/Gowun+Dodum",
+   "license": "OFL",
+   "google_family": "Gowun Dodum",
+   "sandoll_id": 16934,
+   "checked": "font page"
+  },
+  {
+   "name": "Neo둥근모",
+   "maker": "neodgm",
+   "official_url": "https://github.com/neodgm/neodgm",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "Terrarum Sans Bitmap",
+   "maker": "Minjae Song",
+   "official_url": "https://github.com/minjaesong/Terrarum-sans-bitmap",
+   "license": "unknown",
+   "checked": "font page"
+  },
+  {
+   "name": "낭만있구미체",
+   "maker": "구미시",
+   "official_url": "https://www.sandollcloud.com/free-font/21094/font",
+   "license": "free with limits: 상업 사용 가능, 폰트 유료 판매·변형 금지",
+   "sandoll_id": 21094,
+   "checked": "font page"
+  },
+  {
+   "name": "조선신명조",
+   "maker": "조선일보",
+   "official_url": "https://www.sandollcloud.com/free-font/16247/font",
+   "license": "free with limits: 개인·기업 무료, 수정·판매·대가 요구 금지",
+   "sandoll_id": 16247,
+   "checked": "font page"
+  },
+  {
+   "name": "강원교육새음체",
+   "maker": "강원특별자치도교육청",
+   "official_url": "https://www.sandollcloud.com/free-font/17584/font",
+   "license": "free-commercial (유료 양도·판매 금지, 강원교육서체 공통)",
+   "sandoll_id": 17584,
+   "checked": "font page"
+  },
+  {
+   "name": "그리운 왼손자비슬기루체",
+   "maker": "그리운(GRIUN)",
+   "official_url": "https://www.griun.co.kr/fonts/leftsg",
+   "license": "free-commercial: 모든 용도 무료, 파일 수정·변경·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "하늘보리체",
+   "maker": "Sandoll",
+   "official_url": "https://www.sandollcloud.com/free-font/19482/font",
+   "license": "free-commercial: 상업 사용 가능, CI/BI 사용 불가",
+   "sandoll_id": 19482,
+   "checked": "font page"
+  },
+  {
+   "name": "온글잎 해솜체",
+   "maker": "온글잎(Ownglyph)",
+   "official_url": "https://www.ownglyph.com/trial/0a49372c-a48f-476b-b9a3-5fa69d38ed03",
+   "license": "free-commercial: 샘플 폰트는 상업적 사용 가능",
+   "checked": "font page"
+  },
+  {
+   "name": "인피니티산스",
+   "maker": "위메이드(WEMADE)",
+   "official_url": "https://www.wemade.com/Company/Ci",
+   "license": "free with limits: 상업 무료, CI/BI 사용 제한 (공식 페이지 미확인, 검색 요약 기준)",
+   "checked": "maker site"
+  },
+  {
+   "name": "Cafe24 Decoshadow",
+   "maker": "Cafe24",
+   "official_url": "https://font.cafe24.com",
+   "license": "OFL (Cafe24 폰트 전반 기준, 개별 페이지 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "Intel One Mono",
+   "maker": "Intel",
+   "official_url": "https://github.com/intel/intel-one-mono",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "칠곡할매 이종희체",
+   "maker": "칠곡군",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288466&menuNo=200023",
+   "license": "free-commercial: 출처 표시 시 무료 이용",
+   "checked": "font page"
+  },
+  {
+   "name": "11번가 고딕",
+   "maker": "11번가",
+   "official_url": "https://design.11stcorp.com/brand/font/",
+   "license": "free-commercial: 누구나 무료, 수정 재배포·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "달무리",
+   "maker": "RanolP",
+   "official_url": "https://github.com/RanolP/dalmoori-font",
+   "license": "Apache 2.0 (OFL 아님)",
+   "sandoll_id": 16187,
+   "checked": "font page"
+  },
+  {
+   "name": "개미똥꾸멍",
+   "maker": "상상토끼",
+   "official_url": "https://sangsangfont.com/21/?idx=101",
+   "license": "free-commercial: 무료 라이선스, 재배포 가능, 유료 판매·수정 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "정선동강체",
+   "maker": "정선군",
+   "official_url": "http://www.jeongseonfont.com/about-2.html",
+   "license": "free-commercial: 상업 이용 가능, 유료 양도·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "Cafe24 Decoschool",
+   "maker": "Cafe24",
+   "official_url": "https://font.cafe24.com",
+   "license": "OFL (Cafe24 폰트 전반 기준, 개별 페이지 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "부산바다체",
+   "maker": "남승우",
+   "official_url": "https://tumblbug.com/busanbada",
+   "license": "free-commercial: 상업 사용 가능 (개인 제작물, 공식 약관 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "DX단하루",
+   "maker": "DX Korea",
+   "official_url": "https://www.dxkorea.co.kr/",
+   "license": "free with limits: 개인 비상업만 무료, 기업·영리 목적은 구매 필요 (DX 폰트 일반 기준, 단하루 개별 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "김포평화제목",
+   "maker": "김포시",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288423&menuNo=200195",
+   "license": "free-commercial: 출처 표시 시 자유 이용",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 붓펜",
+   "maker": "KERIS 한국교육학술정보원",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 산뜻돋움",
+   "maker": "KERIS 한국교육학술정보원",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13333612&menuNo=200195",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 꽈배기",
+   "maker": "KERIS 한국교육학술정보원",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "느릿느릿체",
+   "maker": "NAVER (나눔손글씨)",
+   "official_url": "https://www.sandollcloud.com/free-font/16091/font",
+   "license": "free-commercial: 네이버 나눔 라이선스, 폰트 자체 유료 판매·배포 금지",
+   "sandoll_id": 16091,
+   "checked": "font page"
+  },
+  {
+   "name": "Kopub 바탕 2.0",
+   "maker": "한국출판인회의",
+   "official_url": "https://www.kopus.org/biz-electronic-font2-2/",
+   "license": "free with limits: 무료 상업 이용 가능, 수정·판매 금지, 서버 임베딩은 별도 승인",
+   "checked": "font page"
+  },
+  {
+   "name": "온글잎 누카",
+   "maker": "온글잎(Ownglyph)",
+   "official_url": "https://www.ownglyph.com/trial/c87740c8-38da-4030-83cf-668892c685b0",
+   "license": "free-commercial: 샘플 폰트는 상업적 사용 가능",
+   "checked": "font page"
+  },
+  {
+   "name": "움돋",
+   "maker": "MonadABXY",
+   "official_url": "https://monadabxy.com/fonts/umdot/",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 봄방학",
+   "maker": "KERIS 한국교육학술정보원",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13333622&menuNo=200023",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "칠곡할매 추유을체",
+   "maker": "칠곡군",
+   "official_url": "https://www.chilgok.go.kr/07about/10_01.jsp",
+   "license": "free-commercial: 출처 표시 시 무료 이용",
+   "checked": "maker site"
+  },
+  {
+   "name": "나무정원",
+   "maker": "NAVER (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "free-commercial: 네이버 나눔 라이선스, 폰트 자체 판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "엉겅퀴체",
+   "maker": "NAVER (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "free-commercial: 네이버 나눔 라이선스, 폰트 자체 판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "온글잎 주리손편지",
+   "maker": "온글잎(Ownglyph)",
+   "official_url": "https://www.ownglyph.com/trial/ff3ed0e3-e0e5-451b-a966-2e2812ecd5cd",
+   "license": "free-commercial: 샘플 폰트는 상업적 사용 가능",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 소나기",
+   "maker": "KERIS 한국교육학술정보원",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13366498&menuNo=200195",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "미래로글꼴",
+   "maker": "leedheo",
+   "official_url": "https://github.com/hurss/fonts",
+   "license": "MIT (상업 제품·콘텐츠에 사용 시 출처 명시)",
+   "checked": "font page"
+  },
+  {
+   "name": "금면성실",
+   "maker": "상상토끼",
+   "official_url": "https://sangsangfont.com/21/?idx=162",
+   "license": "free-commercial: 무료 라이선스 (상상토끼 무료 폰트 기준)",
+   "checked": "font page"
+  },
+  {
+   "name": "남양주다산",
+   "maker": "남양주시",
+   "official_url": "https://www.nyj.go.kr/www/contents.do?key=2529",
+   "license": "free-commercial: 허가 없이 사용 가능, 유료 양도·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "영주풍기인삼체",
+   "maker": "영주시",
+   "official_url": "https://www.yeongju.go.kr/open_content/main/page.do?mnu_uid=11611",
+   "license": "free-commercial: 상업 이용 가능, 유료 판매·변형 금지 (공공누리 연계 배포)",
+   "checked": "font page"
+  },
+  {
+   "name": "평택 반도체",
+   "maker": "평택시",
+   "official_url": "https://pyeongtaek.go.kr/pyeongtaek/contents.do?mId=0502060000",
+   "license": "free-commercial: 허가 없이 사용 가능, 판매·유상 양도·무단 배포 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "국립공원 반달이",
+   "maker": "국립공원공단",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288477&menuNo=200023",
+   "license": "free-commercial: 안심글꼴, 공공누리 배포",
+   "checked": "font page"
+  },
+  {
+   "name": "어비 남소영체",
+   "maker": "어비(Uhbee)",
+   "official_url": "http://uhbeefont.com",
+   "license": "free with limits: 상업 사용 가능, 유료 양도·판매 금지 (제3자 요약 기준)",
+   "checked": "maker site"
+  },
+  {
+   "name": "색동저고리체 블랙",
+   "maker": "솔폰트",
+   "official_url": "https://soulfont.com",
+   "license": "unknown",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 돌담",
+   "maker": "KERIS 한국교육학술정보원",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "속초바다 손글씨체",
+   "maker": "속초시",
+   "official_url": "https://www.sokcho.go.kr/sc/portal/sokchocity/symbol/font",
+   "license": "free-commercial: 영리 목적 이용·2차 저작 가능",
+   "checked": "font page"
+  },
+  {
+   "name": "달서달링체",
+   "maker": "대구 달서구",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304359&menuNo=200023",
+   "license": "free-commercial: 상업 이용 가능, 폰트 자체 유료 판매·변형 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "남양주 운허체",
+   "maker": "남양주시",
+   "official_url": "https://www.nyj.go.kr/www/contents.do?key=2529",
+   "license": "unknown: 보도는 개인·비영리 자유 사용으로 설명, 상업 가능 여부 미확인",
+   "checked": "maker site"
+  },
+  {
+   "name": "그리운 고씨네",
+   "maker": "그리운(GRIUN)",
+   "official_url": "https://www.griun.co.kr/fonts",
+   "license": "free-commercial: 그리운 폰트 공통, 모든 용도 무료, 수정·판매 금지 (개별 페이지 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 점심시간",
+   "maker": "KERIS 한국교육학술정보원",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13366503&menuNo=200195",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 운동장",
+   "maker": "KERIS 한국교육학술정보원",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13366501&menuNo=200195",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "한글재민체3.0",
+   "maker": "한글재민체연구회",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304319&menuNo=200195",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "116앵무부리",
+   "maker": "Desyell",
+   "official_url": "https://blog.naver.com/wosr1",
+   "license": "free-commercial: 개인·기업 상업 사용 무료 (공식 약관 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "Y콤퓨타체",
+   "maker": "KT",
+   "official_url": "https://www.yspotlight.co.kr/brand/font",
+   "license": "free with limits: 무료 상업 사용·재배포 가능, 수정·유료 판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "모노플렉스KR Italic",
+   "maker": "y-kim",
+   "official_url": "https://github.com/y-kim/monoplex",
+   "license": "OFL (IBM Plex 파생, 저장소 라이선스 파일 미확인)",
+   "checked": "font page"
+  },
+  {
+   "name": "천안꿈누리터 모두체",
+   "maker": "천안어린이꿈누리터",
+   "official_url": "https://itsfont.com/typo-agency/?bmode=view&idx=8649035",
+   "license": "unknown",
+   "checked": "maker site"
+  },
+  {
+   "name": "정림사지",
+   "maker": "부여군",
+   "official_url": "http://www.buyeofont.kr/",
+   "license": "free-commercial: 누구나 무료 사용 (세부 약관 미확인)",
+   "checked": "font page"
+  },
+  {
+   "name": "티웨이날다체",
+   "maker": "티웨이항공",
+   "official_url": "https://www.twayair.com/app/serviceInfo/contents/1320",
+   "license": "free-commercial: 개인·기업 누구나 무료 사용",
+   "checked": "font page"
+  },
+  {
+   "name": "ACC 어린이 마음고운체",
+   "maker": "국립아시아문화전당",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302262&menuNo=200023",
+   "license": "free-commercial: 안심글꼴, 공공누리 배포",
+   "checked": "font page"
+  },
+  {
+   "name": "탕바",
+   "maker": "MonadABXY",
+   "official_url": "https://monadabxy.com/fonts/tangba/",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "대구가톨릭대학체",
+   "maker": "대구가톨릭대학교",
+   "official_url": "https://www.cu.ac.kr/introduction/uisystem/dcufont",
+   "license": "free-commercial: 상업·비상업 제한 없이 무료",
+   "checked": "font page"
+  },
+  {
+   "name": "열일체",
+   "maker": "NAVER (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "free-commercial: 네이버 나눔 라이선스, 폰트 자체 판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "카페24 모야모야 Face",
+   "maker": "Cafe24",
+   "official_url": "https://font.cafe24.com",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "이야기 굵은체",
+   "maker": "PJW48 (복각)",
+   "official_url": "https://pjw48.net/iyagiggc/",
+   "license": "MIT",
+   "checked": "font page"
+  },
+  {
+   "name": "평택 노을체",
+   "maker": "평택시",
+   "official_url": "https://pyeongtaek.go.kr/pyeongtaek/contents.do?mId=0502060000",
+   "license": "free-commercial: 허가 없이 사용 가능, 판매·유상 양도·무단 배포 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 공룡알",
+   "maker": "KERIS 한국교육학술정보원",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "수성바탕체",
+   "maker": "대구 수성구",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304310&menuNo=200023",
+   "license": "free-commercial: 자유 이용, 상업적 재판매 제한",
+   "checked": "font page"
+  },
+  {
+   "name": "한나체 Air",
+   "maker": "우아한형제들",
+   "official_url": "http://font.woowahan.com/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "거친둘기마요",
+   "maker": "둘기마요",
+   "official_url": "https://blog.naver.com/dovemayo_/223003707589",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "삼국지3글꼴",
+   "maker": "leedheo",
+   "official_url": "https://github.com/hurss/fonts",
+   "license": "MIT (attribution requested)",
+   "checked": "maker site"
+  },
+  {
+   "name": "한돈 삼겹살체",
+   "maker": "한돈자조금관리위원회 (with 산돌)",
+   "official_url": "https://www.han-don.com/resources/handon-font",
+   "license": "free with limits: no modify/resale; commercial use needs 한돈자조금 approval",
+   "checked": "maker site"
+  },
+  {
+   "name": "전주완판본 순체",
+   "maker": "전주시",
+   "official_url": "https://www.jeonju.go.kr/index.9is?contentUid=ff8080818990c349018b041a9e943a6d",
+   "license": "free-commercial (no selling the font)",
+   "checked": "font page"
+  },
+  {
+   "name": "환경체",
+   "maker": "한국환경공단",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288471&menuNo=200023",
+   "license": "free-commercial (no paid transfer/sale)",
+   "checked": "maker site"
+  },
+  {
+   "name": "116앵덕정직",
+   "maker": "앵집사디자이너 (Desyell)",
+   "official_url": "https://blog.naver.com/wosr1",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "구름 산스 코드",
+   "maker": "구름 (goorm)",
+   "official_url": "https://github.com/fonts-archive/GoormSans",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 반달",
+   "maker": "한국교육학술정보원(KERIS)",
+   "official_url": "https://www.kogl.or.kr/recommend/recommendDivView.do?recommendIdx=143470&division=font&oc=",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "민국체",
+   "maker": "윤디자인그룹",
+   "official_url": "https://font.co.kr/collection/sub?family_idx=10588",
+   "license": "free with limits: free use; no modify or sale of font file",
+   "checked": "font page"
+  },
+  {
+   "name": "온글잎 경영체",
+   "maker": "온글잎(보이저엑스)",
+   "official_url": "https://www.ownglyph.com/",
+   "license": "free-commercial (sample fonts)",
+   "checked": "maker site"
+  },
+  {
+   "name": "충북대직지체",
+   "maker": "충북대학교",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302267&menuNo=200023",
+   "license": "공공누리 1유형",
+   "checked": "font page"
+  },
+  {
+   "name": "충북대70주년체",
+   "maker": "충북대학교",
+   "official_url": "https://www.cbnu.ac.kr/www/contents.do?key=604",
+   "license": "free-commercial (license type not confirmed)",
+   "sandoll_id": 18140,
+   "checked": "font page"
+  },
+  {
+   "name": "고성금강누리체",
+   "maker": "고성군 (with 투게더그룹)",
+   "official_url": "https://www.gwgs.go.kr/kor/sub04_050305.do",
+   "license": "free-commercial (no paid transfer/sale)",
+   "checked": "font page"
+  },
+  {
+   "name": "청주대학교체",
+   "maker": "청주대학교",
+   "official_url": "https://www.cju.ac.kr/www/contents.do?key=7434",
+   "license": "free with limits: no sale, modification or redistribution",
+   "checked": "font page"
+  },
+  {
+   "name": "사각사각",
+   "maker": "다온폰트",
+   "official_url": "https://www.daonfont.com/pages/shop/view.php?prd_id=11279&cate_id=",
+   "license": "free (다온폰트 free font; terms not confirmed)",
+   "checked": "maker site"
+  },
+  {
+   "name": "다시 시작해",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://clova.ai/handwriting/list.html",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "김남윤체",
+   "maker": "윤디자인그룹",
+   "official_url": "https://font.co.kr/collection/freeFont",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "KITA",
+   "maker": "한국무역협회",
+   "official_url": "https://www.kita.net/info/about/ciFont.do",
+   "license": "free with limits: no sale, paid transfer, modification or redistribution",
+   "sandoll_id": 17643,
+   "checked": "font page"
+  },
+  {
+   "name": "마포마포나루",
+   "maker": "마포구",
+   "official_url": "http://mapofont.or.kr/",
+   "license": "free-commercial (attribution required)",
+   "checked": "font page"
+  },
+  {
+   "name": "좋은이웃체",
+   "maker": "굿네이버스",
+   "official_url": "https://www.sandollcloud.com/free-font/17894/font",
+   "license": "free-commercial (no sale of font)",
+   "sandoll_id": 17894,
+   "checked": "maker site"
+  },
+  {
+   "name": "신동엽 손글씨",
+   "maker": "부여군",
+   "official_url": "http://www.buyeofont.kr/sdyfont",
+   "license": "free-commercial (no sale of font)",
+   "checked": "font page"
+  },
+  {
+   "name": "동그라미재단",
+   "maker": "동그라미재단",
+   "official_url": "http://www.thecircle.or.kr/kor/data-room/circle-font.html",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "TiquiTaca",
+   "maker": "엉뚱상상 레터빌런 / 한국장애인문화예술원 (distributed via 윤디자인 폰코)",
+   "official_url": "https://font.co.kr/collection/sub?family_idx=10466",
+   "license": "free-commercial (한글나눔폰트)",
+   "checked": "font page"
+  },
+  {
+   "name": "칠곡할매 이원순체",
+   "maker": "칠곡군",
+   "official_url": "https://www.chilgok.go.kr/07about/10_01.jsp",
+   "license": "free-commercial (attribution required)",
+   "checked": "font page"
+  },
+  {
+   "name": "한수원 한울림체",
+   "maker": "한국수력원자력",
+   "official_url": "https://www.khnp.co.kr/main/contents.do?key=2279",
+   "license": "공공누리 1유형",
+   "checked": "maker site"
+  },
+  {
+   "name": "사월십육일체 생명",
+   "maker": "4·16재단",
+   "official_url": "https://416foundation.org/April16th/",
+   "license": "free-commercial",
+   "sandoll_id": 20482,
+   "checked": "font page"
+  },
+  {
+   "name": "김해가야체",
+   "maker": "김해시",
+   "official_url": "https://www.gimhae.go.kr/00954/01017/01027.web",
+   "license": "공공누리 1유형",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 스케치북",
+   "maker": "한국교육학술정보원(KERIS)",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "위메프체",
+   "maker": "위메프",
+   "official_url": "https://www.sandollcloud.com/free-font/16840/font",
+   "license": "free with limits: commercial OK; no sale, trademark use or modification",
+   "sandoll_id": 16840,
+   "checked": "maker site"
+  },
+  {
+   "name": "광양햇살체",
+   "maker": "광양시",
+   "official_url": "https://gwangyang.go.kr/menu.es?mid=a11303090300",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "대암 이태준체",
+   "maker": "사단법인 대암 이태준선생 기념사업회",
+   "official_url": "http://www.leetaejoon.com",
+   "license": "free-commercial (no sale of font)",
+   "checked": "maker site"
+  },
+  {
+   "name": "KCC김훈체",
+   "maker": "KCC",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13072021&menuNo=200133",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "프박 뽑았체",
+   "maker": "프린팅박스",
+   "official_url": "https://printingbox.kr/",
+   "license": "free (terms not confirmed)",
+   "checked": "maker site"
+  },
+  {
+   "name": "횡성한우체",
+   "maker": "횡성군",
+   "official_url": "https://www.hsg.go.kr/intro/00000014/00003147.web",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "태백 은하수체",
+   "maker": "태백시",
+   "official_url": "https://www.taebaek.go.kr/www/contents.do?key=1791",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "헬스셋 고딕체",
+   "maker": "헬스셋 (한그리아폰트)",
+   "official_url": "http://shop2.hangria.cafe24.com",
+   "license": "free-commercial",
+   "sandoll_id": 16658,
+   "checked": "maker site"
+  },
+  {
+   "name": "KOFIH이종욱체",
+   "maker": "한국국제보건의료재단",
+   "official_url": "https://www.kofih.org/font/",
+   "license": "free-commercial",
+   "sandoll_id": 17857,
+   "checked": "font page"
+  },
+  {
+   "name": "문래러",
+   "maker": "상상토끼",
+   "official_url": "https://sangsangfont.com/21/?idx=163",
+   "license": "free-commercial (no resale or modification of font file)",
+   "sandoll_id": 17614,
+   "checked": "font page"
+  },
+  {
+   "name": "모이라이",
+   "maker": "JAMO (Jiyeon Park)",
+   "official_url": "https://github.com/JAMO-TYPEFACE/Moirai",
+   "license": "OFL",
+   "google_family": "Moirai One",
+   "sandoll_id": 18445,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 은하수",
+   "maker": "한국교육학술정보원(KERIS)",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13366502&menuNo=200195",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "가시가시체 백민주",
+   "maker": "스스로넷 (서울시청소년미디어센터)",
+   "official_url": "https://www.ssro.net/media/media_view.jsp?bcate=fontdown&no=520740",
+   "license": "free (youth fonts, copyright-free; terms not confirmed)",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 나무",
+   "maker": "한국교육학술정보원(KERIS)",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "구미첨단산업체",
+   "maker": "구미시",
+   "official_url": "https://www.gumi.go.kr/portal/contents.do?mid=0502070000",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "전화선체",
+   "maker": null,
+   "official_url": "https://www.sandollcloud.com/free-font/17231/font",
+   "license": "free with limits: free use; no paid transfer or sale",
+   "sandoll_id": 17231,
+   "checked": "maker site"
+  },
+  {
+   "name": "sharppoint체 민하은",
+   "maker": "스스로넷 (서울시청소년미디어센터)",
+   "official_url": "https://www.ssro.net/media/media_list.jsp?bcate=fontdown",
+   "license": "free (youth fonts, copyright-free; terms not confirmed)",
+   "checked": "maker site"
+  },
+  {
+   "name": "Cafe24 Nyangi Black",
+   "maker": "Cafe24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "sandoll_id": 21103,
+   "checked": "maker site"
+  },
+  {
+   "name": "비씨카드 글꼴",
+   "maker": "BC카드",
+   "official_url": "https://paybooc.co.kr/app/paybooc/REventDetail.do?evntNo=2020040025",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 돋보기",
+   "maker": "한국교육학술정보원(KERIS)",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13366488&menuNo=200195",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "가비아 흘돋체",
+   "maker": "가비아",
+   "official_url": "https://font.gabia.com/2023",
+   "license": "free with limits: commercial OK; no sale, modification or redistribution",
+   "checked": "maker site"
+  },
+  {
+   "name": "미래나무",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://clova.ai/handwriting/list.html",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "중학생",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://clova.ai/handwriting/list.html",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "Cafe24 Behappy",
+   "maker": "Cafe24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "달서힐링체",
+   "maker": "대구 달서구",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304360&menuNo=200023",
+   "license": "free-commercial (공공누리 type not confirmed)",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 산뜻바탕",
+   "maker": "한국교육학술정보원(KERIS)",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13333610&menuNo=200023",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "광양감동체",
+   "maker": "광양시",
+   "official_url": "https://gwangyang.go.kr/menu.es?mid=a11303090200",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "태-조각",
+   "maker": "태폰트",
+   "official_url": "https://free.taefont.com/",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "칠곡할매 권안자체",
+   "maker": "칠곡군",
+   "official_url": "https://www.chilgok.go.kr/07about/10_01.jsp",
+   "license": "free-commercial (attribution required)",
+   "checked": "maker site"
+  },
+  {
+   "name": "은평사가독서체",
+   "maker": "서울 은평구",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13382162&menuNo=200195",
+   "license": "공공누리 (type not confirmed)",
+   "checked": "font page"
+  },
+  {
+   "name": "DeltaUniverse",
+   "maker": "greenegg",
+   "official_url": "https://greenegg.co.kr/?portfolio=delta-universe-font",
+   "license": "free-commercial: 수정과 재배포 가능, 글꼴 자체 유료 판매 금지, 출처 표기 권장",
+   "sandoll_id": 15695,
+   "checked": "font page"
+  },
+  {
+   "name": "동국체",
+   "maker": "동국대학교",
+   "official_url": "https://www.dongguk.edu/page/713",
+   "license": "unknown: 학교 전용서체, 홈페이지에서 무료 배포, 라이선스 문구는 확인 못 함",
+   "checked": "font page"
+  },
+  {
+   "name": "Yoon 지희",
+   "maker": "윤디자인",
+   "official_url": "https://font.co.kr/collection/freeFont",
+   "license": "free-commercial: 개인과 기업 모두 사용 가능, 폰코(font.co.kr) 무료 폰트로 제공",
+   "checked": "maker site"
+  },
+  {
+   "name": "어비 푸딩체",
+   "maker": "어비(UhBee)",
+   "official_url": "http://uhbeefont.com/",
+   "license": "free-commercial: 파일 재판매와 재배포 제한, 공식 사이트 라이선스 안내 확인 필요",
+   "checked": "maker site"
+  },
+  {
+   "name": "notcliche체 이현준",
+   "maker": "이현준 (2021 청소년디자인제작전문그룹, 서울청소년미디어센터와 폰트릭스)",
+   "official_url": "https://www.ssro.net/media/media_view.jsp?bcate=fontdown&no=520738",
+   "license": "free-commercial: 상업 이용 가능, 판매와 수정과 재배포 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "EVECondom",
+   "maker": "인스팅터스 (이브 EVE 콘돔 브랜드)",
+   "official_url": "https://www.evecondoms.com/",
+   "license": "free: 무료 배포(라이선스 세부 문구는 확인 못 함)",
+   "checked": "maker site"
+  },
+  {
+   "name": "길벗체 TG",
+   "maker": "비온뒤무지개재단",
+   "official_url": "https://rainbowfoundation.co.kr/gilbeot",
+   "license": "CC BY-SA 2.0 (검색 요약 기준, 공식 페이지 원문은 직접 확인 못 함)",
+   "sandoll_id": 17595,
+   "checked": "maker site"
+  },
+  {
+   "name": "유니폰트",
+   "maker": "GNU Unifont (Roman Czyborra, Unifoundry). 한글 폰트 '유니폰트'와 같은 글꼴인지는 미확인",
+   "official_url": "https://unifoundry.com/unifont.html",
+   "license": "OFL 1.1 / GPL-2.0-or-later with font exception",
+   "checked": "maker site"
+  },
+  {
+   "name": "하나손글씨",
+   "maker": "네이버 (나눔손글씨 하나손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 이어달리기",
+   "maker": "한국교육학술정보원 교육저작권지원센터",
+   "official_url": "https://copyright.keris.or.kr/",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 자유시간",
+   "maker": "한국교육학술정보원 교육저작권지원센터",
+   "official_url": "https://copyright.keris.or.kr/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "예쁜 민경체",
+   "maker": "네이버 (나눔손글씨 예쁜 민경체)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "KCC방정환체",
+   "maker": "한국저작권위원회",
+   "official_url": "https://gongu.copyright.or.kr/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "어비 미미체",
+   "maker": "어비(UhBee)",
+   "official_url": "http://uhbeefont.com/",
+   "license": "free-commercial: 파일 재판매와 재배포 제한",
+   "checked": "maker site"
+  },
+  {
+   "name": "가비아 온담체",
+   "maker": "가비아",
+   "official_url": "https://company.gabia.com/introduce/ci",
+   "license": "free-commercial: 글꼴 판매와 수정 재배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "온글잎 승훈체",
+   "maker": "온글잎",
+   "official_url": "https://www.ownglyph.com/font",
+   "license": "free-commercial (온글잎 무료 폰트 일반 안내 기준)",
+   "checked": "maker site"
+  },
+  {
+   "name": "강인한 위로",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "ACC 어린이 가을담은체",
+   "maker": "국립아시아문화전당",
+   "official_url": "https://www.acc.go.kr/main/contents.do?PID=0808",
+   "license": "free: 누구나 무료 사용 가능 (구체 조항은 확인 못 함)",
+   "sandoll_id": 17547,
+   "checked": "font page"
+  },
+  {
+   "name": "카페24 쑥쑥 Light",
+   "maker": "카페24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "free-commercial",
+   "sandoll_id": 16264,
+   "checked": "maker site"
+  },
+  {
+   "name": "사월십육일체 안전",
+   "maker": "4·16재단",
+   "official_url": "https://416foundation.org/April16th/",
+   "license": "free-commercial: 영리와 비영리 모두 사용 가능, 폰트 파일 유료 판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "어비 다빈체",
+   "maker": "어비(UhBee)",
+   "official_url": "http://uhbeefont.com/",
+   "license": "free-commercial: 파일 재판매와 재배포 제한",
+   "checked": "maker site"
+  },
+  {
+   "name": "장미체",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "모노플렉스WideNerd",
+   "maker": "y-kim (Monoplex, IBM Plex Mono와 IBM Plex Sans KR 합성)",
+   "official_url": "https://github.com/webfontbox/monoplex",
+   "license": "OFL (IBM Plex 기반, 저장소 라이선스 파일은 직접 확인 못 함)",
+   "checked": "maker site"
+  },
+  {
+   "name": "밍기적체",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "다행체",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "소방관의 기도",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "열아홉의 반짝임",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "CROOKED",
+   "maker": "greenegg (영문 폰트)",
+   "official_url": "https://greenegg.co.kr",
+   "license": "free-commercial: 수정과 재배포 가능, 글꼴 자체 유료 판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "가톨릭중앙의료원체",
+   "maker": "가톨릭대학교 가톨릭중앙의료원",
+   "official_url": "https://www.cmc.or.kr/page/center/board/HIGuide_font",
+   "license": "free with limits: 개인과 상업 사용 가능, 수정과 재배포와 판매 금지, 출처 표시 권장",
+   "checked": "font page"
+  },
+  {
+   "name": "강부장님체",
+   "maker": "네이버 (나눔손글씨 강부장님체)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "온글잎 메모앤옥자체",
+   "maker": "온글잎",
+   "official_url": "https://www.ownglyph.com/font",
+   "license": "free-commercial (온글잎 무료 폰트 일반 안내 기준)",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 우산",
+   "maker": "한국교육학술정보원 교육저작권지원센터",
+   "official_url": "https://copyright.keris.or.kr/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "딸에게 엄마가",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "문래양조 영철체",
+   "maker": "하기브루 (HAGIBREW)",
+   "official_url": "https://hagibrew.oopy.io/blog/font",
+   "license": "free-commercial: 웹폰트와 앱 탑재 허용, 파일 수정과 타 사이트 재배포와 판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "왼손잡이도 예뻐",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "소미체",
+   "maker": "네이버 (CLOVA)",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "안동이육사체",
+   "maker": "안동시",
+   "official_url": "https://www.andong.go.kr/portal/contents.do?mId=0301030500",
+   "license": "free-commercial: 복사와 공유 가능, 유료 판매 불가",
+   "checked": "font page"
+  },
+  {
+   "name": "따뜻한 작별",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "동화또박",
+   "maker": "네이버 (나눔손글씨 동화또박)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "1973미미월드",
+   "maker": "미미월드와 더폰트그룹",
+   "official_url": "http://www.mimiworld.com/web/KOR/viewpage/company/font1973.php",
+   "license": "free-commercial: 문서와 인쇄와 웹과 영상 제작물에 무료 사용",
+   "sandoll_id": 7415,
+   "checked": "font page"
+  },
+  {
+   "name": "김유이체",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "안될과학 유니랩장체",
+   "maker": "온글잎과 안될과학",
+   "official_url": "https://www.ownglyph.com/trial/c5efc1da-0334-452e-846c-c0dbb53c5cac",
+   "license": "free-commercial",
+   "sandoll_id": 17630,
+   "checked": "font page"
+  },
+  {
+   "name": "흰꼬리수리",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "어비 찌빠빠체",
+   "maker": "어비(UhBee)",
+   "official_url": "http://uhbeefont.com/",
+   "license": "free-commercial: 파일 재판매와 재배포 제한",
+   "checked": "maker site"
+  },
+  {
+   "name": "안쌍체",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "꽃소금체",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "암스테르담",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "안경잡이체",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "외할머니글씨",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "어비 혜키체",
+   "maker": "어비(UhBee)",
+   "official_url": "http://uhbeefont.com/",
+   "license": "free-commercial: 파일 재판매와 재배포 제한",
+   "checked": "maker site"
+  },
+  {
+   "name": "무궁화",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "어비 지민2체",
+   "maker": "어비(UhBee)",
+   "official_url": "http://uhbeefont.com/",
+   "license": "free-commercial: 파일 재판매와 재배포 제한",
+   "checked": "maker site"
+  },
+  {
+   "name": "아름드리 꽃나무",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "금은보화",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "점꼴체",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "Yoon 세희",
+   "maker": "윤디자인",
+   "official_url": "https://www.sandollcloud.com/free-font/16796/font",
+   "license": "free-commercial (산돌구름 무료 폰트, 임베딩과 웹폰트 제외라는 안내 있음)",
+   "sandoll_id": 16796,
+   "checked": "font page"
+  },
+  {
+   "name": "규리의 일기",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "Yoon 지영",
+   "maker": "윤디자인",
+   "official_url": "https://font.co.kr/collection/freeFont",
+   "license": "free-commercial: 개인과 기업 모두 사용 가능",
+   "checked": "maker site"
+  },
+  {
+   "name": "하나되어 손글씨",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "우리딸 손글씨",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "또박또박",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "효남 늘 화이팅",
+   "maker": "네이버 (나눔손글씨)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL: 상업 이용 가능, 글꼴 파일 판매와 유상 배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "어비 링링체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "http://uhbeefont.com/font/w/UhBeeRingRing.html",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16557,
+   "checked": "font page"
+  },
+  {
+   "name": "코코체",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16169/font",
+   "license": "OFL",
+   "sandoll_id": 16169,
+   "checked": "font page"
+  },
+  {
+   "name": "혁이체",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16176/font",
+   "license": "OFL",
+   "sandoll_id": 16176,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 베이비체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16569/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16569,
+   "checked": "font page"
+  },
+  {
+   "name": "상해찬미체",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16124/font",
+   "license": "OFL",
+   "sandoll_id": 16124,
+   "checked": "font page"
+  },
+  {
+   "name": "칼국수",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16168/font",
+   "license": "OFL",
+   "sandoll_id": 16168,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 미완체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16566/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16566,
+   "checked": "font page"
+  },
+  {
+   "name": "철필글씨",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16166/font",
+   "license": "OFL",
+   "sandoll_id": 16166,
+   "checked": "font page"
+  },
+  {
+   "name": "진주 박경아체",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16165/font",
+   "license": "OFL",
+   "sandoll_id": 16165,
+   "checked": "font page"
+  },
+  {
+   "name": "아인맘 손글씨",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16139/font",
+   "license": "OFL",
+   "sandoll_id": 16139,
+   "checked": "font page"
+  },
+  {
+   "name": "빵구니맘 손글씨",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16122/font",
+   "license": "OFL",
+   "sandoll_id": 16122,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 조커체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16594/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16594,
+   "checked": "font page"
+  },
+  {
+   "name": "범솜체",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16118/font",
+   "license": "OFL",
+   "sandoll_id": 16118,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 이슬체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16593/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16593,
+   "checked": "font page"
+  },
+  {
+   "name": "행복한 도비",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16175/font",
+   "license": "OFL",
+   "sandoll_id": 16175,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 마츠코체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16559/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16559,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 카이루장난체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16605/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16605,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 버찌체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16568/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16568,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 하뉴이체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16613/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16613,
+   "checked": "font page"
+  },
+  {
+   "name": "잘하고 있어",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16160/font",
+   "license": "OFL",
+   "sandoll_id": 16160,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 순수결정체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16575/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16575,
+   "checked": "font page"
+  },
+  {
+   "name": "희망누리",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16179/font",
+   "license": "OFL",
+   "sandoll_id": 16179,
+   "checked": "font page"
+  },
+  {
+   "name": "정은체",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16163/font",
+   "license": "OFL",
+   "sandoll_id": 16163,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 햄체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16617/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16617,
+   "checked": "font page"
+  },
+  {
+   "name": "비상체",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16121/font",
+   "license": "OFL",
+   "sandoll_id": 16121,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 말듀체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16560/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16560,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 스트로베리체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16576/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16576,
+   "checked": "font page"
+  },
+  {
+   "name": "버드나무",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16117/font",
+   "license": "OFL",
+   "sandoll_id": 16117,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 찌풍딩체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16602/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16602,
+   "checked": "font page"
+  },
+  {
+   "name": "노력하는 동희",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16090/font",
+   "license": "OFL",
+   "sandoll_id": 16090,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 선홍체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16571/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16571,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 똘영체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16554/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16554,
+   "checked": "font page"
+  },
+  {
+   "name": "북극성",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16120/font",
+   "license": "OFL",
+   "sandoll_id": 16120,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 은경체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16590/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16590,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 지영체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16598/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16598,
+   "checked": "font page"
+  },
+  {
+   "name": "나는 이겨낸다",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16087/font",
+   "license": "OFL",
+   "sandoll_id": 16087,
+   "checked": "font page"
+  },
+  {
+   "name": "야근하는 김주임",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16143/font",
+   "license": "OFL",
+   "sandoll_id": 16143,
+   "checked": "font page"
+  },
+  {
+   "name": "하람체",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16172/font",
+   "license": "OFL",
+   "sandoll_id": 16172,
+   "checked": "font page"
+  },
+  {
+   "name": "자부심지우",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16159/font",
+   "license": "OFL",
+   "sandoll_id": 16159,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 못된여자체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16562/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16562,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 혜몽체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16619/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16619,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 은디체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16591/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16591,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 여니체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16582/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16582,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 지슉지슉체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16597/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16597,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 톡기체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16611/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16611,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 송송체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16574/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16574,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 모토미체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16561/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16561,
+   "checked": "font page"
+  },
+  {
+   "name": "다채사랑",
+   "maker": "NAVER (Clova AI) 나눔손글씨",
+   "official_url": "https://www.sandollcloud.com/free-font/16094/font",
+   "license": "OFL",
+   "sandoll_id": 16094,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 카이루체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16606/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16606,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 유진체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16587/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16587,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 이부손체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16592/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16592,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 토모체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16610/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16610,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 소윤체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "http://uhbeefont.com/font/w/UhBeeSoyun.html",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited (terms taken from the UhBee license on the sibling font pages)",
+   "checked": "font page"
+  },
+  {
+   "name": "어비 양나체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16581/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16581,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 진건체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16599/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16599,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 미니도리체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16564/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16564,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 유진남푠체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16586/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16586,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 아롱체",
+   "maker": "어비폰트 (UhBee)",
+   "official_url": "https://www.sandollcloud.com/free-font/16578/font",
+   "license": "free-commercial: modification and commercial use free; webfont/apk conversions must be offered free; paid sale prohibited",
+   "sandoll_id": 16578,
+   "checked": "font page"
+  },
+  {
+   "name": "태나다체",
+   "maker": "태나다(TENADA)",
+   "official_url": "https://www.tenada.co.kr/TenadaFont",
+   "license": "OFL",
+   "sandoll_id": 17912,
+   "checked": "font page"
+  },
+  {
+   "name": "그리운 연이나 둥둥",
+   "maker": "그리운(GRIUN)",
+   "official_url": "https://www.griun.co.kr/fonts",
+   "license": "free with limits: 모든 사용 범위 가능, 폰트파일 개작·수정·판매 금지(그리운 폰트 공통 안내)",
+   "checked": "maker site"
+  },
+  {
+   "name": "한국기계연구원",
+   "maker": "한국기계연구원(KIMM)",
+   "official_url": "https://www.kimm.re.kr/webfont",
+   "license": "공공누리 1유형",
+   "sandoll_id": 17917,
+   "checked": "font page"
+  },
+  {
+   "name": "을지로체",
+   "maker": "우아한형제들(배달의민족 을지로체)",
+   "official_url": "https://www.kogl.or.kr/static/freefontevent/freeFontEvent_new.html",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "박물관문화재단클래식",
+   "maker": "국립박물관문화재단",
+   "official_url": "https://www.kogl.or.kr/recommend/recommendDivView.do?recommendIdx=41126&division=font",
+   "license": "free with limits: 상업 사용 가능, 수정 불가, 폰트 자체 판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "그리운 코코초이툰",
+   "maker": "그리운(GRIUN)",
+   "official_url": "https://www.griun.co.kr/fonts/cocochoitoon",
+   "license": "free with limits: 모든 사용 범위 가능, 폰트파일 개작·수정·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "경기천년바탕",
+   "maker": "경기도",
+   "official_url": "https://www.gg.go.kr/contents/contents.do?ciIdx=679&menuId=2457",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "ZEN SERIF",
+   "maker": "ODD ATELIER / OA엔터테인먼트(제니)",
+   "official_url": "https://oddatelier.net",
+   "license": "free with limits: 개인·상업 사용 가능, 파일 판매·재배포, BI/CI, AI 학습, NFT, 정치적 사용 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "KBO 다이아고딕체",
+   "maker": "한국야구위원회(KBO)",
+   "official_url": "https://m.koreabaseball.com/About/KboFont.aspx",
+   "license": "free with limits: 상업 사용 가능, CI/BI 사용 불가, 수정·폰트 판매 불가",
+   "checked": "font page"
+  },
+  {
+   "name": "스포카 한 산스",
+   "maker": "Spoqa",
+   "official_url": "https://github.com/spoqa/spoqa-han-sans",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "정선아리랑체",
+   "maker": "정선군",
+   "official_url": "https://www.jeongseon.go.kr/portal/jeongseongun/generalsituation/font",
+   "license": "free-commercial: 상업 사용 가능, 유료 양도·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "엄마까투리체",
+   "maker": "안동시",
+   "official_url": "https://www.andong.go.kr/portal/contents.do?mId=0301030500",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "베이글팻",
+   "maker": "김경원(JAMO)",
+   "official_url": "https://fonts.google.com/specimen/Bagel+Fat+One",
+   "license": "OFL",
+   "google_family": "Bagel Fat One",
+   "checked": "font page"
+  },
+  {
+   "name": "스포카 한 산스 네오",
+   "maker": "Spoqa",
+   "official_url": "https://spoqa.github.io/spoqa-han-sans/ko-KR/",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "서울한강체",
+   "maker": "서울특별시",
+   "official_url": "https://www.seoul.go.kr/seoul/font.do",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "카페24 써라운드에어",
+   "maker": "카페24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "열린명조",
+   "maker": "윤디자인·서울산업진흥원(현 서울경제진흥원)",
+   "official_url": "https://font.co.kr/collection/sub?family_idx=10288",
+   "license": "free-commercial: 제약 없는 오픈소스형",
+   "checked": "font page"
+  },
+  {
+   "name": "자이언츠체",
+   "maker": "롯데자이언츠",
+   "official_url": "https://www.giantsclub.com/html/?pcode=1007",
+   "license": "free with limits: 무료 사용, 수정·변형 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "땅스부대찌개체",
+   "maker": "티에스푸드(땅스부대찌개)",
+   "official_url": "http://tsbudae.com/theme/GT2/contents/Fontpage.php",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "카페24 고운밤",
+   "maker": "카페24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "sandoll_id": 16255,
+   "checked": "maker site"
+  },
+  {
+   "name": "마포꽃섬",
+   "maker": "마포구",
+   "official_url": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "제주명조",
+   "maker": "제주특별자치도",
+   "official_url": "http://jeju.go.kr/jeju/symbol/font/infor.htm",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "넥슨 Lv.2 고딕",
+   "maker": "넥슨",
+   "official_url": "http://levelup.nexon.com/M/font/gothic2.aspx",
+   "license": "free with limits: 상업 사용 가능, 임의 수정·재배포 불가",
+   "checked": "font page"
+  },
+  {
+   "name": "Cafe24 PRO SLIM",
+   "maker": "카페24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "타닥타닥체",
+   "maker": "TDTD",
+   "official_url": "https://tdtd.io",
+   "license": "free-commercial: 폰트 판매 금지",
+   "sandoll_id": 16845,
+   "checked": "maker site"
+  },
+  {
+   "name": "OG 르네상스 비밀",
+   "maker": "온글잎(보이저엑스)",
+   "official_url": "https://www.ownglyph.com/trial/03b4f007-7db5-4106-b445-c959d0023402",
+   "license": "free with limits: 상업 사용 가능, 수정·판매 금지(온글잎 공통)",
+   "sandoll_id": 19788,
+   "checked": "font page"
+  },
+  {
+   "name": "갈무리11",
+   "maker": "quiple",
+   "official_url": "https://github.com/quiple/galmuri",
+   "license": "OFL",
+   "webfont_css_url": "https://cdn.jsdelivr.net/npm/galmuri/dist/galmuri.css",
+   "checked": "font page"
+  },
+  {
+   "name": "나눔손글씨붓",
+   "maker": "네이버(산돌·폰트릭스 제작)",
+   "official_url": "https://fonts.google.com/specimen/Nanum+Brush+Script",
+   "license": "OFL",
+   "google_family": "Nanum Brush Script",
+   "checked": "font page"
+  },
+  {
+   "name": "도스이야기",
+   "maker": "leedheo(hurss)",
+   "official_url": "https://github.com/hurss/fonts",
+   "license": "free with limits: MIT, 상업 사용 시 '도스이야기' 사용 표기 필요",
+   "checked": "font page"
+  },
+  {
+   "name": "솔뫼 김대건체",
+   "maker": "천주교 대전교구 솔뫼성지·김대건신부 탄생 200주년 사업",
+   "official_url": "http://www.kimdaegeon.com/design/node/?menu=font",
+   "license": "free-commercial",
+   "sandoll_id": 16541,
+   "checked": "font page"
+  },
+  {
+   "name": "배스킨라빈스체",
+   "maker": "배스킨라빈스(비알코리아)",
+   "official_url": "https://www.baskinrobbins.co.kr/event/view.php?flag=&seq=3722",
+   "license": "free with limits: 상업 사용 가능, 수정·유료 판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "꽃길",
+   "maker": "상상토끼(용이)",
+   "official_url": "https://sangsangfont.com/21",
+   "license": "free-commercial: 폰트 자체 판매 금지",
+   "sandoll_id": 820,
+   "checked": "font page"
+  },
+  {
+   "name": "HS봄바람체 3.0",
+   "maker": "토끼네활자공장",
+   "official_url": "https://www.sandollcloud.com/free-font/15768/font",
+   "license": "free-commercial",
+   "sandoll_id": 15768,
+   "checked": "font page"
+  },
+  {
+   "name": "빙그레체",
+   "maker": "빙그레",
+   "official_url": "http://www.bingfont.co.kr/bingfont.html",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "노회찬체",
+   "maker": "노회찬재단",
+   "official_url": "http://hcroh.org/notice/218/",
+   "license": "free-commercial: 폰트 자체 판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "단조",
+   "maker": "박준영(@typejjun__)",
+   "official_url": "https://www.behance.net/gallery/158536133/-Typeface-Danjo",
+   "license": "free-commercial: 폰트 자체 판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "순바탕",
+   "maker": "한국출판문화산업진흥원",
+   "official_url": "https://baro.kpipa.or.kr/font/",
+   "license": "free-commercial: 오픈소스형, 모든 사용자 무료",
+   "checked": "font page"
+  },
+  {
+   "name": "김정철명조",
+   "maker": "정림건축",
+   "official_url": "http://font.junglim.com/",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "긱블 말랑이체",
+   "maker": "긱블(Geekble)",
+   "official_url": "https://malang2.geekble.kr/",
+   "license": "free with limits: 상업 사용 가능, 수정·재배포·판매 불가",
+   "checked": "font page"
+  },
+  {
+   "name": "함렛",
+   "maker": "Hypertype",
+   "official_url": "https://fonts.google.com/specimen/Hahmlet",
+   "license": "OFL",
+   "google_family": "Hahmlet",
+   "sandoll_id": 16952,
+   "checked": "font page"
+  },
+  {
+   "name": "코트라 볼드체",
+   "maker": "KOTRA",
+   "official_url": "https://www.kotra.or.kr/downdocu/KOTRA_BOLD.ttf",
+   "license": "free with limits: 개인·기업 사용 가능, 수정·재배포 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "세방고딕",
+   "maker": "세방그룹",
+   "official_url": "https://www.sebang.com",
+   "license": "free with limits: 상업 사용 가능, 유료 재판매·임의 수정 제한",
+   "checked": "maker site"
+  },
+  {
+   "name": "카페24 단정해",
+   "maker": "카페24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "국민연금체",
+   "maker": "국민연금공단",
+   "official_url": "https://www.npsonair.kr/notice/detail.html?strIdx=2786",
+   "license": "free with limits: 개인·기업 무료, 판매·왜곡 변형 금지",
+   "sandoll_id": 17690,
+   "checked": "font page"
+  },
+  {
+   "name": "인천교육자람체",
+   "maker": "인천광역시교육청",
+   "official_url": "https://www.ice.go.kr",
+   "license": "free with limits: CI/BI 포함 사용 가능, 유료 양도·판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "온글잎 류류체",
+   "maker": "온글잎(보이저엑스)",
+   "official_url": "https://www.ownglyph.com/trial/61039a05-4a91-40bd-81d7-f359dc3ea10b",
+   "license": "free with limits: 상업 사용 가능, 파일 수정·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "던파 비트비트체",
+   "maker": "넥슨(던전앤파이터)",
+   "official_url": "https://df.nexon.com/data/font/dnfbitbit",
+   "license": "free-commercial: 수정·재배포 가능",
+   "checked": "font page"
+  },
+  {
+   "name": "KBL점프체",
+   "maker": "KBL(한국농구연맹)",
+   "official_url": "https://www.kbl.or.kr",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "와구리체",
+   "maker": "구리시(제작 투게더그룹)",
+   "official_url": "https://www.guri.go.kr/www/contents.do?key=6397",
+   "license": "free-commercial",
+   "sandoll_id": 19893,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 나들이",
+   "maker": "한국교육학술정보원(KERIS)",
+   "official_url": "https://copyright.keris.or.kr/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 우주",
+   "maker": "한국교육학술정보원(KERIS)",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13333620&menuNo=200023",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "조선100년체",
+   "maker": "조선일보·방일영문화재단",
+   "official_url": "https://event.chosun.com/100/100font.html",
+   "license": "free-commercial: 개인·기업 무료",
+   "sandoll_id": 16239,
+   "checked": "font page"
+  },
+  {
+   "name": "부크크 고딕",
+   "maker": "부크크",
+   "official_url": "https://bookk.co.kr/font",
+   "license": "free with limits: 상업 사용 가능, 수정 불가, 폰트 판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "오이냉체",
+   "maker": "얼리폰트(EARLY FONT)",
+   "official_url": "http://www.earlyfont.com/",
+   "license": "OFL",
+   "sandoll_id": 18400,
+   "checked": "maker site"
+  },
+  {
+   "name": "그리운 묘은또박체",
+   "maker": "그리운(GRIUN)",
+   "official_url": "https://www.griun.co.kr/fonts/myoeunddobak",
+   "license": "free with limits: 모든 사용 범위 가능, 폰트파일 개작·수정·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 별빛하늘",
+   "maker": "한국교육학술정보원(KERIS)",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13372628&menuNo=200023",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "HS산토끼체2.0",
+   "maker": "토끼네활자공장",
+   "official_url": "https://www.sandollcloud.com/free-font/20536/font",
+   "license": "free-commercial",
+   "sandoll_id": 20536,
+   "checked": "font page"
+  },
+  {
+   "name": "BC카드 글꼴",
+   "maker": "BC카드",
+   "official_url": "https://www.bccard.com",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "HS굴토끼체",
+   "maker": "토끼네활자공장",
+   "official_url": "https://www.sandollcloud.com/free-font/17851/font",
+   "license": "free-commercial",
+   "sandoll_id": 17851,
+   "checked": "font page"
+  },
+  {
+   "name": "도스샘물",
+   "maker": "hurss",
+   "official_url": "https://github.com/hurss/fonts",
+   "license": "MIT (commercial use allowed, credit the font name; no paid sale of font file)",
+   "checked": "maker site"
+  },
+  {
+   "name": "Gothic A1",
+   "maker": "HanYang I&C (Google Fonts)",
+   "official_url": "https://fonts.google.com/specimen/Gothic+A1",
+   "license": "OFL",
+   "google_family": "Gothic A1",
+   "checked": "font page"
+  },
+  {
+   "name": "고도체",
+   "maker": "고도몰 (NHN커머스)",
+   "official_url": "https://design.godo.co.kr/custom/free-font.php",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "푸라닭 젠틀 고딕",
+   "maker": "아이더스코리아 (푸라닭 치킨) x 폰트릭스",
+   "official_url": "https://www.sandollcloud.com/free-font/17694/font",
+   "license": "free-commercial (modification allowed, no paid sale of font file)",
+   "sandoll_id": 17694,
+   "checked": "maker site"
+  },
+  {
+   "name": "HS잔다리체",
+   "maker": "토끼네활자공장",
+   "official_url": "https://blog.naver.com/hp0/224051516140",
+   "license": "free-commercial (2025 version, per search result; license text not opened)",
+   "checked": "maker site"
+  },
+  {
+   "name": "IBM Plex Sans",
+   "maker": "IBM (Mike Abbink, Bold Monday)",
+   "official_url": "https://github.com/IBM/plex",
+   "license": "OFL",
+   "google_family": "IBM Plex Sans",
+   "checked": "font page"
+  },
+  {
+   "name": "문경감홍사과",
+   "maker": "문경시",
+   "official_url": "https://www.gbmg.go.kr/portal/contents.do?mId=0501110000",
+   "license": "free-commercial (no paid sale, no distortion/modification)",
+   "checked": "font page"
+  },
+  {
+   "name": "예스 명조",
+   "maker": "예스24",
+   "official_url": "https://www.yes24.com/campaign/00_corp/2019/0930Yesfont.aspx",
+   "license": "free-commercial (CI/BI creation prohibited)",
+   "checked": "font page"
+  },
+  {
+   "name": "세종글꽃체",
+   "maker": "세종특별자치시",
+   "official_url": "https://www.sejong.go.kr/kor/sub01_0306.do",
+   "license": "free with limits: free for anyone, modification and paid sale prohibited",
+   "sandoll_id": 18305,
+   "checked": "font page"
+  },
+  {
+   "name": "Ok Mallang W",
+   "maker": "오케이티콘 (okticon)",
+   "official_url": "https://www.okticon.com/freefont/?bmode=view&idx=169969470",
+   "license": "free-commercial (English-only font; no redistribution of font files)",
+   "checked": "font page"
+  },
+  {
+   "name": "Y최애체",
+   "maker": "KT",
+   "official_url": "https://www.yspotlight.co.kr/brand/font",
+   "license": "free-commercial (per KT news; license text not opened)",
+   "checked": "maker site"
+  },
+  {
+   "name": "경복궁 수문장 제목체",
+   "maker": "국가유산진흥원 (via 공유마당/공공누리)",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13382191&menuNo=200023",
+   "license": "공공누리 (page is for 제목체 L; exact type number not confirmed)",
+   "checked": "font page"
+  },
+  {
+   "name": "한나체Pro",
+   "maker": "우아한형제들 (배달의민족)",
+   "official_url": "http://font.woowahan.com/",
+   "license": "free-commercial (modification allowed)",
+   "checked": "maker site"
+  },
+  {
+   "name": "설립체 유건욱",
+   "maker": "스스로넷 청소년디자인제작전문그룹 (서울시청소년미디어센터)",
+   "official_url": "https://www.ssro.net/media/media_view.jsp?bcate=fontdown&no=520735",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "던파 비트비트체 v2",
+   "maker": "넥슨 (던전앤파이터)",
+   "official_url": "https://df.nexon.com/data/font/dnfbitbitv2",
+   "license": "free-commercial",
+   "sandoll_id": 19491,
+   "checked": "font page"
+  },
+  {
+   "name": "교보손글씨 2020 박도연",
+   "maker": "교보문고",
+   "official_url": "https://www.sandollcloud.com/free-font/17590/font",
+   "license": "free-commercial",
+   "sandoll_id": 17590,
+   "checked": "maker site"
+  },
+  {
+   "name": "코트라 희망체",
+   "maker": "KOTRA (대한무역투자진흥공사)",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302259&menuNo=200023",
+   "license": "공공누리 1유형 (no modification or redistribution)",
+   "checked": "font page"
+  },
+  {
+   "name": "MBC1961굴림",
+   "maker": "MBC",
+   "official_url": "https://www.imbc.com/mbc1961font/",
+   "license": "free-commercial (include copyright notice and license text)",
+   "checked": "font page"
+  },
+  {
+   "name": "HS산토끼체",
+   "maker": "토끼네활자공장",
+   "official_url": "https://blog.naver.com/hp0",
+   "license": "free-commercial (modification and redistribution allowed)",
+   "checked": "maker site"
+  },
+  {
+   "name": "산돌 삼립호빵체 Outline",
+   "maker": "산돌 x SPC삼립",
+   "official_url": "https://www.sandollcloud.com/free-font/15539/font",
+   "license": "OFL",
+   "sandoll_id": 15539,
+   "checked": "maker site"
+  },
+  {
+   "name": "조선견고딕",
+   "maker": "조선일보",
+   "official_url": "https://event.chosun.com/100/100font.html",
+   "license": "free-commercial (modification allowed, no paid sale)",
+   "checked": "maker site"
+  },
+  {
+   "name": "머니그라피-라운디드",
+   "maker": "토스뱅크 (Moneygraphy)",
+   "official_url": "https://www.sandollcloud.com/free-font/21136/font",
+   "license": "free-commercial",
+   "sandoll_id": 21136,
+   "checked": "maker site"
+  },
+  {
+   "name": "엘리스디지털배움체",
+   "maker": "엘리스",
+   "official_url": "https://font.elice.io",
+   "license": "OFL",
+   "sandoll_id": 16939,
+   "checked": "maker site"
+  },
+  {
+   "name": "KCC무럭무럭체",
+   "maker": "한국저작권위원회 (공유마당)",
+   "official_url": "https://www.kogl.or.kr/recommend/recommendDivView.do?recommendIdx=10445&division=font",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "SF함박눈",
+   "maker": "눈서리",
+   "official_url": "https://www.sandollcloud.com/free-font/16933/font",
+   "license": "free with limits: commercial use and modification allowed, no paid sale",
+   "sandoll_id": 16933,
+   "checked": "maker site"
+  },
+  {
+   "name": "동글",
+   "maker": "Yanghee Ryu",
+   "official_url": "https://fonts.google.com/specimen/Dongle",
+   "license": "OFL",
+   "google_family": "Dongle",
+   "checked": "font page"
+  },
+  {
+   "name": "Cafe24 Loving u",
+   "maker": "Cafe24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "기랑해랑체",
+   "maker": "우아한형제들 (배달의민족)",
+   "official_url": "http://font.woowahan.com/kiranghaerang/",
+   "license": "free-commercial (modification allowed)",
+   "checked": "font page"
+  },
+  {
+   "name": "도스고딕",
+   "maker": "hurss",
+   "official_url": "https://github.com/hurss/fonts",
+   "license": "MIT (credit the font name in commercial products)",
+   "checked": "maker site"
+  },
+  {
+   "name": "신비는일곱살",
+   "maker": "상상토끼",
+   "official_url": "https://sangsangfont.com/21/?idx=100",
+   "license": "free-commercial (no paid sale of font file, redistribution allowed)",
+   "checked": "font page"
+  },
+  {
+   "name": "그리운 묘은흘림체",
+   "maker": "그리운 (GRIUN) x 묘은",
+   "official_url": "https://www.griun.co.kr/fonts/myoeunheullim",
+   "license": "free with limits: all uses allowed, no modification or sale of font file",
+   "checked": "font page"
+  },
+  {
+   "name": "카카오 큰글씨",
+   "maker": "Kakao",
+   "official_url": "https://github.com/kakao/kakao-font/tree/main/Kakao-Big-Sans",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "둘기마요고딕",
+   "maker": "둘기마요",
+   "official_url": "https://www.sandollcloud.com/free-font/18123/font",
+   "license": "free-commercial (no sale of font itself)",
+   "sandoll_id": 18123,
+   "checked": "maker site"
+  },
+  {
+   "name": "연성체",
+   "maker": "우아한형제들 (배달의민족 연성)",
+   "official_url": "http://font.woowahan.com/yeonsung/",
+   "license": "OFL",
+   "google_family": "Yeon Sung",
+   "checked": "font page"
+  },
+  {
+   "name": "Y클로버체",
+   "maker": "KT",
+   "official_url": "https://www.yspotlight.co.kr/download/font?tabNo=4",
+   "license": "free-commercial (modification allowed, no paid sale)",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 물결",
+   "maker": "한국교육학술정보원 (KERIS) / 교육부",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13366496&menuNo=200195",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "한컴 말랑말랑",
+   "maker": "한글과컴퓨터",
+   "official_url": "https://font.hancom.com/pc/sub/sub1_2.php",
+   "license": "free-commercial (no modification or redistribution, no paid sale)",
+   "checked": "font page"
+  },
+  {
+   "name": "제주고딕",
+   "maker": "제주특별자치도",
+   "official_url": "http://www.jeju.go.kr",
+   "license": "free-commercial (download under 제주소개 > 상징 > 서체; exact page not confirmed)",
+   "checked": "maker site"
+  },
+  {
+   "name": "윤초록우산어린이 민국",
+   "maker": "윤디자인 x 초록우산어린이재단",
+   "official_url": "https://www.childfund.or.kr/news/noticeView.do?bdId=20022940&bmId=10000023",
+   "license": "free-commercial",
+   "sandoll_id": 21060,
+   "checked": "font page"
+  },
+  {
+   "name": "나눔바른펜",
+   "maker": "네이버 (윤디자인 제작)",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "그리운 겔리롤",
+   "maker": "그리운 (GRIUN)",
+   "official_url": "https://www.griun.co.kr/fonts/gellyroll",
+   "license": "free with limits: all uses allowed, no modification or sale of font file",
+   "checked": "font page"
+  },
+  {
+   "name": "국립공원 꼬미",
+   "maker": "국립공원공단",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288476&menuNo=200195",
+   "license": "공공누리 1유형",
+   "checked": "font page"
+  },
+  {
+   "name": "물마루",
+   "maker": "mushsooni",
+   "official_url": "https://mushsooni.github.io/",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "어비 세현체",
+   "maker": "어비 (UhBee)",
+   "official_url": "http://uhbeefont.com/",
+   "license": "free-commercial (modification allowed, no sale of font itself)",
+   "checked": "maker site"
+  },
+  {
+   "name": "IM혜민체",
+   "maker": "DGB대구은행",
+   "official_url": "https://www.dgb.co.kr",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "아리따돋움",
+   "maker": "아모레퍼시픽",
+   "official_url": "https://www.apgroup.com/int/ko/about-us/visual-identity/arita-typeface/arita-typeface.html",
+   "license": "free with limits: free for individuals and companies, redistribution allowed, no commercial sale",
+   "checked": "font page"
+  },
+  {
+   "name": "김정철손글씨",
+   "maker": "정림건축 (김정철)",
+   "official_url": "http://font.junglim.com/",
+   "license": "free-commercial (also on 공유마당 / 공공누리)",
+   "checked": "font page"
+  },
+  {
+   "name": "미원체",
+   "maker": "대상 (미원)",
+   "official_url": "https://www.miwon.co.kr/brand-story/miwon-font/",
+   "license": "free with limits: no paid sale, no BI/CI use, no modification or redistribution",
+   "checked": "font page"
+  },
+  {
+   "name": "스스로넷 손글씨체",
+   "maker": "스스로넷 청소년디자인제작전문그룹 (조서영, 2023)",
+   "official_url": "https://www.ssro.net/media/media_view.jsp?bcate=fontdown&no=522259",
+   "license": "free with limits: commercial use allowed, no modification, redistribution or sale of font",
+   "checked": "font page"
+  },
+  {
+   "name": "만세체",
+   "maker": "윤디자인그룹 (대한민국독립만세)",
+   "official_url": "http://korea.yoondesign.com/",
+   "license": "free with limits: free for all media, no modification, no sale of font file",
+   "checked": "font page"
+  },
+  {
+   "name": "수성혜정체",
+   "maker": "대구광역시 수성구",
+   "official_url": "https://www.suseong.kr/index.do?menu_id=00041061&servletPath=%2Findex.do",
+   "license": "free with limits: free use incl. commercial, no resale of the font",
+   "checked": "font page"
+  },
+  {
+   "name": "그리운 규원체",
+   "maker": "그리운 (GRIUN)",
+   "official_url": "https://www.griun.co.kr/fonts",
+   "license": "unknown (font page not found; GRIUN fonts generally bar modification and sale)",
+   "checked": "maker site"
+  },
+  {
+   "name": "산하엽",
+   "maker": "형민하 x JAMO",
+   "official_url": "https://fonts.google.com/specimen/Diphylleia",
+   "license": "OFL",
+   "google_family": "Diphylleia",
+   "sandoll_id": 18440,
+   "checked": "font page"
+  },
+  {
+   "name": "고딕 아니고 고딩",
+   "maker": "네이버 나눔손글씨",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "DEPARTURE_MONO",
+   "maker": "Helena Zhang",
+   "official_url": "https://departuremono.com/",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "Y페어링체",
+   "maker": "KT",
+   "official_url": "https://www.yspotlight.co.kr/brand/font",
+   "license": "free with limits: commercial use allowed, no modification or sale, no use in company trademark, logo or BI",
+   "checked": "maker site"
+  },
+  {
+   "name": "Kopub World 바탕",
+   "maker": "한국출판인회의",
+   "official_url": "https://www.kopus.org/biz-electronic-font2/",
+   "license": "free-commercial (usage registration required)",
+   "checked": "font page"
+  },
+  {
+   "name": "카페24 당당해",
+   "maker": "Cafe24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "하루일기체 젤리펜",
+   "maker": "캘리폰트 (CalliFont)",
+   "official_url": "https://callifont.com/",
+   "license": "free-commercial (all commercial uses; per search result)",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 포스터",
+   "maker": "교육부·KERIS",
+   "official_url": "https://copyright.keris.or.kr/",
+   "license": "free-commercial (KERIS 학교 안심폰트, 이용 목적·대상 제한 없음)",
+   "checked": "maker site"
+  },
+  {
+   "name": "온글잎 공부잘하자나",
+   "maker": "온글잎(ownglyph)",
+   "official_url": "https://www.ownglyph.com/trial/d07b011d-e038-45a5-a581-234f6bd70b6d",
+   "license": "free-commercial (웹·영상·인쇄·BI/CI·임베딩 등)",
+   "checked": "font page"
+  },
+  {
+   "name": "머니그라피-픽셀",
+   "maker": "토스(비바리퍼블리카)",
+   "official_url": "https://toss.im/moneygraphy-font",
+   "license": "free-commercial (수정·재배포 금지)",
+   "sandoll_id": 21136,
+   "checked": "font page"
+  },
+  {
+   "name": "빙그레 싸만코체",
+   "maker": "빙그레",
+   "official_url": "http://www.bingfont.co.kr/bingfont.html",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "마포금빛나루",
+   "maker": "마포구",
+   "official_url": "http://mapofont.or.kr/",
+   "license": "free-commercial (유료 판매 금지)",
+   "checked": "maker site"
+  },
+  {
+   "name": "야놀자야체",
+   "maker": "야놀자",
+   "official_url": "https://yanolja.in/ko/yafont/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "카페24 PRO UP",
+   "maker": "카페24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "넥슨 워헤이븐",
+   "maker": "넥슨",
+   "official_url": "https://brand.nexon.com/ko",
+   "license": "free-commercial (Klavika NX 제외 넥슨 서체 상업 이용 가능)",
+   "checked": "maker site"
+  },
+  {
+   "name": "Mona12Emoji",
+   "maker": "Monad ABXY",
+   "official_url": "https://github.com/MonadABXY/mona-font",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 받아쓰기",
+   "maker": "헤움디자인 (KERIS 학교 안심폰트)",
+   "official_url": "https://www.sandollcloud.com/free-font/21055/font",
+   "license": "free-commercial (KERIS 학교 안심폰트)",
+   "sandoll_id": 21055,
+   "checked": "font page"
+  },
+  {
+   "name": "KBL점프체 Condensed",
+   "maker": "KBL(한국농구연맹)",
+   "official_url": "https://www.kbl.or.kr",
+   "license": "free-commercial (KBL 홈페이지 'KBL 폰트' 메뉴에서 무료 배포)",
+   "checked": "maker site"
+  },
+  {
+   "name": "핑크퐁 아기상어 서체",
+   "maker": "더핑크퐁컴퍼니",
+   "official_url": "https://www.thepinkfongcompany.com/news/pr/207?page=1",
+   "license": "free-commercial (회사소개>아이덴티티 메뉴에서 무료 다운로드, 세부 조건 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "영양군 음식디미방체",
+   "maker": "영양군(헤움디자인)",
+   "official_url": "https://www.yyg.go.kr/www/introduce/yyg_symbol/font",
+   "license": "free-commercial (KOGL 공공누리 등록, 유형 미확인)",
+   "checked": "font page"
+  },
+  {
+   "name": "KBIZ한마음명조체",
+   "maker": "중소기업중앙회(헤움디자인)",
+   "official_url": "https://www.kbiz.or.kr",
+   "license": "free with limits: 누구나 무료 사용, 서체 자체 판매·양도 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "포천막걸리체",
+   "maker": "포천시",
+   "official_url": "https://www.pocheon.go.kr/www/contents.do?key=3825",
+   "license": "공공누리 1유형",
+   "checked": "font page"
+  },
+  {
+   "name": "넥슨 배찌체",
+   "maker": "넥슨",
+   "official_url": "https://brand.nexon.com/ko",
+   "license": "free with limits: 상업 이용 가능, 파일 수정·재배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "창원단감둥근체",
+   "maker": "창원시",
+   "official_url": "https://www.changwon.go.kr/cwportal/depart/11071/11079/13531.web",
+   "license": "free-commercial (공공누리 등록, 유형 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "바른공군체",
+   "maker": "대한민국 공군 (제작 투게더그룹)",
+   "official_url": "https://togethergroup.co.kr/rokaf",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "낼나 예샘체",
+   "maker": "낼나(온글잎)",
+   "official_url": "https://nelna.shop/shop_view/?idx=7126",
+   "license": "free with limits: 무료 사용, 수정·유료 양도·재판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "Y유니버스체",
+   "maker": "KT",
+   "official_url": "https://www.yspotlight.co.kr/brand/font",
+   "license": "free-commercial (유료 판매 금지)",
+   "checked": "font page"
+  },
+  {
+   "name": "Ok Mallang B",
+   "maker": "오케이티콘(Okticon)",
+   "official_url": "https://www.okticon.com/freefont/?bmode=view&idx=169969470",
+   "license": "free with limits: 개인·상업 이용 가능, 파일 재배포 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "신촌랩소디체",
+   "maker": "서대문구",
+   "official_url": "https://www.sdm.go.kr/news/news/notice.do?mode=view&sdmBoardSeq=298184",
+   "license": "free with limits: 무료, 유료 판매·임의 수정 재배포 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "산돌 삼립호빵체 Basic",
+   "maker": "산돌 x SPC삼립",
+   "official_url": "https://www.sandollcloud.com/free-font/15539/font",
+   "license": "OFL",
+   "sandoll_id": 15539,
+   "checked": "font page"
+  },
+  {
+   "name": "오아고딕",
+   "maker": "OA(산돌 배포)",
+   "official_url": "https://www.sandollcloud.com/free-font/18133/font",
+   "license": "free with limits: 무료, 폰트 유료 판매·임의 수정 재배포 금지",
+   "sandoll_id": 18133,
+   "checked": "font page"
+  },
+  {
+   "name": "태백체",
+   "maker": "태백시",
+   "official_url": "https://www.taebaek.go.kr/www/contents.do?key=1857",
+   "license": "free-commercial (누구나 무료, 영상·인쇄·웹·모바일)",
+   "checked": "font page"
+  },
+  {
+   "name": "아스타산스",
+   "maker": "42dot",
+   "official_url": "https://github.com/42dot/Asta-Sans",
+   "license": "OFL",
+   "google_family": "Asta Sans",
+   "checked": "font page"
+  },
+  {
+   "name": "KBL코트체",
+   "maker": "KBL(한국농구연맹)",
+   "official_url": "https://www.kbl.or.kr",
+   "license": "free-commercial (KBL 홈페이지 'KBL 폰트' 메뉴에서 무료 배포)",
+   "checked": "maker site"
+  },
+  {
+   "name": "레페리포인트",
+   "maker": "레페리 x 윤디자인",
+   "official_url": "http://leferitype.com",
+   "license": "free with limits: 1인 창작자 상업 이용 가능, 5인 이상 기업·단체·브랜드 홍보물 및 변형 불가",
+   "checked": "maker site"
+  },
+  {
+   "name": "신과장",
+   "maker": "상상토끼 폰틀리에",
+   "official_url": "https://sangsangfont.com/21/?idx=102",
+   "license": "free-commercial (폰트 자체 판매 금지)",
+   "checked": "font page"
+  },
+  {
+   "name": "강원교육현옥샘체",
+   "maker": "강원도교육청(헤움디자인)",
+   "official_url": "https://www.sandollcloud.com/free-font/17586/font",
+   "license": "free-commercial (무료, 출처 표기 권장)",
+   "sandoll_id": 17586,
+   "checked": "font page"
+  },
+  {
+   "name": "함초롬체",
+   "maker": "한글과컴퓨터(윤디자인연구소)",
+   "official_url": "https://www.hancom.com/cs_center/csDownload.do",
+   "license": "free with limits: 개인·기업 무료, 상업적 배포·수정 불가",
+   "checked": "maker site"
+  },
+  {
+   "name": "롯데리아 딱붙어체",
+   "maker": "롯데리아",
+   "official_url": "https://lotteriafont.com",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "영덕대게체",
+   "maker": "영덕군",
+   "official_url": "https://www.yd.go.kr/?page_id=120264",
+   "license": "free-commercial (개인·기업 무료)",
+   "checked": "font page"
+  },
+  {
+   "name": "그리운 경찰공평체",
+   "maker": "그리운(Griun)",
+   "official_url": "https://www.griun.co.kr/fonts/polfairness",
+   "license": "free with limits: 모든 범위 사용 가능, 개작·수정·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "귀염발랄체",
+   "maker": "인성IT",
+   "official_url": "https://insungit.com/font",
+   "license": "free-commercial (출처 표기 필요)",
+   "checked": "maker site"
+  },
+  {
+   "name": "카페24슈퍼매직",
+   "maker": "카페24",
+   "official_url": "https://www.sandollcloud.com/free-font/18335/font",
+   "license": "OFL",
+   "sandoll_id": 18335,
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 지우개",
+   "maker": "디자인210 (KERIS 학교 안심폰트)",
+   "official_url": "https://www.sandollcloud.com/free-font/19766/font",
+   "license": "free-commercial (KERIS 학교 안심폰트)",
+   "sandoll_id": 19766,
+   "checked": "font page"
+  },
+  {
+   "name": "HS봄바람체 2.1",
+   "maker": "토끼네활자공장",
+   "official_url": "https://www.sandollcloud.com/free-font/18100/font",
+   "license": "free-commercial (누구나 어떤 용도로도 사용 가능)",
+   "sandoll_id": 18100,
+   "checked": "font page"
+  },
+  {
+   "name": "을지로10년후체",
+   "maker": "우아한형제들(배달의민족)",
+   "official_url": "https://www.woowahan.com/fonts",
+   "license": "free-commercial (개인·기업, 영리·비영리)",
+   "checked": "maker site"
+  },
+  {
+   "name": "둘기마요",
+   "maker": "둘기마요",
+   "official_url": "http://blog.naver.com/oters/221300837221",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "대한민국 독도체",
+   "maker": "윤디자인연구소",
+   "official_url": "https://font.co.kr/collection/sub?family_idx=10225",
+   "license": "free-commercial (세부 조건 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "영덕바다체",
+   "maker": "영덕군",
+   "official_url": "https://www.yd.go.kr/?page_id=120264",
+   "license": "free-commercial (개인·기업 무료)",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 칠판지우개",
+   "maker": "KERIS 학교 안심폰트",
+   "official_url": "https://copyright.keris.or.kr/",
+   "license": "free-commercial (KERIS 학교 안심폰트)",
+   "checked": "maker site"
+  },
+  {
+   "name": "영도체",
+   "maker": "부산 영도구·영도문화도시센터",
+   "official_url": "https://www.sandollcloud.com/free-font/17226/font",
+   "license": "free with limits: 상업 이용 가능, 글꼴 자체 판매 금지",
+   "sandoll_id": 17226,
+   "checked": "font page"
+  },
+  {
+   "name": "윤초록우산어린이 대한",
+   "maker": "윤디자인 x 초록우산어린이재단",
+   "official_url": "https://www.sandollcloud.com/free-font/21059/font",
+   "license": "free with limits: 인쇄·영상·웹 사용 가능, 판매·수정·배포 대가 청구 금지",
+   "sandoll_id": 21059,
+   "checked": "font page"
+  },
+  {
+   "name": "온글잎 류뚱체",
+   "maker": "온글잎(ownglyph)",
+   "official_url": "https://www.ownglyph.com/trial/97a3585b-b388-4ab8-bc8d-a537e75f0280",
+   "license": "free-commercial",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 바른돋움",
+   "maker": "윤디자인 (KERIS 학교 안심폰트)",
+   "official_url": "https://www.sandollcloud.com/free-font/18150/font",
+   "license": "free-commercial (KERIS 학교 안심폰트)",
+   "sandoll_id": 18150,
+   "checked": "font page"
+  },
+  {
+   "name": "전기안전체",
+   "maker": "한국전기안전공사",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13371591&menuNo=200023",
+   "license": "free-commercial (공유마당 등록, 유형 미확인)",
+   "checked": "font page"
+  },
+  {
+   "name": "민산스",
+   "maker": "Jinseong Kim",
+   "official_url": "https://github.com/poposnail61/MinSans",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 그림일기",
+   "maker": "KERIS 학교 안심폰트",
+   "official_url": "https://copyright.keris.or.kr/",
+   "license": "free-commercial (KERIS 학교 안심폰트)",
+   "checked": "maker site"
+  },
+  {
+   "name": "한컴 훈민정음",
+   "maker": "한글과컴퓨터",
+   "official_url": "http://font.hancom.com/index.html",
+   "license": "free with limits: 상업 이용 가능, 글꼴 판매·수정·재배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "이순신돋움체",
+   "maker": "아산시",
+   "official_url": "https://www.asan.go.kr/main/cms/?no=49",
+   "license": "free-commercial (누구나 무료, 제한 없음)",
+   "checked": "font page"
+  },
+  {
+   "name": "KoddiUD 온고딕",
+   "maker": "윤디자인 x 한국장애인개발원",
+   "official_url": "https://www.koddi.or.kr/ud/sub1_2",
+   "license": "free with limits: 상업·비상업 제작물 사용 가능, 서체 자체 판매 금지, 임베딩은 별도 계약",
+   "checked": "font page"
+  },
+  {
+   "name": "MBC1961",
+   "maker": "MBC",
+   "official_url": "http://www.imbc.com/mbc1961font/",
+   "license": "OFL 성격 (무료, 수정·재배포 가능, 폰트 자체 판매 금지)",
+   "checked": "maker site"
+  },
+  {
+   "name": "감탄로드 감탄체",
+   "maker": "강원특별자치도 폐광지역 감탄로드 (태백시 배포)",
+   "official_url": "https://www.taebaek.go.kr/www/contents.do?key=1872",
+   "license": "free-commercial (누구나 무료)",
+   "checked": "font page"
+  },
+  {
+   "name": "닉스곤폰트",
+   "maker": "NIXGON",
+   "official_url": "https://github.com/nixgon/NixgonFonts",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "넥슨 풋볼고딕",
+   "maker": "넥슨",
+   "official_url": "https://fconline.nexon.com/pds/font",
+   "license": "free-commercial",
+   "sandoll_id": 16182,
+   "checked": "font page"
+  },
+  {
+   "name": "레베카체",
+   "maker": "얼리폰트(EUX 제작)",
+   "official_url": "http://www.earlyfont.com/portfolio/EF_REBECCA",
+   "license": "OFL (2차 출처 기준)",
+   "checked": "maker site"
+  },
+  {
+   "name": "이순신체",
+   "maker": "아산시",
+   "official_url": "https://www.sandollcloud.com/free-font/16228/font",
+   "license": "free with limits: 무료 사용, 유료 양도·판매 금지",
+   "sandoll_id": 16228,
+   "checked": "font page"
+  },
+  {
+   "name": "상주곶감체",
+   "maker": "상주시",
+   "official_url": "https://www.sandollcloud.com/free-font/17616/font",
+   "license": "free with limits: 무료 사용, 재판매 금지",
+   "sandoll_id": 17616,
+   "checked": "font page"
+  },
+  {
+   "name": "가석체",
+   "maker": null,
+   "official_url": "https://www.sandollcloud.com/free-font/18443/font",
+   "license": "OFL",
+   "google_family": "Gasoek One",
+   "sandoll_id": 18443,
+   "checked": "font page"
+  },
+  {
+   "name": "제주한라산",
+   "maker": "제주특별자치도",
+   "official_url": "https://www.sandollcloud.com/free-font/214/font",
+   "license": "free with limits: 무료 사용, 유료 양도·판매 금지",
+   "sandoll_id": 214,
+   "checked": "font page"
+  },
+  {
+   "name": "KCC은영체",
+   "maker": "한국저작권위원회",
+   "official_url": "https://gongu.copyright.or.kr",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "플라이트 산스 Title",
+   "maker": "제주항공",
+   "official_url": "https://www.jejuair.net/flightSans.do",
+   "license": "unknown",
+   "checked": "font page"
+  },
+  {
+   "name": "나눔휴먼",
+   "maker": "네이버",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "속초바다 돋움체",
+   "maker": "속초시",
+   "official_url": "https://www.sandollcloud.com/free-font/19825/font",
+   "license": "free-commercial: 공유·영리 이용 가능, 출처 표시",
+   "sandoll_id": 19825,
+   "checked": "font page"
+  },
+  {
+   "name": "빛고을광주체",
+   "maker": "광주광역시",
+   "official_url": "https://www.sandollcloud.com/free-font/16210/font",
+   "license": "free with limits: 무료 사용, 유료 양도·판매 및 변형 금지",
+   "sandoll_id": 16210,
+   "checked": "font page"
+  },
+  {
+   "name": "완도희망체",
+   "maker": "완도군",
+   "official_url": "https://www.sandollcloud.com/free-font/16224/font",
+   "license": "free-commercial",
+   "sandoll_id": 16224,
+   "checked": "font page"
+  },
+  {
+   "name": "던파 연단된 칼날",
+   "maker": "넥슨",
+   "official_url": "https://www.sandollcloud.com/free-font/19490/font",
+   "license": "free-commercial: 폰트 파일 수정·재배포 금지",
+   "sandoll_id": 19490,
+   "checked": "font page"
+  },
+  {
+   "name": "EBS훈민정음새론체",
+   "maker": "EBS",
+   "official_url": "https://www.sandollcloud.com/free-font/16319/font",
+   "license": "free-commercial",
+   "sandoll_id": 16319,
+   "checked": "font page"
+  },
+  {
+   "name": "넷마블체",
+   "maker": "넷마블",
+   "official_url": "http://company.netmarble.com/company/ci?tab=2",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "마포다카포",
+   "maker": "마포구 (디자이너 임혜은)",
+   "official_url": "https://www.sandollcloud.com/free-font/15848/font",
+   "license": "free-commercial: 인쇄·웹·포장·영상·임베딩·BI/CI 가능",
+   "sandoll_id": 15848,
+   "checked": "font page"
+  },
+  {
+   "name": "추사 사랑체",
+   "maker": "예산군 (윤디자인 제작)",
+   "official_url": "https://www.sandollcloud.com/free-font/17637/font",
+   "license": "공공누리 1유형",
+   "sandoll_id": 17637,
+   "checked": "font page"
+  },
+  {
+   "name": "강한육군",
+   "maker": "대한민국 육군",
+   "official_url": "https://www.sandollcloud.com/free-font/16050/font",
+   "license": "free with limits: 무료 사용, 유료 판매·변형 금지",
+   "sandoll_id": 16050,
+   "checked": "font page"
+  },
+  {
+   "name": "네오현대",
+   "maker": "현대그룹",
+   "official_url": "https://www.sandollcloud.com/free-font/23206/font",
+   "license": "free with limits: 상업 사용 가능, 폰트 파일 판매·수정·재배포 금지",
+   "sandoll_id": 23206,
+   "checked": "font page"
+  },
+  {
+   "name": "나눔고딕코딩",
+   "maker": "네이버",
+   "official_url": "https://fonts.google.com/specimen/Nanum+Gothic+Coding",
+   "license": "OFL",
+   "google_family": "Nanum Gothic Coding",
+   "checked": "font page"
+  },
+  {
+   "name": "KCC 안창호체",
+   "maker": "한국저작권위원회 (윤디자인 제작)",
+   "official_url": "https://www.sandollcloud.com/free-font/19622/font",
+   "license": "OFL",
+   "sandoll_id": 19622,
+   "checked": "font page"
+  },
+  {
+   "name": "카페24 아네모네 에어",
+   "maker": "카페24",
+   "official_url": "https://fonts.cafe24.com",
+   "license": "OFL (해당 폰트 페이지 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "원스토어 모바일고딕 본문체",
+   "maker": "원스토어",
+   "official_url": "https://www.sandollcloud.com/free-font/16955/font",
+   "license": "free-commercial: 폰트 판매·수정·재배포 금지",
+   "sandoll_id": 16955,
+   "checked": "font page"
+  },
+  {
+   "name": "해피니스 산스",
+   "maker": "현대백화점",
+   "official_url": "https://www.sandollcloud.com/free-font/17648/font",
+   "license": "OFL",
+   "sandoll_id": 17648,
+   "checked": "font page"
+  },
+  {
+   "name": "Y이드스트릿체",
+   "maker": "KT",
+   "official_url": "https://www.sandollcloud.com/free-font/16960/font",
+   "license": "free-commercial: 재배포 가능",
+   "sandoll_id": 16960,
+   "checked": "font page"
+  },
+  {
+   "name": "김정철고딕",
+   "maker": "정림건축",
+   "official_url": "https://www.sandollcloud.com/free-font/17596/font",
+   "license": "free-commercial: 라이선스 고지 시 재배포 가능, 폰트 판매 금지",
+   "sandoll_id": 17596,
+   "checked": "font page"
+  },
+  {
+   "name": "가평 물결",
+   "maker": "가평군 (윤디자인 제작)",
+   "official_url": "https://www.sandollcloud.com/free-font/19792/font",
+   "license": "free with limits: 영리 판매 금지, 원형 그대로 사용, 출처 표시",
+   "sandoll_id": 19792,
+   "checked": "font page"
+  },
+  {
+   "name": "카페24 숑숑",
+   "maker": "카페24",
+   "official_url": "https://www.sandollcloud.com/free-font/16260/font",
+   "license": "free-commercial: 폰트 판매 금지",
+   "sandoll_id": 16260,
+   "checked": "font page"
+  },
+  {
+   "name": "KCC한빛체",
+   "maker": "한국저작권위원회 (윤디자인 제작)",
+   "official_url": "https://www.sandollcloud.com/free-font/19815/font",
+   "license": "OFL",
+   "sandoll_id": 19815,
+   "checked": "font page"
+  },
+  {
+   "name": "HS여름물빛체2.0",
+   "maker": "토끼네활자공장",
+   "official_url": "https://www.sandollcloud.com/free-font/20537/font",
+   "license": "unknown",
+   "sandoll_id": 20537,
+   "checked": "maker site"
+  },
+  {
+   "name": "전주공예명조체",
+   "maker": "한국전통문화전당 전주공예품전시관",
+   "official_url": "https://www.sandollcloud.com/free-font/19309/font",
+   "license": "free-commercial",
+   "sandoll_id": 19309,
+   "checked": "maker site"
+  },
+  {
+   "name": "나눔명조옛한글",
+   "maker": "네이버",
+   "official_url": "https://hangeul.naver.com/font",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "평창체",
+   "maker": "평창군",
+   "official_url": "https://www.sandollcloud.com/free-font/17641/font",
+   "license": "unknown",
+   "sandoll_id": 17641,
+   "checked": "font page"
+  },
+  {
+   "name": "바른돋움체",
+   "maker": "교육부·한국교육학술정보원 (학교안심 바른돋움으로 추정)",
+   "official_url": "https://www.sandollcloud.com/free-font/18150/font",
+   "license": "OFL",
+   "sandoll_id": 18150,
+   "checked": "maker site"
+  },
+  {
+   "name": "정선아리랑혼체",
+   "maker": "정선군",
+   "official_url": "https://www.sandollcloud.com/free-font/16238/font",
+   "license": "unknown",
+   "sandoll_id": 16238,
+   "checked": "font page"
+  },
+  {
+   "name": "HS집토끼체 라운드",
+   "maker": "토끼네활자공장",
+   "official_url": "https://www.sandollcloud.com/free-font/17689/font",
+   "license": "unknown",
+   "sandoll_id": 17689,
+   "checked": "maker site"
+  },
+  {
+   "name": "온글잎 데이지",
+   "maker": "보이저엑스 (온글잎)",
+   "official_url": "https://www.ownglyph.com",
+   "license": "free-commercial",
+   "checked": "maker site"
+  },
+  {
+   "name": "온글잎 김콩해",
+   "maker": "보이저엑스 (온글잎)",
+   "official_url": "https://www.sandollcloud.com/free-font/22546/font",
+   "license": "free-commercial",
+   "sandoll_id": 22546,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 어항꾸미기",
+   "maker": "교육부·한국교육학술정보원",
+   "official_url": "https://www.sandollcloud.com/free-font/22623/font",
+   "license": "OFL",
+   "sandoll_id": 22623,
+   "checked": "font page"
+  },
+  {
+   "name": "KBIZ한마음고딕체",
+   "maker": "중소기업중앙회",
+   "official_url": "https://www.sandollcloud.com/free-font/15795/font",
+   "license": "OFL",
+   "sandoll_id": 15795,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 리코더",
+   "maker": "교육부·한국교육학술정보원",
+   "official_url": "https://www.sandollcloud.com/free-font/19778/font",
+   "license": "OFL",
+   "sandoll_id": 19778,
+   "checked": "font page"
+  },
+  {
+   "name": "Neo둥근모Pro",
+   "maker": "NeoDunggeunmo Project (neodgm)",
+   "official_url": "https://github.com/neodgm",
+   "license": "OFL",
+   "sandoll_id": 15874,
+   "checked": "font page"
+  },
+  {
+   "name": "대한체",
+   "maker": "윤디자인연구소",
+   "official_url": "http://font.co.kr/yoonfont/free/free_daehan.asp",
+   "license": "free-commercial: 별도 허가 없이 무료 사용",
+   "checked": "maker site"
+  },
+  {
+   "name": "망고보드 또박체",
+   "maker": "(주)리아모어소프트 (망고보드)",
+   "official_url": "https://www.sandollcloud.com/free-font/20583/font",
+   "license": "OFL",
+   "sandoll_id": 20583,
+   "checked": "font page"
+  },
+  {
+   "name": "이랜드 나이스체",
+   "maker": "이랜드리테일",
+   "official_url": "https://www.sandollcloud.com/free-font/15708/font",
+   "license": "free-commercial: 수정·재배포 가능",
+   "sandoll_id": 15708,
+   "checked": "font page"
+  },
+  {
+   "name": "ylee 추억은 잠들지 않는다",
+   "maker": "ylee",
+   "official_url": "https://www.dafont.com/ylee-mhim",
+   "license": "free-commercial: 상업·비상업 모두 무료, 허락 불필요",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 사물함",
+   "maker": "교육부·한국교육학술정보원",
+   "official_url": "https://www.sandollcloud.com/free-font/19773/font",
+   "license": "OFL",
+   "sandoll_id": 19773,
+   "checked": "font page"
+  },
+  {
+   "name": "박용준투사회보체",
+   "maker": null,
+   "official_url": "https://www.sandollcloud.com/free-font/17334/font",
+   "license": "free with limits: 상업 사용 가능, 임베딩·재배포 금지",
+   "sandoll_id": 17334,
+   "checked": "font page"
+  },
+  {
+   "name": "구름 산스",
+   "maker": "구름 (goorm)",
+   "official_url": "https://goorm-sans.goorm.io",
+   "license": "OFL",
+   "sandoll_id": 21069,
+   "checked": "font page"
+  },
+  {
+   "name": "카카오 작은글씨",
+   "maker": "카카오",
+   "official_url": "https://www.kakaocorp.com/page/detail/11594",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "무적해병체",
+   "maker": "한그리아 (저작권 대한민국 해병대)",
+   "official_url": "https://www.sandollcloud.com/free-font/22147/font",
+   "license": "OFL",
+   "sandoll_id": 22147,
+   "checked": "font page"
+  },
+  {
+   "name": "엘리스 디지털코딩체",
+   "maker": "엘리스(Elice)",
+   "official_url": "https://elice.io/brand",
+   "license": "unknown (brand page returned 404 on fetch, license not read)",
+   "checked": "maker site"
+  },
+  {
+   "name": "감탄로드 탄탄체",
+   "maker": "투게더그룹 (저작권 강원특별자치도)",
+   "official_url": "https://www.sandollcloud.com/free-font/21063/font",
+   "license": "free-commercial (no special permission, BI/CI allowed)",
+   "sandoll_id": 21063,
+   "checked": "font page"
+  },
+  {
+   "name": "고도마음체",
+   "maker": "NHN고도",
+   "official_url": "https://www.sandollcloud.com/free-font/16058/font",
+   "license": "free-commercial (modify/redistribute OK, selling the font file prohibited)",
+   "sandoll_id": 16058,
+   "checked": "font page"
+  },
+  {
+   "name": "조선굵은고딕",
+   "maker": "조선일보",
+   "official_url": "https://www.sandollcloud.com/free-font/16243/font",
+   "license": "free-commercial (distribute unmodified, no fee, no modify)",
+   "sandoll_id": 16243,
+   "checked": "font page"
+  },
+  {
+   "name": "부산체",
+   "maker": "부산광역시",
+   "official_url": "https://www.sandollcloud.com/free-font/16209/font",
+   "license": "free-commercial (resale or transfer for a fee prohibited); search result gives official page http://www.busan.go.kr/bhbusan",
+   "sandoll_id": 16209,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 꼬꼬마",
+   "maker": "디자인210 (저작권 KERIS, 교육부, 시도교육청)",
+   "official_url": "https://www.sandollcloud.com/free-font/19783/font",
+   "license": "OFL",
+   "sandoll_id": 19783,
+   "checked": "font page"
+  },
+  {
+   "name": "안성탕면체",
+   "maker": "농심",
+   "official_url": "https://www.nongshim.com",
+   "license": "free (per news report, font page not opened)",
+   "checked": "maker site"
+  },
+  {
+   "name": "Cafe24 Meongi Black",
+   "maker": "Cafe24",
+   "official_url": "https://www.sandollcloud.com/free-font/20637/font",
+   "license": "OFL (Sandoll page lists it as Cafe24 Meongi B, so name match is inferred)",
+   "sandoll_id": 20637,
+   "checked": "maker site"
+  },
+  {
+   "name": "코트라 손글씨체",
+   "maker": "KOTRA (제작 투게더그룹)",
+   "official_url": "https://www.sandollcloud.com/free-font/16644/font",
+   "license": "free-commercial (modify/redistribute prohibited, distribution only via KOTRA site)",
+   "sandoll_id": 16644,
+   "checked": "font page"
+  },
+  {
+   "name": "도봉옛길체",
+   "maker": "도봉구",
+   "official_url": "https://www.sandollcloud.com/free-font/18204/font",
+   "license": "free (license text not read)",
+   "sandoll_id": 18204,
+   "checked": "maker site"
+  },
+  {
+   "name": "생거진천체",
+   "maker": "진천군",
+   "official_url": "https://www.sandollcloud.com/free-font/17692/font",
+   "license": "free-commercial (no paid transfer or sale, no illegal modification)",
+   "sandoll_id": 17692,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 퍼즐 블랙",
+   "maker": "KERIS (교육부, 시도교육청)",
+   "official_url": "https://www.sandollcloud.com/free-font/21049/font",
+   "license": "OFL",
+   "sandoll_id": 21049,
+   "checked": "maker site"
+  },
+  {
+   "name": "김좌진장군체",
+   "maker": "홍성군",
+   "official_url": "https://www.sandollcloud.com/free-font/15626/font",
+   "license": "free (license text not read)",
+   "sandoll_id": 15626,
+   "checked": "maker site"
+  },
+  {
+   "name": "미생체",
+   "maker": "카카오, 윤태호, 산돌",
+   "official_url": "https://www.sandollcloud.com/free-font/225/font",
+   "license": "free (kakaocorp announcement https://www.kakaocorp.com/page/detail/7903)",
+   "sandoll_id": 225,
+   "checked": "font page"
+  },
+  {
+   "name": "가비아 던체",
+   "maker": "가비아 (디자이너 조영재)",
+   "official_url": "https://www.sandollcloud.com/free-font/22609/font",
+   "license": "free-commercial",
+   "sandoll_id": 22609,
+   "checked": "font page"
+  },
+  {
+   "name": "남양주고딕",
+   "maker": "남양주시",
+   "official_url": "https://www.sandollcloud.com/free-font/777/font",
+   "license": "free-commercial (no paid transfer or sale)",
+   "sandoll_id": 777,
+   "checked": "font page"
+  },
+  {
+   "name": "godo rounded",
+   "maker": "NHN고도",
+   "official_url": "https://www.sandollcloud.com/free-font/16057/font",
+   "license": "free-commercial (modify/redistribute OK, selling the font file prohibited)",
+   "sandoll_id": 16057,
+   "checked": "font page"
+  },
+  {
+   "name": "온글잎 재건사",
+   "maker": "온글잎(Ownglyph)",
+   "official_url": "https://www.ownglyph.com",
+   "license": "unknown (font not listed on the site, font-creation service ended 2023-07-24)",
+   "checked": "maker site"
+  },
+  {
+   "name": "넥슨 카트 고딕",
+   "maker": "넥슨",
+   "official_url": "https://brand.nexon.com/ci-brand-guidelines/typeface",
+   "license": "free-commercial (no modify/redistribute edits, no sale)",
+   "sandoll_id": 19790,
+   "checked": "font page"
+  },
+  {
+   "name": "전남교육유나체",
+   "maker": "전라남도교육청 (헤움디자인)",
+   "official_url": "https://www.sandollcloud.com/free-font/20751/font",
+   "license": "free-commercial (no special permission)",
+   "sandoll_id": 20751,
+   "checked": "font page"
+  },
+  {
+   "name": "빙그레 메로나체",
+   "maker": "빙그레",
+   "official_url": "https://www.sandollcloud.com/free-font/16818/font",
+   "license": "free-commercial (Sandoll page says OFL but also modify/redistribute prohibited); maker site bingfont.co.kr not reachable on fetch",
+   "sandoll_id": 16818,
+   "checked": "font page"
+  },
+  {
+   "name": "J개구쟁이",
+   "maker": "직지소프트 (Jikjisoft)",
+   "official_url": "https://www.sandollcloud.com/free-font/17562/font",
+   "license": "OFL",
+   "google_family": "Gaegu",
+   "sandoll_id": 17562,
+   "checked": "maker site"
+  },
+  {
+   "name": "그리운 사막의 연우체",
+   "maker": "압둘라 x 타이비(그리운)",
+   "official_url": "https://www.sandollcloud.com/free-font/22697/font",
+   "license": "OFL",
+   "sandoll_id": 22697,
+   "checked": "font page"
+  },
+  {
+   "name": "조선가는고딕",
+   "maker": "조선일보",
+   "official_url": "https://www.sandollcloud.com/free-font/16240/font",
+   "license": "free-commercial (distribute unmodified, no fee, no modify)",
+   "sandoll_id": 16240,
+   "checked": "font page"
+  },
+  {
+   "name": "하늘내린 인제체",
+   "maker": "인제군",
+   "official_url": "https://www.sandollcloud.com/free-font/22201/font",
+   "license": "free (selling the font file prohibited)",
+   "sandoll_id": 22201,
+   "checked": "font page"
+  },
+  {
+   "name": "도스필기",
+   "maker": "leedheo (repo hurss/fonts)",
+   "official_url": "https://github.com/hurss/fonts",
+   "license": "MIT",
+   "checked": "font page"
+  },
+  {
+   "name": "KCC차쌤체",
+   "maker": "KCC",
+   "official_url": "https://www.sandollcloud.com/free-font/15803/font",
+   "license": "OFL (per search summary of the Sandoll page, not opened)",
+   "sandoll_id": 15803,
+   "checked": "font page"
+  },
+  {
+   "name": "한림고딕체",
+   "maker": "학교법인 일송학원 (한림대)",
+   "official_url": "https://www.sandollcloud.com/free-font/17644/font",
+   "license": "free-commercial (no sale, no modification)",
+   "sandoll_id": 17644,
+   "checked": "font page"
+  },
+  {
+   "name": "한컴 울주 반구대 암각화체",
+   "maker": "윤디자인 (배포 울주문화재단)",
+   "official_url": "https://www.sandollcloud.com/free-font/17646/font",
+   "license": "free with limits: use as distributed, no bundling, redistribution or sale",
+   "sandoll_id": 17646,
+   "checked": "font page"
+  },
+  {
+   "name": "세종학당",
+   "maker": "세종학당재단, 한컴, 윤디자인",
+   "official_url": "https://www.sandollcloud.com/free-font/19475/font",
+   "license": "free-commercial (no sale, no modification); the foundation site also offers it under 재단소개 > 기관개요 > 세종학당체",
+   "sandoll_id": 19475,
+   "checked": "font page"
+  },
+  {
+   "name": "상주다정다감체",
+   "maker": "상주시 (제작 투게더그룹)",
+   "official_url": "https://www.sandollcloud.com/free-font/17617/font",
+   "license": "free-commercial (commercial resale prohibited)",
+   "sandoll_id": 17617,
+   "checked": "font page"
+  },
+  {
+   "name": "가람연꽃",
+   "maker": "NAVER (나눔손글씨 가람연꽃)",
+   "official_url": "https://www.sandollcloud.com/free-font/16074/font",
+   "license": "OFL",
+   "sandoll_id": 16074,
+   "checked": "font page"
+  },
+  {
+   "name": "LXGW 문해",
+   "maker": "LXGW (霞鹜文楷 KR)",
+   "official_url": "https://github.com/lxgw/LxgwWenKai",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "Y 너만을 비춤체",
+   "maker": "KT",
+   "official_url": "https://www.sandollcloud.com/free-font/16792/font",
+   "license": "OFL (BI/CI use prohibited per Sandoll page)",
+   "sandoll_id": 16792,
+   "checked": "font page"
+  },
+  {
+   "name": "사천항공체",
+   "maker": "사천시 (제작 산돌티움)",
+   "official_url": "https://www.sandollcloud.com/free-font/22161/font",
+   "license": "OFL",
+   "sandoll_id": 22161,
+   "checked": "font page"
+  },
+  {
+   "name": "칠곡할매 김영분체",
+   "maker": "칠곡군",
+   "official_url": "https://www.sandollcloud.com/free-font/16251/font",
+   "license": "free-commercial (no paid transfer or sale)",
+   "sandoll_id": 16251,
+   "checked": "font page"
+  },
+  {
+   "name": "인천교육힘찬체",
+   "maker": "인천광역시교육청 (제작 온글잎)",
+   "official_url": "https://www.sandollcloud.com/free-font/18139/font",
+   "license": "free-commercial (no paid sale or transfer)",
+   "sandoll_id": 18139,
+   "checked": "font page"
+  },
+  {
+   "name": "한림명조체",
+   "maker": "학교법인 일송학원 (한림대)",
+   "official_url": "https://www.sandollcloud.com/free-font/17645/font",
+   "license": "free-commercial (no sale, no modification)",
+   "sandoll_id": 17645,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 상장",
+   "maker": "KERIS (교육부, 시도교육청)",
+   "official_url": "https://www.sandollcloud.com/free-font/22615/font",
+   "license": "OFL",
+   "sandoll_id": 22615,
+   "checked": "font page"
+  },
+  {
+   "name": "코트라 도약체",
+   "maker": "KOTRA (제작 투게더그룹)",
+   "official_url": "https://www.sandollcloud.com/free-font/17639/font",
+   "license": "free-commercial (modify/redistribute prohibited, distribution only via KOTRA site)",
+   "sandoll_id": 17639,
+   "checked": "font page"
+  },
+  {
+   "name": "모노플렉스KR",
+   "maker": "김양수 (y-kim)",
+   "official_url": "https://github.com/y-kim/monoplex",
+   "license": "OFL (from search snippet, LICENSE.md not read)",
+   "checked": "font page"
+  },
+  {
+   "name": "Cafe24 Meongi White",
+   "maker": "Cafe24",
+   "official_url": "https://www.sandollcloud.com/free-font/20638/font",
+   "license": "OFL (page not opened; the Meongi B page states OFL)",
+   "sandoll_id": 20638,
+   "checked": "maker site"
+  },
+  {
+   "name": "마포홍대프리덤",
+   "maker": "마포구 (디자이너 임성화)",
+   "official_url": "https://www.sandollcloud.com/free-font/15854/font",
+   "license": "free (license text not read)",
+   "sandoll_id": 15854,
+   "checked": "maker site"
+  },
+  {
+   "name": "갈무리7",
+   "maker": "이민서 (quiple)",
+   "official_url": "https://github.com/quiple/galmuri",
+   "license": "OFL",
+   "webfont_css_url": "https://cdn.jsdelivr.net/npm/galmuri/dist/galmuri.css",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 몽글몽글",
+   "maker": "디자인210 (저작권 KERIS)",
+   "official_url": "https://www.sandollcloud.com/free-font/19775/font",
+   "license": "OFL",
+   "sandoll_id": 19775,
+   "checked": "font page"
+  },
+  {
+   "name": "서강체",
+   "maker": "서강대학교",
+   "official_url": "https://www.sandollcloud.com/free-font/19785/font",
+   "license": "free-commercial (no sale, no distortion or modification)",
+   "sandoll_id": 19785,
+   "checked": "font page"
+  },
+  {
+   "name": "어비 마이센체",
+   "maker": "uhbee(어비)",
+   "official_url": "http://www.uhbeefont.com",
+   "license": "free-commercial: 유료 재판매 불가, 출처표시 불필요",
+   "checked": "maker site"
+  },
+  {
+   "name": "피플퍼스트투쟁체",
+   "maker": "피플퍼스트 성북센터",
+   "official_url": "http://www.pfsb.co.kr/fonts/fonts_sub01.html",
+   "license": "free-commercial (무료 배포, 세부 조항 확인 불가)",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 몽당분필",
+   "maker": "KERIS/교육부/17개 시도교육청",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "덕온공주체",
+   "maker": "국립한글박물관",
+   "official_url": "https://hanfont.hangeul.go.kr/relaxfont/font/deokon.do",
+   "license": "free-commercial: 별도 승인 없이 상업 이용 가능",
+   "checked": "font page"
+  },
+  {
+   "name": "온글잎 위씨리스트",
+   "maker": "온글잎(Ownglyph)",
+   "official_url": "https://www.ownglyph.com/trial/35d91073-2aee-4d63-b072-c5c84b140666",
+   "license": "free-commercial: 상업 이용 무료 (서비스 종료 안내 있음)",
+   "checked": "font page"
+  },
+  {
+   "name": "하나서체",
+   "maker": "하나금융그룹",
+   "official_url": "https://www.sandollcloud.com/free-font/17915/font",
+   "license": "free with limits: 상업 무료, 수정·재판매 불가, CI/BI 제작 불가",
+   "sandoll_id": 17915,
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 퍼즐 아웃라인",
+   "maker": "KERIS/교육부/17개 시도교육청",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "KCC도담도담체",
+   "maker": "한국저작권위원회",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13209184&menuNo=200023",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "도스명조",
+   "maker": "leedheo",
+   "official_url": "https://github.com/hurss/fonts",
+   "license": "free-commercial: 상업 이용 시 글꼴 이용 사실 명시 (검색 결과에 MIT 라는 서술도 있어 불일치)",
+   "checked": "maker site"
+  },
+  {
+   "name": "말싸미815",
+   "maker": "준폰트(Joonfont)",
+   "official_url": "https://joonfont.com/shop/815/",
+   "license": "free with limits: 개인·단체·기업 무료, PDF 등 임베딩 불가, 재배포 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "태-흘림",
+   "maker": "태시스템(태폰트)",
+   "official_url": "http://free.taefont.com/",
+   "license": "free-commercial: 개인·기업 모두 무료",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 가을소풍",
+   "maker": "KERIS/교육부/17개 시도교육청",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13333604&menuNo=200023",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "잘풀리는하루체",
+   "maker": "미래생활(잘풀리는집)/디자인210",
+   "official_url": "http://www.jjtissue.com/new/fonts/index.php",
+   "license": "free with limits: 상업 무료, 유료 판매·수정·재배포 불가",
+   "checked": "maker site"
+  },
+  {
+   "name": "정선아리랑뿌리체",
+   "maker": "정선군",
+   "official_url": "http://www.jeongseonfont.com/about-4.html",
+   "license": "공공누리 1유형",
+   "checked": "font page"
+  },
+  {
+   "name": "가비아 청연체",
+   "maker": "가비아",
+   "official_url": "https://github.com/gabia/fonts",
+   "license": "free-commercial: 개인·기업 무료, 수정·재배포 가능",
+   "checked": "font page"
+  },
+  {
+   "name": "그리운 경찰인권체",
+   "maker": "서울경찰청/그리운",
+   "official_url": "https://www.griun.co.kr/fonts/polhumanrights",
+   "license": "free with limits: 모든 용도 무료, 개작·수정·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "고양덕양체",
+   "maker": "고양시",
+   "official_url": "https://www.kogl.or.kr/recommend/recommendDivView.do?recommendIdx=9504&division=font",
+   "license": "공공누리 1유형",
+   "checked": "font page"
+  },
+  {
+   "name": "밀양해맑은상상체",
+   "maker": "밀양시",
+   "official_url": "https://www.miryang.go.kr/tur/index.do?mnNo=30105000000",
+   "license": "free-commercial (밀양시 라이선스, 세부 조항 확인 불가)",
+   "checked": "maker site"
+  },
+  {
+   "name": "디자인하우스체",
+   "maker": "디자인하우스",
+   "official_url": "https://www.designhouse.co.kr/service/dhfont",
+   "license": "free with limits: 상업 이용 가능, 수정·변형·유료 양도 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "망고빙수",
+   "maker": "망고보드",
+   "official_url": "https://www.mangoboard.net/guide/385",
+   "license": "free-commercial (망고보드 서체 안내 페이지. 폰트 개별 페이지 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "낼나 리지체",
+   "maker": "낼나(nelna)/온글잎",
+   "official_url": "https://nelna.shop/",
+   "license": "free with limits: 상업 이용 가능, 수정·유료 양도·재판매 불가 (낼나샵 회원가입 후 다운로드)",
+   "checked": "maker site"
+  },
+  {
+   "name": "KCC손기정체",
+   "maker": "한국저작권위원회/손기정기념재단",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13305046&menuNo=200023",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "하남다움체",
+   "maker": "하남시",
+   "official_url": "https://www.hanam.go.kr/www/contents.do?key=7660",
+   "license": "공공누리 1유형",
+   "checked": "font page"
+  },
+  {
+   "name": "그리운 심심체",
+   "maker": "그리운(Griun)",
+   "official_url": "https://www.griun.co.kr/fonts",
+   "license": "unknown (개별 페이지 미확인. 그리운 폰트는 대체로 모든 용도 무료, 수정·판매 금지)",
+   "checked": "maker site"
+  },
+  {
+   "name": "상주경천섬체",
+   "maker": "상주시",
+   "official_url": "https://www.sangju.go.kr/page/10063/10422.tc",
+   "license": "free-commercial: 무료, 상업 재판매 제한",
+   "checked": "font page"
+  },
+  {
+   "name": "HS두꺼비체",
+   "maker": "HS(유미주의적달필가 블로그)",
+   "official_url": "https://blog.naver.com/hp0/221206126048",
+   "license": "OFL (제3자 정리 기준. 공식 페이지에서 직접 확인 못함)",
+   "checked": "maker site"
+  },
+  {
+   "name": "온글잎 윤우체",
+   "maker": "온글잎(Ownglyph)",
+   "official_url": "https://www.sandollcloud.com/free-font/16946/font",
+   "license": "free-commercial: 상업 이용 포함 용도 제한 없음",
+   "sandoll_id": 16946,
+   "checked": "maker site"
+  },
+  {
+   "name": "수박화체",
+   "maker": "얼리폰트(Earlyfont)",
+   "official_url": "https://earlyfont.com/20/?idx=14",
+   "license": "free with limits: 무료, 임베디드(앱·웹폰트·게임 등) 용도는 별도 문의",
+   "checked": "font page"
+  },
+  {
+   "name": "영주선비체",
+   "maker": "영주시",
+   "official_url": "https://yeongju.go.kr/open_content/main/page.do?amp=&mnu_uid=11659",
+   "license": "free with limits: 상업 이용 가능, 글꼴 자체 판매·변형 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "넥센타이어",
+   "maker": "넥센타이어",
+   "official_url": "https://www.nexentire.com/kr/communication/download/font/index.php",
+   "license": "free with limits: 무료 상업 이용, 서체 자체 유료 양도·판매 금지",
+   "checked": "maker site"
+  },
+  {
+   "name": "Mona10",
+   "maker": "MonadABXY (mona-font)",
+   "official_url": "https://github.com/MonadABXY/mona-font",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "한컴 산스",
+   "maker": "한글과컴퓨터",
+   "official_url": "https://font.hancom.com/pc/sub/sub1_1.php",
+   "license": "free with limits: 상업 이용 무료, 수정·재배포·글꼴 판매 불가",
+   "checked": "font page"
+  },
+  {
+   "name": "바른히피",
+   "maker": "네이버(나눔손글씨 바른히피)",
+   "official_url": "https://clova.ai/handwriting/list.html",
+   "license": "free with limits: 상업 이용 가능, 글꼴 자체 판매 금지 (네이버 나눔손글씨 정책, OFL 아님으로 확인 불가)",
+   "sandoll_id": 16113,
+   "checked": "maker site"
+  },
+  {
+   "name": "한글재민체",
+   "maker": "한글재민체연구회/윤디자인그룹",
+   "official_url": "https://www.hangeuljaemin.kr/downloads",
+   "license": "OFL (4.0 기준)",
+   "checked": "font page"
+  },
+  {
+   "name": "MICE고딕",
+   "maker": "한국MICE협회/문화체육관광부",
+   "official_url": "http://www.micecontents.or.kr/kor/main/",
+   "license": "free with limits: 개인·기업 무료, 무단 재배포 불가",
+   "sandoll_id": 17571,
+   "checked": "maker site"
+  },
+  {
+   "name": "휴먼범석체 네오",
+   "maker": "이범돌(beomdolee)",
+   "official_url": "https://beomdolee.com/%ED%9C%B4%EB%A8%BC%EB%B2%94%EC%84%9D%EC%B2%B4-%EB%84%A4%EC%98%A4/",
+   "license": "free-commercial: 개인·상업 모두 무료",
+   "checked": "font page"
+  },
+  {
+   "name": "코트라 고딕체",
+   "maker": "KOTRA",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302256&menuNo=200023",
+   "license": "free with limits: 상업 이용 가능, 임의 수정·재배포 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "완주대둔산체",
+   "maker": "완주군",
+   "official_url": "https://www.kogl.or.kr/recommend/recommendDivView.do?recommendIdx=54795&division=font",
+   "license": "공공누리 1유형",
+   "checked": "font page"
+  },
+  {
+   "name": "한나체",
+   "maker": "우아한형제들(배달의민족)",
+   "official_url": "https://www.woowahan.com/fonts",
+   "license": "free-commercial: 상업 이용 무료 (한나체 Pro/Air, 한나는11살체 구분 필요, 여기선 변종 미특정)",
+   "checked": "maker site"
+  },
+  {
+   "name": "팔칠엠엠 일상 기울임",
+   "maker": "87MM(팔칠엠엠)",
+   "official_url": "https://87mmtypeface.co.kr/",
+   "license": "free-commercial: 무료 배포 (세부 조항 확인 불가)",
+   "checked": "font page"
+  },
+  {
+   "name": "갈무리11 Condensed",
+   "maker": "quiple",
+   "official_url": "https://github.com/quiple/galmuri",
+   "license": "OFL",
+   "webfont_css_url": "https://cdn.jsdelivr.net/npm/galmuri/dist/galmuri.css",
+   "checked": "font page"
+  },
+  {
+   "name": "간이벽온방체",
+   "maker": "한국콘텐츠진흥원 문화콘텐츠닷컴 문화원형 라이브러리",
+   "official_url": "http://www.culturecontent.com/content/contentView.do?search_div=CP_THE&search_div_id=CP_THE007&cp_code=cp0234&index_id=cp02340015&content_id=cp023400150001&search_left_menu=2",
+   "license": "free-commercial: 제작물 제한 없음 (폰코 안내 기준, 공식 조항 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "어른아이",
+   "maker": "제작자 개인(Typedia 등록)",
+   "official_url": "https://typedia.kr/font/adultkid/",
+   "license": "free-commercial: 대부분의 라이선스 허가",
+   "checked": "maker site"
+  },
+  {
+   "name": "62570체",
+   "maker": "투게더그룹/국가보훈처 6.25 70주년사업추진위",
+   "official_url": "https://togethergroup.co.kr/sub/type/view.asp?idx=204",
+   "license": "free-commercial: 개인·기업·단체 상업 이용 무료",
+   "checked": "font page"
+  },
+  {
+   "name": "문화재돌봄체",
+   "maker": "전통건축수리기술진흥재단 중앙문화재돌봄센터/문화재청",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288427&menuNo=200023",
+   "license": "free-commercial (공유마당 등재, 세부 조항 확인 불가)",
+   "checked": "font page"
+  },
+  {
+   "name": "My LOTTE체",
+   "maker": "롯데면세점",
+   "official_url": "https://kr.lottedfs.com/about/mylottefont-download/content.do",
+   "license": "free-commercial: 개인·기업 모두 무료",
+   "checked": "font page"
+  },
+  {
+   "name": "감탄로드 바탕체",
+   "maker": "강원특별자치도",
+   "official_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13371583&menuNo=200023",
+   "license": "free with limits: 상업 이용 가능, 글꼴 자체 판매 불가",
+   "checked": "font page"
+  },
+  {
+   "name": "레페리포인트 Special",
+   "maker": "레페리/윤디자인",
+   "official_url": "https://www.leferistyle.com/assets-typography",
+   "license": "free with limits: 개인·1인 창작자·SME 상업 무료, 5인 이상 기업·단체·브랜드 홍보물 사용 및 변형 불가",
+   "checked": "maker site"
+  },
+  {
+   "name": "Orbit",
+   "maker": "JAMO (Sooun Cho)",
+   "official_url": "https://fonts.google.com/specimen/Orbit",
+   "license": "OFL",
+   "google_family": "Orbit",
+   "checked": "font page"
+  },
+  {
+   "name": "보배섬진도체",
+   "maker": "진도군",
+   "official_url": "https://www.jindo.go.kr/home/sub.cs?m=870",
+   "license": "free-commercial (진도군 전용서체, 세부 조항 확인 불가)",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 마법사",
+   "maker": "KERIS/교육부/17개 시도교육청",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 마니또",
+   "maker": "KERIS/교육부/17개 시도교육청",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "나눔고딕에코",
+   "maker": "네이버",
+   "official_url": "https://hangeul.naver.com/2017/nanum",
+   "license": "free with limits: 상업 이용 가능, 글꼴 자체 판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "고양일산체",
+   "maker": "고양시",
+   "official_url": "https://www.goyang.go.kr",
+   "license": "공공누리 (고양시 전용서체, 유형 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "플라이트 산스",
+   "maker": "제주항공",
+   "official_url": "https://flightsans.jejuair.net/",
+   "license": "free with limits: 영리·비영리 모두 무료, 판매 및 BI/CI 사용 불가",
+   "sandoll_id": 21097,
+   "checked": "font page"
+  },
+  {
+   "name": "한글누리체",
+   "maker": "국립한글박물관",
+   "official_url": "https://hanfont.hangeul.go.kr/relaxfont/font/hangeulnuri.do",
+   "license": "free-commercial (안심글꼴, 공공누리 병행 제공)",
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 모험가",
+   "maker": "KERIS/교육부/17개 시도교육청",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "그리운 유리 다꾸체",
+   "maker": "그리운(Griun)",
+   "official_url": "https://www.griun.co.kr/fonts/yuridaggu",
+   "license": "free with limits: 모든 용도 무료, 수정·판매 금지",
+   "checked": "font page"
+  },
+  {
+   "name": "가비아 마음결체",
+   "maker": "가비아",
+   "official_url": "http://company.gabia.com/font",
+   "license": "free-commercial (상업적 이용 가능으로 안내됨)",
+   "checked": "maker site"
+  },
+  {
+   "name": "KCC안중근체",
+   "maker": "문화체육관광부·한국저작권위원회",
+   "official_url": "https://gongu.copyright.or.kr",
+   "license": "free-commercial (폰트 자체 판매 금지, OFL이라는 검색 요약은 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "KNPS오대산체",
+   "maker": "국립공원공단",
+   "official_url": "https://www.sandollcloud.com/free-font/22705/font",
+   "license": "OFL",
+   "sandoll_id": 22705,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 시간표",
+   "maker": "교육부·KERIS",
+   "official_url": "https://www.sandollcloud.com/free-font/22624/font",
+   "license": "OFL",
+   "sandoll_id": 22624,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 여행",
+   "maker": "교육부·KERIS",
+   "official_url": "https://www.sandollcloud.com/free-font/19771/font",
+   "license": "OFL",
+   "sandoll_id": 19771,
+   "checked": "font page"
+  },
+  {
+   "name": "Cafe24 Decobox",
+   "maker": "Cafe24",
+   "official_url": "https://fonts.cafe24.com",
+   "license": "free-commercial (폰트 자체 판매 금지)",
+   "checked": "maker site"
+  },
+  {
+   "name": "망고보드 별별체",
+   "maker": "(주)리아모어소프트",
+   "official_url": "https://www.sandollcloud.com/free-font/20582/font",
+   "license": "free-commercial",
+   "sandoll_id": 20582,
+   "checked": "font page"
+  },
+  {
+   "name": "카페24 심플해",
+   "maker": "Cafe24",
+   "official_url": "https://www.sandollcloud.com/free-font/16261/font",
+   "license": "free-commercial (폰트 자체 판매 금지, OFL 표기)",
+   "sandoll_id": 16261,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 별자리",
+   "maker": "교육부·KERIS",
+   "official_url": "https://www.sandollcloud.com/free-font/21053/font",
+   "license": "OFL",
+   "sandoll_id": 21053,
+   "checked": "font page"
+  },
+  {
+   "name": "HS겨울눈꽃체",
+   "maker": null,
+   "official_url": "https://www.sandollcloud.com/free-font/17560/font",
+   "license": "free-commercial (폰트 자체 유료 판매 금지, 2.0 버전 페이지)",
+   "sandoll_id": 17560,
+   "checked": "font page"
+  },
+  {
+   "name": "이랜드 초이스체",
+   "maker": "이랜드리테일",
+   "official_url": "https://www.sandollcloud.com/free-font/15709/font",
+   "license": "free-commercial (수정·재배포 가능)",
+   "sandoll_id": 15709,
+   "checked": "font page"
+  },
+  {
+   "name": "MICE명조",
+   "maker": "한국MICE협회·문화체육관광부",
+   "official_url": "https://www.sandollcloud.com/free-font/17572/font",
+   "license": "free-commercial (개인·기업 자유 사용)",
+   "sandoll_id": 17572,
+   "checked": "font page"
+  },
+  {
+   "name": "쿨가이",
+   "maker": "CalliFont",
+   "official_url": "https://fonts.adobe.com/fonts/callifont-cool-guy",
+   "license": "free with limits: Adobe Fonts 구독으로만 제공, 개인·상업 가능",
+   "checked": "maker site"
+  },
+  {
+   "name": "교보손글씨 2021 성지영",
+   "maker": "교보문고",
+   "official_url": "https://www.sandollcloud.com/free-font/17589/font",
+   "license": "free with limits: 상업 이용 가능, 수정·개작·재배포·재판매 금지",
+   "sandoll_id": 17589,
+   "checked": "font page"
+  },
+  {
+   "name": "도서관체",
+   "maker": "국립중앙도서관",
+   "official_url": "https://www.nl.go.kr/NL/contents/N50104020000.do",
+   "license": "free (누구나 무료 사용)",
+   "checked": "maker site"
+  },
+  {
+   "name": "Kopub 돋움 2.0",
+   "maker": "문화체육관광부·한국출판인회의",
+   "official_url": "https://www.sandollcloud.com/free-font/15810/font",
+   "license": "free with limits: 상업 이용 가능, 사전 승인 없는 수정·변형 및 폰트 자체 판매 금지 (페이지는 KoPubWorld돋움, 2.0 버전은 미확인)",
+   "sandoll_id": 15810,
+   "checked": "maker site"
+  },
+  {
+   "name": "한수원 한돋움체",
+   "maker": "한국수력원자력",
+   "official_url": "https://www.sandollcloud.com/free-font/226/font",
+   "license": "free with limits: 상업 이용 가능, 유료 재판매·수정 금지",
+   "sandoll_id": 226,
+   "checked": "font page"
+  },
+  {
+   "name": "기후위기-한글 VF",
+   "maker": "NohType (노은유·이주희)",
+   "official_url": "https://www.sandollcloud.com/free-font/17665/font",
+   "license": "OFL",
+   "google_family": "Climate Crisis",
+   "sandoll_id": 17665,
+   "checked": "font page"
+  },
+  {
+   "name": "EBS주시경체",
+   "maker": "EBS·한그리아",
+   "official_url": "https://www.sandollcloud.com/free-font/16317/font",
+   "license": "free-commercial (매체·용도 제한 없음)",
+   "sandoll_id": 16317,
+   "checked": "font page"
+  },
+  {
+   "name": "영암월출산체",
+   "maker": "영암군",
+   "official_url": "https://www.sandollcloud.com/free-font/21100/font",
+   "license": "free-commercial (유료 판매·왜곡 변형 금지)",
+   "sandoll_id": 21100,
+   "checked": "font page"
+  },
+  {
+   "name": "청소년체",
+   "maker": "한국청소년활동진흥원",
+   "official_url": "https://www.sandollcloud.com/free-font/16641/font",
+   "license": "free with limits: 자유 사용, 판매·수정 금지",
+   "sandoll_id": 16641,
+   "checked": "font page"
+  },
+  {
+   "name": "한둥근돋움",
+   "maker": null,
+   "official_url": "https://www.sandollcloud.com/free-font/16848/font",
+   "license": "free with limits: 수정·재배포·유료양도 금지 (페이지 폰트명이 WONdotum이라 동일 폰트인지 미확인)",
+   "sandoll_id": 16848,
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 수수깡",
+   "maker": "교육부·KERIS",
+   "official_url": "https://www.sandollcloud.com/free-font/22621/font",
+   "license": "OFL",
+   "sandoll_id": 22621,
+   "checked": "font page"
+  },
+  {
+   "name": "속초바다 바탕체",
+   "maker": "속초시",
+   "official_url": "https://www.sandollcloud.com/free-font/19826/font",
+   "license": "free-commercial: 영리 이용 가능, 출처 표시 필요",
+   "sandoll_id": 19826,
+   "checked": "font page"
+  },
+  {
+   "name": "HBIOS-SYS",
+   "maker": "quiple",
+   "official_url": "https://hbios.quiple.dev",
+   "license": "CC BY-SA 4.0 (검색 요약 기준, 공식 페이지 미확인)",
+   "checked": "maker site"
+  },
+  {
+   "name": "능소화",
+   "maker": "조혜성·JAMO",
+   "official_url": "https://www.sandollcloud.com/free-font/18442/font",
+   "license": "OFL",
+   "google_family": "Grandiflora One",
+   "sandoll_id": 18442,
+   "checked": "font page"
+  },
+  {
+   "name": "삼립크리미 화이트체",
+   "maker": "SPC삼립",
+   "official_url": "https://www.sandollcloud.com/free-font/21075/font",
+   "license": "free-commercial (수정·재배포 가능, 폰트 파일 판매 금지)",
+   "sandoll_id": 21075,
+   "checked": "font page"
+  },
+  {
+   "name": "모노플렉스Nerd Italic",
+   "maker": "김양수 (Monoplex KR Nerd)",
+   "official_url": "https://github.com/y-kim/monoplex",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "숙명눈꽃체",
+   "maker": "숙명여자대학교",
+   "official_url": "https://www.sandollcloud.com/free-font/21596/font",
+   "license": "free with limits: 개인·기업 무료, 판매·수정·재배포 금지",
+   "sandoll_id": 21596,
+   "checked": "font page"
+  },
+  {
+   "name": "수성돋움체",
+   "maker": "대구 수성구",
+   "official_url": "https://www.sandollcloud.com/free-font/17620/font",
+   "license": "free with limits: 승인 절차 없이 사용 가능, 재판매 제한",
+   "sandoll_id": 17620,
+   "checked": "font page"
+  },
+  {
+   "name": "여주도자체",
+   "maker": "여주시",
+   "official_url": "https://www.sandollcloud.com/free-font/19895/font",
+   "license": "free-commercial (여주시 지적재산권, 상업 이용 가능)",
+   "sandoll_id": 19895,
+   "checked": "maker site"
+  },
+  {
+   "name": "EBS훈민정음",
+   "maker": "EBS",
+   "official_url": "https://www.sandollcloud.com/free-font/16318/font",
+   "license": "free-commercial (EBS 서체 공통)",
+   "sandoll_id": 16318,
+   "checked": "font page"
+  },
+  {
+   "name": "사천우주체",
+   "maker": "사천시",
+   "official_url": "https://www.sandollcloud.com/free-font/22160/font",
+   "license": "free-commercial (유료 양도·판매, 반사회적 사용 금지)",
+   "sandoll_id": 22160,
+   "checked": "font page"
+  },
+  {
+   "name": "물마루 Mono",
+   "maker": "mushsooni",
+   "official_url": "https://github.com/mushsooni/mulmaru",
+   "license": "OFL",
+   "checked": "font page"
+  },
+  {
+   "name": "신라고딕체",
+   "maker": "다온폰트 / 경주시",
+   "official_url": "https://www.sandollcloud.com/free-font/17623/font",
+   "license": "free-commercial: Sandoll page says OFL-style, attribution recommended, no paid sale",
+   "sandoll_id": 17623,
+   "checked": "font page"
+  },
+  {
+   "name": "가비아 봄바람체",
+   "maker": "가비아 (with 국민대)",
+   "official_url": "https://font.gabia.com/2015",
+   "license": "free-commercial: open source per Gabia/press, no sale of the font file",
+   "checked": "font page"
+  },
+  {
+   "name": "전주공예고딕체",
+   "maker": "한국전통문화전당 전주공예품전시관",
+   "official_url": "http://www.jeonjucraft.or.kr/2019/inner.php?sMenu=C1000&mode=view&no=165",
+   "license": "free-commercial: free for anyone, OFL-style, no paid sale of the font file (Sandoll page lists it as '전주공예' Gothic Regular)",
+   "sandoll_id": 19309,
+   "checked": "maker site"
+  },
+  {
+   "name": "예스 고딕",
+   "maker": "YES24",
+   "official_url": "http://www.yes24.com/campaign/00_corp/2019/0930Yesfont.aspx",
+   "license": "free with limits: commercial use OK, no modification or redistribution, no use for company CI/BI",
+   "checked": "maker site"
+  },
+  {
+   "name": "남양주 고딕체",
+   "maker": "남양주시",
+   "official_url": "https://www.nyj.go.kr/www/contents.do?key=2529",
+   "license": "OFL",
+   "sandoll_id": 777,
+   "checked": "font page"
+  },
+  {
+   "name": "온글잎 영롱",
+   "maker": "보이저엑스 (온글잎)",
+   "official_url": "https://www.ownglyph.com",
+   "license": "unknown",
+   "checked": "maker site"
+  },
+  {
+   "name": "가비아 납작블럭체",
+   "maker": "가비아",
+   "official_url": "https://font.gabia.com/2015",
+   "license": "free with limits: commercial use OK, no sale, modification or redistribution of the font file (per Sandoll page)",
+   "sandoll_id": 16047,
+   "checked": "font page"
+  },
+  {
+   "name": "마포배낭여행",
+   "maker": "마포구 (designer 김연아)",
+   "official_url": "https://www.mapo.go.kr/site/main/content/mapo04010201",
+   "license": "free with limits: free for all incl. commercial, no sale, no modification",
+   "sandoll_id": 15851,
+   "checked": "font page"
+  },
+  {
+   "name": "가비아 고스란체",
+   "maker": "가비아 (권순형)",
+   "official_url": "https://font.gabia.com/2024",
+   "license": "free with limits: commercial use OK, no sale, modification or redistribution of the font file",
+   "sandoll_id": 21077,
+   "checked": "font page"
+  },
+  {
+   "name": "카페24 쑥쑥",
+   "maker": "Cafe24",
+   "official_url": "https://fonts.cafe24.com/",
+   "license": "OFL",
+   "sandoll_id": 16264,
+   "checked": "font page"
+  },
+  {
+   "name": "KOHI나눔",
+   "maker": "한국보건복지인재원 (design: 와이즈폰트)",
+   "official_url": "https://csp.kohi.or.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1070&q_bbscttSn=20211118135429370",
+   "license": "OFL",
+   "sandoll_id": 17567,
+   "checked": "font page"
+  },
+  {
+   "name": "나눔바른고딕옛한글",
+   "maker": "NAVER",
+   "official_url": "https://hangeul.naver.com/font/nanum",
+   "license": "free-commercial: free for individuals and companies, no sale of the font itself",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 키다리풍선",
+   "maker": "KERIS / 교육부",
+   "official_url": "https://copyright.keris.or.kr/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "세종병원체",
+   "maker": "인천세종병원 (design: 투게더그룹)",
+   "official_url": "https://incheonsjh.co.kr/introduce/font",
+   "license": "free with limits: commercial use OK, no sale or modification of the font",
+   "sandoll_id": 18132,
+   "checked": "font page"
+  },
+  {
+   "name": "교보손글씨 2023 우선아",
+   "maker": "교보문고",
+   "official_url": "https://store.kyobobook.co.kr/handwriting",
+   "license": "free-commercial: free for all users, per Kyobo news",
+   "checked": "maker site"
+  },
+  {
+   "name": "사월십육일체 약속",
+   "maker": "4·16재단",
+   "official_url": "https://416foundation.org/April16th/",
+   "license": "OFL",
+   "sandoll_id": 20482,
+   "checked": "font page"
+  },
+  {
+   "name": "전남교육또박체",
+   "maker": "전라남도교육청 (design: 헤움디자인)",
+   "official_url": "https://www.jne.go.kr/main/cm/cntnts/cntntsView.do?mi=1778&cntntsId=620",
+   "license": "free-commercial: OFL-style, no paid sale of the font file",
+   "sandoll_id": 20749,
+   "checked": "font page"
+  },
+  {
+   "name": "KCC김환기체",
+   "maker": "문화체육관광부 / 한국저작권위원회",
+   "official_url": "https://www.mcst.go.kr/site/s_notice/press/pressView.jsp?pSeq=12446",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 투호",
+   "maker": "KERIS / 교육부",
+   "official_url": "https://copyright.keris.or.kr/",
+   "license": "OFL",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 구름",
+   "maker": "디자인210 / KERIS",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202312110000000000001",
+   "license": "OFL",
+   "sandoll_id": 19784,
+   "checked": "font page"
+  },
+  {
+   "name": "김포평화바탕",
+   "maker": "김포시",
+   "official_url": "https://www.sandollcloud.com/free-font/16064/font",
+   "license": "공공누리 1유형",
+   "sandoll_id": 16064,
+   "checked": "font page"
+  },
+  {
+   "name": "월영교체",
+   "maker": "안동시",
+   "official_url": "https://www.andong.go.kr/portal/contents.do?mId=0301030500",
+   "license": "free-commercial: OFL per Sandoll page, public work with attribution, no sale or illegal modification",
+   "sandoll_id": 16220,
+   "checked": "font page"
+  },
+  {
+   "name": "포천오성과한음체",
+   "maker": "포천시",
+   "official_url": "https://www.pocheon.go.kr/www/contents.do?key=5582",
+   "license": "free with limits: free incl. commercial, no sale or modification",
+   "sandoll_id": 16273,
+   "checked": "font page"
+  },
+  {
+   "name": "온글잎 민혜체",
+   "maker": "보이저엑스 (온글잎)",
+   "official_url": "https://www.ownglyph.com",
+   "license": "unknown",
+   "checked": "maker site"
+  },
+  {
+   "name": "학교안심 곧은제목",
+   "maker": "윤디자인 / KERIS",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202301120000000000001",
+   "license": "OFL",
+   "sandoll_id": 18146,
+   "checked": "font page"
+  },
+  {
+   "name": "길벗체 Rainbow",
+   "maker": "비온뒤무지개재단",
+   "official_url": "https://rainbowfoundation.co.kr/gilbeot",
+   "license": "free-commercial: CC BY-SA 2.0, download only from the official site, redistribution restricted",
+   "sandoll_id": 17594,
+   "checked": "font page"
+  },
+  {
+   "name": "티웨이항공체",
+   "maker": "티웨이항공",
+   "official_url": "https://www.twayair.com/app/serviceInfo/contents/1320",
+   "license": "free with limits: free incl. commercial, no sale (Sandoll page confirmed only for 날다체)",
+   "sandoll_id": 16268,
+   "checked": "maker site"
+  },
+  {
+   "name": "영덕해파랑체",
+   "maker": "영덕군 (design: 투게더그룹)",
+   "official_url": "https://www.sandollcloud.com/free-font/18451/font",
+   "license": "free with limits: commercial use OK, no sale or modification",
+   "sandoll_id": 18451,
+   "checked": "font page"
+  },
+  {
+   "name": "학교안심 뜀틀",
+   "maker": "디자인210 / KERIS",
+   "official_url": "https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202312110000000000012",
+   "license": "OFL",
+   "sandoll_id": 19779,
+   "checked": "font page"
+  },
+  {
+   "name": "양평군체",
+   "maker": "양평군",
+   "official_url": "https://www.yp21.go.kr/www/contents.do?key=2620",
+   "license": "공공누리 1유형",
+   "sandoll_id": 16221,
+   "checked": "font page"
+  },
+  {
+   "name": "감탄로드 돋움체",
+   "maker": "강원특별자치도 (design: 투게더그룹)",
+   "official_url": "https://www.sandollcloud.com/free-font/21064/font",
+   "license": "OFL",
+   "sandoll_id": 21064,
+   "checked": "font page"
+  },
+  {
+   "name": "Yoon 하이멜로디",
+   "maker": "윤디자인",
+   "official_url": "https://fonts.google.com/specimen/Hi+Melody",
+   "license": "OFL",
+   "google_family": "Hi Melody",
+   "sandoll_id": 18111,
+   "checked": "font page"
+  },
+  {
+   "name": "태백은하수체",
+   "maker": "태백시 (design: 투게더그룹)",
+   "official_url": "https://www.taebaek.go.kr/www/contents.do?key=1857",
+   "license": "free-commercial: OFL-style per Sandoll, no sale of the font file (Sandoll lists it as '태백체', name differs)",
+   "sandoll_id": 19486,
+   "checked": "maker site"
+  },
+  {
+   "name": "해피니스 산스 Title",
+   "maker": "현대백화점 (design: 안그라픽스)",
+   "official_url": "https://www.ehyundai.com",
+   "license": "free-commercial: free for anyone (per designcompass)",
+   "checked": "maker site"
+  },
+  {
+   "name": "구미돋움체",
+   "maker": "구미시 (design: 투게더그룹)",
+   "official_url": "https://www.gumi.go.kr/portal/contents.do?mid=0502070000",
+   "license": "free with limits: commercial use OK, no sale or distortion of the font",
+   "sandoll_id": 21092,
+   "checked": "font page"
+  },
+  {
+   "name": "전라북도체",
+   "maker": "전라북도",
+   "official_url": "https://www.sandollcloud.com/free-font/16232/font",
+   "license": "free with limits: use by individuals and companies OK, no modification/copying/distribution, app embedding needs separate permission",
+   "sandoll_id": 16232,
+   "checked": "font page"
+  },
+  {
+   "name": "푸른전남체",
+   "maker": "전라남도",
+   "official_url": "https://www.jeonnam.go.kr/contentsView.do?menuId=jeonnam0603080000",
+   "license": "OFL",
+   "sandoll_id": 16274,
+   "checked": "font page"
+  }
+ ]
+}
