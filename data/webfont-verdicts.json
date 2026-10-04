@@ -1,0 +1,311 @@
+{
+ "meaning": "Our own audit of whether each font may be served as a webfont (font file on a server or CDN). no = not allowed, conditional = needs the maker's permission or a credit line. Check before using a webfont.",
+ "no": {
+  "강한공군체": {
+   "maker": "대한민국 공군(ROKAF)",
+   "name_en": "Gang Han Gong Gun"
+  },
+  "바른공군체": {
+   "maker": "대한민국 공군(ROKAF)",
+   "name_en": "Bareun Gonggun"
+  },
+  "바른돋움체": {
+   "maker": "한국출판인회의(KPA)",
+   "name_en": "Bareun Dotum"
+  },
+  "비트로 프라이드체": {
+   "maker": "비트로(VITRO)",
+   "name_en": "Bitro Fried"
+  },
+  "열린고딕": {
+   "maker": "개인(열린고딕/눈누)",
+   "name_en": "Open Gothic"
+  },
+  "한둥근돋움": {
+   "maker": "개인(한둥근/눈누)",
+   "name_en": "Handungdo-eum"
+  },
+  "한둥근제목": {
+   "maker": "개인(한둥근/눈누)",
+   "name_en": "Handung"
+  },
+  "밝은체": {
+   "maker": "윤디자인",
+   "name_en": "Bright"
+  },
+  "열린명조": {
+   "maker": "윤디자인",
+   "name_en": "Yeolrin Myungjo"
+  },
+  "을유1945": {
+   "maker": "을유문화사",
+   "name_en": "Eulyu 1945"
+  },
+  "Yoon 다정": {
+   "maker": "윤디자인",
+   "name_en": "Yoon Da-jeong"
+  },
+  "Yoon 민준": {
+   "maker": "윤디자인",
+   "name_en": "Yoon Min-jun"
+  },
+  "Yoon 세희": {
+   "maker": "윤디자인",
+   "name_en": "Yoon Se-hee"
+  },
+  "Yoon 아혜": {
+   "maker": "윤디자인",
+   "name_en": "Ahye Yoon"
+  },
+  "Yoon 지영": {
+   "maker": "윤디자인",
+   "name_en": "Yoon Ji-young"
+  },
+  "Yoon 지희": {
+   "maker": "윤디자인",
+   "name_en": "Jiheon Yoon"
+  },
+  "Yoon 흥수": {
+   "maker": "윤디자인",
+   "name_en": "Yoon Heung-soo"
+  },
+  "윤고래체": {
+   "maker": "윤디자인",
+   "name_en": "Yun Gorae"
+  },
+  "윤초록우산어린이": {
+   "maker": "윤디자인",
+   "name_en": "Yun Cho록 Usan  Children"
+  },
+  "이숲체": {
+   "maker": "윤디자인",
+   "name_en": "Isoop"
+  },
+  "금은보화": {
+   "maker": "광복절 기념 캠페인 폰트(눈누)",
+   "name_en": "Gold, silver, and jewels"
+  },
+  "밀양아리랑고딕체": {
+   "maker": "OFL(개별 제작자)",
+   "name_en": "Miryang Arirang Gothic"
+  },
+  "연제오방맛길체": {
+   "maker": "OFL(개별 제작자)",
+   "name_en": "Yeonjeo Obangmatgil"
+  },
+  "위드라이브 전용서체": {
+   "maker": "OFL(개별 제작자)",
+   "name_en": "Withdrive Exclusive Font"
+  },
+  "한게임포커 폰트": {
+   "maker": "OFL(개별 제작자)",
+   "name_en": "Hangame Poker Font"
+  },
+  "감탄로드 바탕체": {
+   "maker": "OFL(개별 제작자)",
+   "name_en": "Gamtan Road"
+  },
+  "광복 이은숙": {
+   "maker": "광복 80년 기념사업추진위원회 X 이회영기념관",
+   "name_en": "Gwangbok Ieunsook"
+  },
+  "다이어리체": {
+   "maker": "얼리폰트",
+   "name_en": "Diary"
+  },
+  "메모먼트 꾹꾹체": {
+   "maker": "메모먼트",
+   "name_en": "Memoment Kkukkuk"
+  },
+  "박용준투사회보체": {
+   "maker": "지역공공정책플랫폼광주로",
+   "name_en": "Park Yong-jun Tusahwaebo"
+  },
+  "사각사각": {
+   "maker": "이범석",
+   "name_en": "Sagak Sagak"
+  },
+  "어른아이": {
+   "maker": "이범석",
+   "name_en": "Adult Child"
+  },
+  "연일전통시장체": {
+   "maker": "연제구상권활성화재단",
+   "name_en": "Yeonil Traditional Market"
+  },
+  "오방노포체": {
+   "maker": "연제구상권활성화재단",
+   "name_en": "Obangnopo"
+  },
+  "오방주체": {
+   "maker": "연제구상권활성화재단",
+   "name_en": "Obangju"
+  },
+  "유니폰트": {
+   "maker": "눈누 등록 제작자",
+   "name_en": "Uni Font"
+  },
+  "휴먼범석체": {
+   "maker": "눈누 등록 제작자",
+   "name_en": "Human Beomseok"
+  },
+  "휴먼범석체 네오": {
+   "maker": "눈누 등록 제작자",
+   "name_en": "Human Beomseok Neo"
+  },
+  "A1 전용서체": {
+   "maker": "눈누 등록 제작자",
+   "name_en": "A1 Exclusive Fonts"
+  },
+  "감탄로드 감탄체": {
+   "maker": "눈누 등록 제작자",
+   "name_en": "Gamtan Road Gamtan"
+  },
+  "레베카체": {
+   "maker": "눈누 등록 제작자",
+   "name_en": "Rebecca"
+  },
+  "마초체": {
+   "maker": "눈누 등록 제작자",
+   "name_en": "Macho"
+  },
+  "비트로 인스파이어체": {
+   "maker": "눈누 등록 제작자",
+   "name_en": "Bitro Inspire"
+  },
+  "수박화체": {
+   "maker": "눈누 등록 제작자",
+   "name_en": "Watermelon"
+  },
+  "태-흘림": {
+   "maker": "OFL",
+   "name_en": "Tae-Heullim"
+  },
+  "영남일보 1945체": {
+   "maker": "commercial-restricted",
+   "name_en": "Yeongnam Ilbo 1945"
+  },
+  "혀니도로롱": {
+   "maker": "commercial-restricted",
+   "name_en": "Hyeonidororong"
+  }
+ },
+ "conditional": {
+  "1973미미월드": {
+   "maker": "개인(눈누)",
+   "name_en": "1973 Mimi World"
+  },
+  "TT투게더": {
+   "maker": "티머니(TT투게더)",
+   "name_en": "TT Together"
+  },
+  "고도체": {
+   "maker": "NHN고도(고도몰)",
+   "name_en": "Godo"
+  },
+  "레코체": {
+   "maker": "레시피코리아(레코)",
+   "name_en": "Reco"
+  },
+  "레페리베이스": {
+   "maker": "레페리(LEFERI)",
+   "name_en": "Reperi Base"
+  },
+  "레페리포인트": {
+   "maker": "레페리(LEFERI)",
+   "name_en": "Reperipoint"
+  },
+  "레페리포인트 Oblique": {
+   "maker": "레페리(LEFERI)",
+   "name_en": "Reperipoint Oblique"
+  },
+  "레페리포인트 Special": {
+   "maker": "레페리(LEFERI)",
+   "name_en": "Reperipoint Special"
+  },
+  "레페리포인트 Special Italic": {
+   "maker": "레페리(LEFERI)",
+   "name_en": "Reperepoint Special Italic"
+  },
+  "순천체": {
+   "maker": "순천시",
+   "name_en": "Sunchon"
+  },
+  "여기어때 잘난체": {
+   "maker": "여기어때(잘난체)",
+   "name_en": "Yeogi-ottae Jalnan"
+  },
+  "여기어때 잘난체 고딕": {
+   "maker": "여기어때(잘난체)",
+   "name_en": "Yeogi-ottae Jalnan Gothic"
+  },
+  "충북대70주년체": {
+   "maker": "충북대학교",
+   "name_en": "Chungbuk National University 70th Anniversary"
+  },
+  "바른바탕체": {
+   "maker": "대한인쇄문화협회",
+   "name_en": "Barun Batang"
+  },
+  "한둥근바탕": {
+   "maker": "윤디자인",
+   "name_en": "Handong"
+  },
+  "김남윤체": {
+   "maker": "윤디자인",
+   "name_en": "Kim Nam Yoon"
+  },
+  "대한민국 독도체": {
+   "maker": "윤디자인",
+   "name_en": "Daehanminguk Dokdo"
+  },
+  "더잠실체": {
+   "maker": "OFL(개별 제작자)",
+   "name_en": "Daeojamjil"
+  },
+  "라디오고딕": {
+   "maker": "OFL(개별 제작자)",
+   "name_en": "Radio Gothic"
+  },
+  "비앤빛 라식체": {
+   "maker": "OFL(개별 제작자)",
+   "name_en": "B&Light Lasik"
+  },
+  "전기안전체": {
+   "maker": "공공기관/지자체(공공누리)",
+   "name_en": "Electric Safety"
+  },
+  "태-조각": {
+   "maker": "OFL(개별 제작자)",
+   "name_en": "Tae-jogak"
+  },
+  "평택 반도체": {
+   "maker": "공공기관/지자체(공공누리)",
+   "name_en": "Pyeongtaek Semiconductor"
+  },
+  "평택 안보체": {
+   "maker": "공공기관/지자체(공공누리)",
+   "name_en": "Pyeongtaek Anbo"
+  },
+  "한국기계연구원": {
+   "maker": "공공기관/지자체(공공누리)",
+   "name_en": "Korea Institute of Machinery and Materials"
+  },
+  "가평 한석봉 큰붓": {
+   "maker": "공공기관/지자체(공공누리)",
+   "name_en": "Gapyeong Hanseokbong Big Brush"
+  },
+  "피플퍼스트또박체": {
+   "maker": "피플퍼스트(장애인자립단체)",
+   "name_en": "People First Ttobaks"
+  },
+  "피플퍼스트자립체": {
+   "maker": "피플퍼스트(장애인자립단체)",
+   "name_en": "People First"
+  },
+  "가평 물결": {
+   "maker": "가평군(공공누리)",
+   "name_en": "Gapyeong Wave"
+  }
+ }
+}
