@@ -1,5 +1,5 @@
 {
- "about": "Free fonts found by web search on their official distribution pages (913 fonts). Each entry names the official page it came from; 'license' is a short summary, so read the official page before commercial use. 'checked' says whether the font's own page ('font page') or only the maker's site ('maker site') was confirmed. 'name_en' is the maker's Latin name, 'css_family' the family to use from an official stylesheet that defines several. 'tags' (style: sans, serif, handwriting, brush, display, rounded, cute, pixel, mono) come only from words in the font's own name, the maker's own description or project name (for example NAVER 나눔손글씨 = handwriting), Google Fonts' own category, or our visual check of a rendered sample; fonts without tags were not classified, not judged unfit.",
+ "about": "Free fonts found by web search on their official distribution pages (909 fonts). Each entry names the official page it came from; 'license' is a short summary, so read the official page before commercial use. 'checked' says whether the font's own page ('font page') or only the maker's site ('maker site') was confirmed. 'name_en' is the maker's Latin name, 'css_family' the family to use from an official stylesheet that defines several. 'tags' (style: sans, serif, handwriting, brush, display, rounded, cute, pixel, mono) come only from words in the font's own name, the maker's own description or project name (for example NAVER 나눔손글씨 = handwriting), Google Fonts' own category, or our visual check of a rendered sample; fonts without tags were not classified, not judged unfit. 'look' marks fonts that render as outline or shadow letters (our visual check or the name); they are not offered as plain alternatives.",
  "fonts": [
   {
    "name": "광복 이은숙",
@@ -135,12 +135,6 @@
    "sandoll_id": 19620
   },
   {
-   "name": "건축조각",
-   "maker": "BSW (boomspace)",
-   "official_url": "https://boomspace.gumroad.com/l/archisculpture_font",
-   "license": "custom free-commercial"
-  },
-  {
    "name": "이롭게바탕체",
    "maker": "이롭게(iropke)",
    "official_url": "http://font.iropke.com/batang/",
@@ -161,13 +155,6 @@
    "official_url": "https://www.sandollcloud.com/free-font/15769/HSBomBaram-3.0-Vertical",
    "license": "custom free-commercial",
    "sandoll_id": 15769
-  },
-  {
-   "name": "남양주 다산체",
-   "maker": "남양주시",
-   "official_url": "https://www.sandollcloud.com/free-font/18308/NamYangJu-DaSan",
-   "license": "custom free (판매·변형 금지)",
-   "sandoll_id": 18308
   },
   {
    "name": "KOHI배움",
@@ -248,7 +235,8 @@
    "maker": "BSW (boomspace)",
    "official_url": "https://boomspace.gumroad.com/l/archisculpture_font",
    "license": "free-commercial: free for individuals and companies, redistribution allowed (original v1 page)",
-   "checked": "maker site"
+   "checked": "maker site",
+   "alt_names": ["건축조각"]
   },
   {
    "name": "프리텐다드",
@@ -815,7 +803,8 @@
    "maker": "Cafe24",
    "official_url": "https://font.cafe24.com",
    "license": "OFL (Cafe24 폰트 전반 기준, 개별 페이지 미확인)",
-   "checked": "maker site"
+   "checked": "maker site",
+   "look": "outline"
   },
   {
    "name": "Intel One Mono",
@@ -1013,7 +1002,9 @@
    "maker": "남양주시",
    "official_url": "https://www.nyj.go.kr/www/contents.do?key=2529",
    "license": "free-commercial: 허가 없이 사용 가능, 유료 양도·판매 금지",
-   "checked": "font page"
+   "checked": "font page",
+   "sandoll_id": 18308,
+   "alt_names": ["남양주 다산체"]
   },
   {
    "name": "영주풍기인삼체",
@@ -1487,7 +1478,9 @@
    "maker": "태백시",
    "official_url": "https://www.taebaek.go.kr/www/contents.do?key=1791",
    "license": "free-commercial",
-   "checked": "font page"
+   "checked": "font page",
+   "sandoll_id": 19486,
+   "alt_names": ["태백은하수체"]
   },
   {
    "name": "헬스셋 고딕체",
@@ -1522,7 +1515,8 @@
    "google_family": "Moirai One",
    "sandoll_id": 18445,
    "checked": "font page",
-   "tags": ["display"]
+   "tags": ["display"],
+   "look": "outline"
   },
   {
    "name": "학교안심 은하수",
@@ -3290,7 +3284,8 @@
    "official_url": "https://www.sandollcloud.com/free-font/15539/font",
    "license": "OFL",
    "sandoll_id": 15539,
-   "checked": "maker site"
+   "checked": "maker site",
+   "look": "outline"
   },
   {
    "name": "조선견고딕",
@@ -4299,12 +4294,12 @@
   },
   {
    "name": "바른돋움체",
-   "maker": "교육부·한국교육학술정보원 (학교안심 바른돋움으로 추정)",
-   "official_url": "https://www.sandollcloud.com/free-font/18150/font",
-   "license": "OFL",
-   "sandoll_id": 18150,
+   "maker": "대한인쇄문화협회(문화체육관광부 보급)",
+   "official_url": "https://www.print.or.kr",
+   "license": "free (maker distribution); a different font from 학교안심 바른돋움",
    "checked": "maker site",
-   "tags": ["sans"]
+   "tags": ["sans"],
+   "name_en": "Bareun Dotum"
   },
   {
    "name": "정선아리랑혼체",
@@ -4578,7 +4573,8 @@
    "license": "free-commercial (no paid transfer or sale)",
    "sandoll_id": 777,
    "checked": "font page",
-   "tags": ["sans"]
+   "tags": ["sans"],
+   "alt_names": ["남양주 고딕체"]
   },
   {
    "name": "godo rounded",
@@ -4885,7 +4881,8 @@
    "maker": "KERIS/교육부/17개 시도교육청",
    "official_url": "https://copyright.keris.or.kr/wft/fntDwnld",
    "license": "OFL",
-   "checked": "maker site"
+   "checked": "maker site",
+   "look": "outline"
   },
   {
    "name": "KCC도담도담체",
@@ -5415,7 +5412,8 @@
    "google_family": "Climate Crisis",
    "sandoll_id": 17665,
    "checked": "font page",
-   "tags": ["display"]
+   "tags": ["display"],
+   "look": "latin-only"
   },
   {
    "name": "EBS주시경체",
@@ -5581,15 +5579,6 @@
    "official_url": "http://www.yes24.com/campaign/00_corp/2019/0930Yesfont.aspx",
    "license": "free with limits: commercial use OK, no modification or redistribution, no use for company CI/BI",
    "checked": "maker site",
-   "tags": ["sans"]
-  },
-  {
-   "name": "남양주 고딕체",
-   "maker": "남양주시",
-   "official_url": "https://www.nyj.go.kr/www/contents.do?key=2529",
-   "license": "OFL",
-   "sandoll_id": 777,
-   "checked": "font page",
    "tags": ["sans"]
   },
   {
@@ -5810,14 +5799,6 @@
    "sandoll_id": 18111,
    "checked": "font page",
    "tags": ["handwriting", "display"]
-  },
-  {
-   "name": "태백은하수체",
-   "maker": "태백시 (design: 투게더그룹)",
-   "official_url": "https://www.taebaek.go.kr/www/contents.do?key=1857",
-   "license": "free-commercial: OFL-style per Sandoll, no sale of the font file (Sandoll lists it as '태백체', name differs)",
-   "sandoll_id": 19486,
-   "checked": "maker site"
   },
   {
    "name": "해피니스 산스 Title",
@@ -6924,7 +6905,8 @@
    "official_url": "https://www.sandollcloud.com/free-font/18468/font",
    "license": "free with limits: free use, embedding allowed; modification and resale prohibited (Regular, Bold and Inline included)",
    "sandoll_id": 18468,
-   "checked": "font page"
+   "checked": "font page",
+   "look": "outline"
   },
   {
    "name": "산돌국대떡볶이체",
