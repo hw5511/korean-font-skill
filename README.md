@@ -25,12 +25,12 @@ Clone the repository, then copy the skill folder into your project's `.claude/sk
 git clone <this repo> korean-font-skill
 cp -r korean-font-skill/.claude/skills/korean-font-skill ~/.claude/skills/
 
-# only for sample/contact images: install Playwright once, in the skill folder
-cd ~/.claude/skills/korean-font-skill
-npm install --no-save playwright && npx playwright install chromium
+# only for sample/contact/page: install Playwright once. --prefix pins node_modules to the skill folder
+npm install --no-save --prefix ~/.claude/skills/korean-font-skill playwright
+node ~/.claude/skills/korean-font-skill/node_modules/playwright/cli.js install chromium
 ```
 
-Node 18 or newer. `search`, `locate` and `css` need no extra packages. Working inside this repository needs no copy: the skill is already in `.claude/skills/` (run the same Playwright command in that folder; it installs into the repository's `node_modules`).
+Node 18 or newer. `search`, `locate` and `css` need no extra packages. Working inside this repository needs no copy: the skill is already in `.claude/skills/`. Run the two Playwright commands above with that folder as the prefix, or install Playwright in the repository root or globally; fontkit looks in the skill folder, every parent folder, the current folder and the global npm root. `fontkit page <url>` prints the text of a JavaScript-rendered page.
 
 ## Use
 

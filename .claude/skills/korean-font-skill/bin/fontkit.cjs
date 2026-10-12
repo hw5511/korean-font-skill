@@ -4,6 +4,7 @@
 //   fontkit search <words> [--all|--limit N]      search the bundled list by name, English name or style tag
 //   fontkit locate <name>                         check Google Fonts, noonnu and Sandoll Cloud for the font
 //   fontkit css <name> [--from google|noonnu] [--weights 400,700]   print the webfont CSS
+//   fontkit page <url> [--max N]                  print the text of a JavaScript-rendered page (Playwright)
 //   fontkit sample <name> [--text T] [--size N] [--out a.png]        render one font to PNG
 //   fontkit contact <name,name,...> [--text T] [--size N] [--out a.png]  render several fonts in one sheet
 //
@@ -21,7 +22,10 @@ const UA = 'Mozilla/5.0 (compatible; korean-font-skill/0.1; +https://github.com/
 const PAUSE_MS = 2000;
 const TIMEOUT_MS = 40000;
 const SEARCH_LIMIT = 20;
-const PLAYWRIGHT_INSTALL = `cd "${SKILL_DIR}" && npm install --no-save playwright && npx playwright install chromium`;
+const SKILL_FWD = path.resolve(SKILL_DIR).replace(/\\/g, '/');
+// Two plain commands (no &&, so they also work in Windows PowerShell 5). --prefix pins node_modules to
+// <skill folder>/node_modules; without it npm installs next to the nearest package.json further up.
+const PLAYWRIGHT_INSTALL = `npm install --no-save --prefix "${SKILL_FWD}" playwright\n  node "${SKILL_FWD}/node_modules/playwright/cli.js" install chromium\n  (node_modules ends up in ${SKILL_FWD}/node_modules. The CLI also finds Playwright in any parent folder's node_modules, in the current folder's node_modules, or installed globally.)`;
 
 // ---------- small helpers ----------
 function parseArgs(argv) {
@@ -65,7 +69,7 @@ const fontList = () => loadJson('fonts.json').fonts;
 // Other names a font is known by: its English name, Google Fonts family, CSS family,
 // the romanized slug of its Sandoll Cloud page and the name of its GitHub repository.
 function aliases(f) {
-  const out = [f.name_en, f.google_family, f.css_family].filter(Boolean);
+  const out = [f.name_en, f.google_family, f.css_family, ...(f.alt_names || [])].filter(Boolean);
   const s = /sandollcloud\.com\/free-font\/\d+\/([^/?#]+)/.exec(f.official_url || '');
   if (s && s[1] !== 'font') out.push(s[1].replace(/-/g, ' '));
   const g = /github\.com\/[^/]+\/([^/?#]+)/.exec(f.official_url || '');
@@ -107,6 +111,7 @@ function findInList(name) {
   if (!q) return null;
   const list = fontList();
   const exact = list.find((f) => norm(f.name) === q) ||
+    list.find((f) => (f.alt_names || []).some((x) => norm(x) === q)) ||
     list.find((f) => [f.name_en, f.google_family, f.css_family].some((x) => x && norm(x) === q)) ||
     list.find((f) => core(f.name) === qc);
   if (exact) return exact;
@@ -114,13 +119,21 @@ function findInList(name) {
   const part = list.filter((f) => norm(f.name).includes(q)).sort((x, y) => x.name.length - y.name.length);
   return part[0] || null;
 }
+// Webfont status of a list entry: not allowed / conditional (our audit), allowed (a font host
+// publishes a webfont for it and the audit has no objection), unknown (not audited, no known host).
+function webfontStatus(f) {
+  const k = verdictOfEntry(f);
+  if (k === 'no') return 'not allowed';
+  if (k === 'conditional') return 'conditional';
+  return f.google_family || f.webfont_css_url ? 'allowed' : 'unknown';
+}
 function verdict(name) {
   const v = loadJson('webfont-verdicts.json');
   const entry = findInList(name);
   const qs = [norm(name), entry && norm(entry.name)].filter(Boolean);
   for (const k of ['no', 'conditional']) {
     for (const [n, info] of Object.entries(v[k])) {
-      if (qs.includes(norm(n)) || (info.name_en && qs.includes(norm(info.name_en)))) return { verdict: k, font: n, maker: info.maker };
+      if (qs.includes(norm(n)) || (info.name_en && qs.includes(norm(info.name_en)))) return { verdict: k, font: n, ...info };
     }
   }
   return null;
@@ -131,6 +144,10 @@ function verdictOfEntry(f) {
   return null;
 }
 
+function verdictReason(v) {
+  const extra = ['note', 'reason', 'source'].filter((k) => v[k]).map((k) => `${k}: ${v[k]}`);
+  return [`audit entry '${v.font}'`, v.name_en && `English name: ${v.name_en}`, v.maker && `maker: ${v.maker}`, ...extra].filter(Boolean).join('; ');
+}
 function familiesFromCss(css) {
   const out = [];
   for (const m of String(css || '').matchAll(/font-family:\s*['"]?([^;'"]+)['"]?/gi)) {
@@ -188,7 +205,7 @@ async function noonnuFind(name) {
   const hits = [...r.text.matchAll(/href="\/font_page\/(\d+)"[\s\S]{0,600}?alt="([^"]+)"/g)].map((m) => ({ id: m[1], name: unescapeHtml(m[2]) }));
   if (!hits.length) return null;
   const q = norm(name);
-  return hits.find((h) => norm(h.name) === q) || hits.find((h) => norm(h.name).includes(q)) || hits[0];
+  return hits.find((h) => norm(h.name) === q) || hits.find((h) => norm(h.name).includes(q) || q.includes(norm(h.name))) || null;
 }
 async function noonnuCss(name) {
   const hit = await noonnuFind(name);
@@ -246,21 +263,23 @@ function cmdSearch(a) {
   }
   // higher score first; among equals, fonts with a known webfont source first
   const easy = (f) => (f.google_family || f.webfont_css_url ? 1 : 0);
+  if (a.webfont) rows = rows.filter((r) => webfontStatus(r.f) !== 'not allowed');
   rows.sort((x, y) => y.s - x.s || easy(y.f) - easy(x.f));
   const total = rows.length;
   const limit = a.all ? total : Number(a.limit || SEARCH_LIMIT);
   const shown = rows.slice(0, limit).map((r) => r.f);
-  if (a.json) return console.log(JSON.stringify(shown, null, 2));
+  if (a.json) return console.log(JSON.stringify(shown.map((f) => ({ ...f, webfont: webfontStatus(f) })), null, 2));
   if (!total) {
-    console.log('no match in the bundled list - try another word, a style tag (sans, serif, handwriting, brush, cute, pixel, display, mono, rounded) or: fontkit locate <name>');
+    console.log(`no match in the bundled list${a.webfont ? ' (--webfont hides fonts marked not allowed)' : ''} - try another word, a style tag (sans, serif, handwriting, brush, cute, pixel, display, mono, rounded) or: fontkit locate <name>`);
     return;
   }
   console.log(`${total} match${total === 1 ? '' : 'es'}${usedTags.length ? ` (style tag: ${usedTags.join(', ')})` : ''}`);
   for (const f of shown) {
     const other = [...new Set([f.name_en, f.google_family].filter(Boolean))].filter((x) => x !== f.name);
     const tags = (f.tags || []).length ? ` | ${f.tags.join(',')}` : '';
-    console.log(`${f.name}${other.length ? ` (${other.join(' / ')})` : ''} | ${f.maker} | ${f.license} | ${f.official_url}${tags}`);
+    console.log(`${f.name}${other.length ? ` (${other.join(' / ')})` : ''} | maker: ${f.maker} | ${f.license} | webfont: ${webfontStatus(f)} | ${f.official_url}${tags}`);
   }
+  console.log('webfont: allowed = a font host (Google Fonts / official CDN) serves it and our audit has no objection; conditional = needs the maker\'s permission; not allowed = our audit says no; unknown = not audited and no known webfont host. Add --webfont to hide the not-allowed ones.');
   if (total > shown.length) console.log(`... and ${total - shown.length} more (add --all to see every match, or --limit N)`);
   if (usedTags.length) {
     const tagged = list.filter((f) => (f.tags || []).length).length;
@@ -269,12 +288,18 @@ function cmdSearch(a) {
 }
 
 // ---------- locate / css ----------
+// noonnu is searched by Korean name; an English query is translated through the bundled list first.
+async function noonnuByNames(name, entry) {
+  const tries = [...new Set([entry && entry.name, name, entry && entry.name_en].filter(Boolean))];
+  for (const t of tries) { const r = await noonnuCss(t); if (r) return r; }
+  return null;
+}
 async function locateAll(name) {
   const entry = findInList(name);
   const out = { name, in_list: entry || null, google: null, noonnu: null, sandoll: null, verdict: verdict(name) };
   const gfam = (entry && entry.google_family) || name;
   if (/^[\x00-\x7F]+$/.test(gfam)) out.google = await googleCss(gfam);
-  out.noonnu = await noonnuCss(name);
+  out.noonnu = await noonnuByNames(name, entry);
   if (entry && entry.sandoll_id) out.sandoll = await sandollInfo(entry.sandoll_id);
   return out;
 }
@@ -285,11 +310,12 @@ async function cmdLocate(a) {
   const r = await locateAll(name);
   if (a.json) return console.log(JSON.stringify(r, null, 2));
   console.log(`# ${name}`);
-  console.log(`list    : ${r.in_list ? `${r.in_list.name} | ${r.in_list.maker} | ${r.in_list.license} | ${r.in_list.official_url}` : '-'}`);
+  console.log(`list    : ${r.in_list ? `${r.in_list.name} | maker: ${r.in_list.maker} | ${r.in_list.license} | webfont: ${webfontStatus(r.in_list)} | ${r.in_list.official_url}` : '-'}`);
+  if (r.in_list && r.in_list.webfont_css_url) console.log(`official: ${r.in_list.webfont_css_url}`);
   console.log(`google  : ${r.google ? r.google.page : '-'}`);
   console.log(`noonnu  : ${r.noonnu ? `${r.noonnu.page} (${r.noonnu.name}${r.noonnu.css ? ', css' : ', no css'})` : '-'}`);
   console.log(`sandoll : ${r.sandoll ? `${r.sandoll.page} (${r.sandoll.title}; Sandoll offers download only, no webfont CSS)` : (r.in_list && r.in_list.sandoll_id ? 'page not reachable' : '-')}`);
-  if (r.verdict) console.log(`webfont : ${r.verdict.verdict === 'no' ? 'NOT ALLOWED as a webfont' : 'conditional - check the maker terms'} (our audit)`);
+  if (r.verdict) console.log(`webfont : ${r.verdict.verdict === 'no' ? 'NOT ALLOWED as a webfont' : 'conditional - check the maker terms'} (our audit; ${verdictReason(r.verdict)})`);
 }
 
 // For an official stylesheet that defines several families, say which family to use.
@@ -312,24 +338,28 @@ async function resolveCss(name, from, weights) {
     if (g) return { ...g, entry, verdict: v };
     if (from === 'google') return null;
   }
-  const n = await noonnuCss(name);
+  const n = await noonnuByNames(name, entry);
   if (n && n.css) return { ...n, entry, verdict: v };
   if (entry && entry.sandoll_id) return { ...(await sandollInfo(entry.sandoll_id)), entry, verdict: v };
   return n ? { ...n, entry, verdict: v } : null;
 }
 
-// Allowed fonts from the bundled list that share the most style tags with a refused font.
+// Alternatives for a refused font: allowed fonts with a webfont that really exists (Google Fonts or an
+// official stylesheet), ranked by shared style tags, with bold/display fonts first when the refused
+// font is bold or display. Fonts with a look flag (outline or shadow letters, Google copy without Korean) are left out.
 function alternatives(name, n = 3) {
   const entry = findInList(name);
   const tags = (entry && entry.tags && entry.tags.length) ? entry.tags : tagsFromName(name);
   if (!tags.length) return { tags, list: [] };
+  const wantBold = tags.includes('display') || /강한|굵|black|bold|heavy|블랙|extra/i.test(name);
+  const isBold = (f) => (f.tags || []).includes('display') || /black|bold|heavy|extra|굵|블랙|헤비/i.test(`${f.name} ${f.google_family || ''}`);
   const list = fontList()
-    .filter((f) => f !== entry && (f.tags || []).length && !verdictOfEntry(f))
+    .filter((f) => f !== entry && (f.tags || []).length && !verdictOfEntry(f) && !f.look && (f.google_family || f.webfont_css_url))
     .map((f) => {
       const overlap = f.tags.filter((t) => tags.includes(t)).length;
       const extra = f.tags.filter((t) => !tags.includes(t)).length;
       const easy = (f.google_family ? 2 : 0) + (f.webfont_css_url ? 1 : 0) + (/^OFL/.test(f.license) ? 1 : 0);
-      return { f, s: overlap * 10 - extra * 3 + easy, overlap };
+      return { f, s: overlap * 10 - extra * 3 + easy + (wantBold ? (isBold(f) ? 8 : -4) : 0), overlap };
     })
     .filter((x) => x.overlap > 0)
     .sort((x, y) => y.s - x.s)
@@ -345,19 +375,21 @@ async function cmdCss(a) {
   // check the audit before any network request
   const v0 = verdict(name);
   if (v0 && v0.verdict === 'no' && !a.force) {
-    fail(`'${name}': our audit says this font may NOT be served as a webfont (maker: ${v0.maker}). Use it as an installed font for print or images, or pass --force only if you have the maker's permission.`);
+    fail(`'${name}': our audit says this font may NOT be served as a webfont. Use it as an installed font for print or images, or pass --force only if you have the maker's permission.`);
+    console.error(`Reason: ${verdictReason(v0)}. The audit file carries no further note; the maker's own page has the terms.`);
+    { const e = findInList(name); if (e) console.error(`List entry: ${e.name} | maker: ${e.maker} | license in list: ${e.license} (a general summary; the audit above is about webfont use) | ${e.official_url}`); }
     const alt = alternatives(name);
     if (alt.list.length) {
-      console.error(`Allowed fonts from the bundled list with a similar style (tags: ${alt.tags.join(', ')}). Look at them with contact before choosing:`);
-      for (const f of alt.list) console.error(`  ${f.name}${f.name_en || f.google_family ? ` (${f.name_en || f.google_family})` : ''} | ${f.license} | ${f.tags.join(',')} | ${f.official_url}`);
+      console.error(`Allowed fonts with a working webfont and a similar style (tags: ${alt.tags.join(', ')}). Look at them with contact before choosing:`);
+      for (const f of alt.list) console.error(`  ${f.name}${f.name_en || f.google_family ? ` (${f.name_en || f.google_family})` : ''} | maker: ${f.maker} | ${f.license} | webfont: ${webfontStatus(f)} | ${f.tags.join(',')} | ${f.official_url}`);
       console.error(`  fontkit contact "${alt.list.map((f) => f.name).join(', ')}" --text "<your text>"`);
     } else {
-      console.error('No style tags for this font. Find allowed fonts by style: fontkit search <style>  (sans, serif, handwriting, brush, cute, pixel, display, mono, rounded)');
+      console.error('No style tags for this font, or no allowed font with a working webfont shares them. Find allowed fonts by style: fontkit search <style>  (sans, serif, handwriting, brush, cute, pixel, display, mono, rounded)');
     }
     return;
   }
   const r = await resolveCss(name, a.from, weights);
-  if (!r) return fail(`'${name}' not found on Google Fonts or noonnu`);
+  if (!r) return fail(`font not found: '${name}' is not in the bundled list, Google Fonts or noonnu. Try: fontkit search <word>`);
   if (r.source === 'official' && !r.family) r.family = await officialFamily(r.entry, name);
   if (a.json) { const { entry, ...rest } = r; return console.log(JSON.stringify(rest, null, 2)); }
   if (!r.css) {
@@ -367,6 +399,7 @@ async function cmdCss(a) {
   }
   if (r.verdict && r.verdict.verdict === 'conditional') console.log(`/* WARNING: conditional webfont license - check the maker's terms (${r.verdict.maker}) */`);
   console.log(`/* source: ${r.source} ${r.page} */`);
+  if (r.entry) console.log(`/* font: ${r.entry.name} | maker: ${r.entry.maker} */`);
   if (weights && r.source !== 'google') console.log('/* note: --weights applies to Google Fonts only; this CSS carries the weights its source offers */');
   if (r.dropped && r.dropped.length) console.log(`/* note: Google Fonts does not offer weight ${r.dropped.join(', ')} for ${r.family}; ${r.weights ? 'printed ' + r.weights.join(', ') : 'printed the default weight'} */`);
   if (/@import/.test(r.css)) console.log('/* @import must be the first rule of the stylesheet, or the browser ignores it */');
@@ -379,15 +412,23 @@ async function cmdCss(a) {
 }
 
 // ---------- rendering ----------
+// Finds Playwright in: this skill folder or any folder above it (repo root), the current folder or any
+// folder above it, or the global npm root.
 function loadPlaywright() {
-  const { createRequire } = require('module');
-  const tries = [require, createRequire(path.join(process.cwd(), 'noop.js'))];
-  for (const rq of tries) for (const t of ['playwright', 'playwright-core']) { try { return rq(t); } catch (_) {} }
-  try {
-    const g = require('child_process').execSync('npm root -g', { encoding: 'utf8' }).trim();
-    return require(path.join(g, 'playwright'));
-  } catch (_) {}
-  console.error(`ERROR: playwright not found. Install it once:\n  ${PLAYWRIGHT_INSTALL}`);
+  const dirs = [];
+  for (const start of [SKILL_DIR, process.cwd()]) {
+    let d = path.resolve(start);
+    for (;;) { if (!dirs.includes(d)) dirs.push(d); const up = path.dirname(d); if (up === d) break; d = up; }
+  }
+  try { dirs.push(require('child_process').execSync('npm root -g', { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }).trim()); } catch (_) {}
+  for (const d of dirs) {
+    for (const t of ['playwright', 'playwright-core']) {
+      for (const p of [path.join(d, 'node_modules', t), path.join(d, t)]) {
+        if (fs.existsSync(path.join(p, 'package.json'))) { try { return require(p); } catch (_) {} }
+      }
+    }
+  }
+  console.error(`ERROR: playwright not found (looked in node_modules of the skill folder, its parents, the current folder and its parents, and the global npm root). Install it once:\n  ${PLAYWRIGHT_INSTALL}`);
   process.exit(3);
 }
 
@@ -463,6 +504,24 @@ async function render(fonts, text, size, out) {
   } finally { await browser.close(); }
 }
 
+// A stylesheet such as Pretendard's lists local('Pretendard Black') before its CDN files. A copy installed on
+// this PC then wins, Chromium does not call it a custom font, and the check wrongly says "did not load".
+// So the stylesheet is fetched here, local() sources are dropped, relative URLs made absolute, and it is inlined.
+async function inlineSheets(css) {
+  const out = [];
+  for (const m of css.matchAll(/@import\s+(?:url\(\s*)?['"]?([^'")\s;]+)['"]?\s*\)?\s*;/g)) {
+    const url = m[1];
+    if (/fonts\.googleapis\.com/.test(url)) { out.push(m[0]); continue; }
+    const r = await get(url.startsWith('//') ? 'https:' + url : url);
+    if (r.status !== 200) { out.push(m[0]); continue; }
+    const base = r.url;
+    out.push(r.text
+      .replace(/local\([^)]*\)\s*,?\s*/g, '')
+      .replace(/url\(\s*(['"]?)(?!data:|https?:|\/\/)([^'")]+)\1\s*\)/g, (_, q, u) => `url("${new URL(u, base).href}")`));
+  }
+  return out.join('\n') + '\n' + css.replace(/@import[^;]+;/g, '');
+}
+
 async function cssForRender(name) {
   const r = await resolveCss(name);
   if (!r || !r.css) return null;
@@ -474,7 +533,7 @@ async function cssForRender(name) {
     if (m) family = pickFamily(familiesFromCss((await get(m[1])).text), name, r.entry);
   }
   if (!family) return null;
-  return { name, family, css, style: r.style, source: r.source, verdict: r.verdict };
+  return { name, family, css: await inlineSheets(css), style: r.style, source: r.source, verdict: r.verdict, entry: r.entry };
 }
 
 async function cmdSample(a) { return cmdContact({ ...a, _: ['contact', a._.slice(1).join(' ')] }, true); }
@@ -490,26 +549,51 @@ async function cmdContact(a, single) {
   const fonts = [];
   for (const n of names) {
     const f = await cssForRender(n);
-    if (!f) { console.error(`skip: '${n}' has no webfont CSS`); continue; }
+    if (!f) {
+      console.error(findInList(n) ? `skip: '${n}' is in the list but has no webfont CSS (download only)` : `skip: font not found: '${n}' is not in the bundled list. Try: fontkit search <word>`);
+      continue;
+    }
     if (f.verdict && f.verdict.verdict === 'no') console.error(`note: '${n}' may not be served as a webfont - rendering locally for a look only`);
     fonts.push(f);
   }
   if (!fonts.length) return fail('nothing to render');
   const notes = await render(fonts, text, size, out);
   console.log(`saved ${out}`);
-  fonts.forEach((f, i) => console.log(`  ${f.name} (font-family: ${f.family}, ${f.source})${notes[i] ? '  <- ' + notes[i] : ''}`));
+  fonts.forEach((f, i) => console.log(`  ${f.name}${f.entry ? ` [maker: ${f.entry.maker}]` : ''} (font-family: ${f.family}, ${f.source})${notes[i] ? '  <- ' + notes[i] : ''}`));
+}
+
+// Read an official page that is drawn by JavaScript: open it in Chromium and print its visible text.
+async function cmdPage(a) {
+  const url = a._[1];
+  if (!/^https?:\/\//i.test(url || '')) return fail('page needs a full URL, e.g. fontkit page https://example.com/font');
+  const { chromium } = loadPlaywright();
+  const browser = await chromium.launch();
+  try {
+    const page = await browser.newPage();
+    await page.goto(url, { waitUntil: 'networkidle', timeout: TIMEOUT_MS }).catch(() => {});
+    await page.waitForTimeout(1000);
+    const text = await page.evaluate(() => document.body ? document.body.innerText : '');
+    const max = Number(a.max || 20000);
+    console.log(`# ${await page.title()}
+# ${page.url()}
+`);
+    console.log(text.length > max ? text.slice(0, max) + `
+... (cut at ${max} characters; add --max N)` : text);
+  } finally { await browser.close(); }
 }
 
 function usage() {
   console.log(`fontkit - free font finder (bundled web-researched list + live lookup on Google Fonts, noonnu, Sandoll Cloud)
 
-  fontkit search <words> [--all|--limit N]    search the bundled list by name, English name or style tag
+  fontkit search <words> [--all|--limit N] [--webfont]    search the bundled list by name, English name or style tag
+                                              (--webfont hides fonts our audit marks not-allowed as webfont)
                                               (sans, serif, handwriting, brush, cute, pixel, display, mono, rounded,
                                                or Korean: 고딕, 명조, 손글씨, 붓, 귀여운, 도트, 제목, 코딩, 둥근)
-  fontkit locate <name>                       where the font is available
+  fontkit locate <name>                       (Korean or English name) where the font is available
   fontkit css <name> [--from google|noonnu] [--weights 400,700]
                                               webfont CSS (refuses fonts our audit marks not-for-webfont and lists
                                               allowed alternatives; --weights is for Google Fonts)
+  fontkit page <url> [--max N]                print the visible text of a page drawn by JavaScript (needs Playwright)
   fontkit sample <name> [--text T] [--size N] [--out p.png]
   fontkit contact <a,b,c> [--text T] [--size N] [--out p.png]
   add --json for machine-readable output. Relative --out paths are relative to the current folder.
@@ -525,6 +609,7 @@ function usage() {
       case 'css': return await cmdCss(a);
       case 'sample': return await cmdSample(a);
       case 'contact': return await cmdContact(a);
+      case 'page': return await cmdPage(a);
       default: return usage();
     }
   } catch (e) { fail(e.message || String(e)); }
